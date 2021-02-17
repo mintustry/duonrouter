@@ -1,12 +1,13 @@
 name: router
-description: router
+description: tiny router :/
 type: Router
+itemCapacity: 1000000
 speed: 1
-health: 650
+health: 694200000000000
 size: 16
 squareSprite: false
 requirements: [
-  copper/1
+  copper/10000000000000000000000000
 ]
 category: distribution
 research: router
