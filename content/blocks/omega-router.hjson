@@ -7,7 +7,7 @@ health: 694200000000000
 size: 16
 squareSprite: false
 requirements: [
-  copper/10000000000000000000000000
+  copper/100000
 ]
 category: distribution
 research: router
