@@ -8,15 +8,25 @@ range: 500
 ammoUseEffect: padlaunch
 inaccuracy: 0
 rotatespeed: 6
-ammo: {
+ammoTypes: {
   copper: {
-    speed: 15
-    damage: 100e+500
-    bulletWidth: 7
-    bulletHeight: 9
-    shootEffect: healBlock
-    smokeEffect: hitFuse
-    ammoMultiplier: 5
+   type: LaserBulletType
+    length: 220
+    damage: 330
+    width: 60
+    lifetime: 60
+    lightningSpacing: 40
+    lightningLength: 12
+    lightningDelay: 1.0
+    lightningLengthRand: 21
+    lightningDamage: 65
+    lightningAngleRand: 30
+    largeHit: true
+    shootEffect: greenLaserCharge
+    collidesTeam: true
+    sideAngle: 15
+    sideWidth: 0
+    sideLength: 0
   }
 }
 requirements: [
