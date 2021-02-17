@@ -1,0 +1,26 @@
+type: DoubleTurret
+name: BAD TOM
+description: DOO WANA YU WANTY BED TOM HHAHAHAHAHHAHAHAJAHDKASDJHASJAKJGCBLCDMHCJ,NDKJJM,CN SMXNCB ,SKU AUSHOCLH.KJDN'QWIJDA'/SPDOKS CK,WE JNJN ME V6
+health: 100e+1000
+size: 2
+reload: 0.5
+range: 500
+ammoUseEffect: padlaunch
+inaccuracy: 0
+rotatespeed: 6
+ammo: {
+  epic-compound: {
+    speed: 15
+    damage: 100e+500
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: healBlock
+    smokeEffect: hitFuse
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  copper/69420
+]
+category: turret
+research: duo
