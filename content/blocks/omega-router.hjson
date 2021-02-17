@@ -6,13 +6,6 @@ instantTransfer: true
 speed: 1
 health: 694200000000000
 size: 16
-powerProduction: -100E+1000
-timerUse: 10
-reload: 500
-range: 1000
-healPercent: 100
-useTime: 1000
-squareSprite: false
 requirements: [
   copper/100000
 ]
