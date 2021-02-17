@@ -3,7 +3,7 @@ description: router
 type: Router
 speed: 1
 health: 650
-size: 17
+size: 16
 squareSprite: false
 requirements: [
   copper/1
