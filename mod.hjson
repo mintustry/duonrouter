@@ -1,0 +1,5 @@
+name: "duo n router"
+displayName: "duo" //preference
+description: "router"
+version: "1"
+minGameVersion: "112"
