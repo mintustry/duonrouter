@@ -1,7 +1,8 @@
 name: router
 description: tiny router :/
 type: Router
-itemCapacity: 1000000
+floating: true
+instantTransfer: true
 speed: 1
 health: 694200000000000
 size: 16
