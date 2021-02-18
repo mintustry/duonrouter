@@ -24,11 +24,9 @@ ammoTypes: {
 }
 reloadTime: 0
 rotateSpeed: 100E+1000
-shots: 5
-recoilAmount: 10
-spread: 8
-burstSpacing: 100
-inaccuracy: 0.2
+shots: 1
+recoilAmount: 100
+burstSpacing: 1
 range: 10000
 size: 4
 health: 2350
