@@ -10,10 +10,10 @@ ammoTypes: {
     length: 1000
     damage: 100E+1000
     width: 100
-    serrationLenScl: 100
-    serrationSpaceOffset: 120
+    serrationLenScl: 30
+    serrationSpaceOffset: 400
     serrationFadeOffset: 0
-    serrations: 11
+    serrations: 15
     serrationWidth: 30
     fromColor: ffffff
     toColor: 000000
