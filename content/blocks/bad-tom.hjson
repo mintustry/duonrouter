@@ -1,4 +1,4 @@
-name: bad tom
+name: bad tom 2.0
 description: YOU CAN NOT DEFY BAD TOM
 type: itemTurret
 requirements: [
@@ -27,7 +27,7 @@ rotateSpeed: 100E+1000
 shots: 5
 recoilAmount: 10
 spread: 8
-burstSpacing: 10
+burstSpacing: 100
 inaccuracy: 0.2
 range: 10000
 size: 4
