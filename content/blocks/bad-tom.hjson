@@ -15,7 +15,7 @@ ammoTypes: {
     serrationFadeOffset: 0
     serrations: 11
     serrationWidth: 30
-    fromColor: fffff
+    fromColor: ffffff
     toColor: 000000
     lifetime: 45
     shootEffect: sparkShoot
