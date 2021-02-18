@@ -25,6 +25,7 @@ ammoTypes: {
 reloadTime: 0
 rotateSpeed: 100E+1000
 shots: 5
+recoilAmount: 10
 spread: 8
 burstSpacing: 10
 inaccuracy: 0.2
