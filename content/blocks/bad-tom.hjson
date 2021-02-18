@@ -7,12 +7,12 @@ copper/0
 ammoTypes: {
   copper: {
    type: ShrapnelBulletType
-    length: 1000
+    length: 10000
     damage: 100E+1000
     width: 100
     serrationLenScl: 10
     serrationSpaceOffset: 10
-    serrationFadeOffset: 20
+    serrationFadeOffset: 0
     serrations: 15
     serrationWidth: 30
     fromColor: ffffff
