@@ -9,14 +9,14 @@ ammoTypes: {
    type: ShrapnelBulletType
     length: 1000
     damage: 100E+1000
-    width: 10
+    width: 100
     serrationLenScl: 100
-    serrationSpaceOffset: 60
+    serrationSpaceOffset: 120
     serrationFadeOffset: 0
     serrations: 11
-    serrationWidth: 6
-    fromColor: 000000
-    toColor: ffffff
+    serrationWidth: 30
+    fromColor: fffff
+    toColor: 000000
     lifetime: 45
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
