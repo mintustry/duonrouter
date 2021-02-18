@@ -5,7 +5,7 @@ requirements: [
 copper/0
 ] 
 ammoTypes: {
-  plastic: {
+  copper: {
    type: ShrapnelBulletType
     length: 220
     damage: 650
