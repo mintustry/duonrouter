@@ -1,36 +1,33 @@
-type: LaserTurret
-name: BAD TOM
-description: DOO WANA YU WANTY BED TOM HHAHAHAHAHHAHAHAJAHDKASDJHASJAKJGCBLCDMHCJ,NDKJJM,CN SMXNCB ,SKU AUSHOCLH.KJDN'QWIJDA'/SPDOKS CK,WE JNJN ME V6
-health: 100e+100
-size: 2
-reload: 0.5
-range: 500
-ammoUseEffect: padlaunch
-inaccuracy: 0
-rotatespeed: 6
+name: bad tom
+description: E
+type: itemTurret
+requirements: [
+copper/0
+] 
 ammoTypes: {
-  copper: {
-   type: LaserBulletType
+  plastic: {
+   type: ShrapnelBulletType
     length: 220
-    damage: 330
-    width: 60
-    lifetime: 60
-    lightningSpacing: 40
-    lightningLength: 12
-    lightningDelay: 1.0
-    lightningLengthRand: 21
-    lightningDamage: 65
-    lightningAngleRand: 30
-    largeHit: true
-    shootEffect: greenLaserCharge
-    collidesTeam: true
-    sideAngle: 15
-    sideWidth: 0
-    sideLength: 0
+    damage: 650
+    width: 35
+    serrationLenScl: 7
+    serrationSpaceOffset: 60
+    serrationFadeOffset: 0
+    serrations: 11
+    serrationWidth: 6
+    fromColor: d5b2ed
+    toColor: a17dcd
+    lifetime: 45
+    shootEffect: sparkShoot
+    smokeEffect: sparkShoot
   }
 }
-requirements: [
-  copper/69420
-]
-category: turret
+reloadTime: 0
+shots: 5
+burstSpacing: 3
+inaccuracy: 0.2
+range: 230
+size: 4
+health: 2350
 research: duo
+category: turret
