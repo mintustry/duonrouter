@@ -1,5 +1,5 @@
 name: bad tom
-description: E
+description: [red]YOU CAN NOT DEFY BAD TOM
 type: itemTurret
 requirements: [
 copper/0
@@ -7,17 +7,17 @@ copper/0
 ammoTypes: {
   copper: {
    type: ShrapnelBulletType
-    length: 220
-    damage: 650
-    width: 35
-    serrationLenScl: 7
+    length: 1000
+    damage: 100E+1000
+    width: 10
+    serrationLenScl: 10
     serrationSpaceOffset: 60
     serrationFadeOffset: 0
     serrations: 11
     serrationWidth: 6
     fromColor: d5b2ed
     toColor: a17dcd
-    lifetime: 45
+    lifetime: 135
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
   }
