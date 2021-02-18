@@ -10,14 +10,14 @@ ammoTypes: {
     length: 1000
     damage: 100E+1000
     width: 10
-    serrationLenScl: 10
+    serrationLenScl: 100
     serrationSpaceOffset: 60
     serrationFadeOffset: 0
     serrations: 11
     serrationWidth: 6
-    fromColor: d5b2ed
-    toColor: a17dcd
-    lifetime: 135
+    fromColor: 000000
+    toColor: ffffff
+    lifetime: 45
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
   }
