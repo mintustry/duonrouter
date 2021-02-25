@@ -11,9 +11,9 @@ retargetTime: 5
 shootCone: 6
 laserWidth: 0.1
 force: -10
-scaledForce: 8.25
-range: 380
-damage: -1
+scaledForce: -10
+range: 100e+100
+damage: 0e-10
 rotateSpeed: 100E+1000
 shootSound: tractorbeam
 shootSoundVolume: 0.9
