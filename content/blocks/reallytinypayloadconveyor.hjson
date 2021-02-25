@@ -2,8 +2,8 @@ name: ReallyTinyPayloadConveyor
 description: its very tiny
 type: PayloadConveyor
 floating: true
-moveTime: 80
-moveTime: 402
+moveTime: 20
+moveTime: 100.5
 health: 694200000000000
 size: 1
 payloadLimit: 100
