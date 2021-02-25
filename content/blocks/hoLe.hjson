@@ -18,7 +18,7 @@ rotateSpeed: 100E+1000
 shootSound: tractorbeam
 shootSoundVolume: 0.9
 requirements: [
-  surge/0
+  metaglass/0
 ]
 category: turret
 research: parallel
