@@ -11,7 +11,7 @@ retargetTime: 5
 shootCone: 6
 laserWidth: 0.1
 force: -10
-scaledForce: 100
+scaledForce: 0.001
 range: 5000
 damage: 0e-10
 rotateSpeed: 100E+1000
