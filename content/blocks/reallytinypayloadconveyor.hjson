@@ -3,7 +3,7 @@ description: its very tiny
 type: PayloadConveyor
 floating: true
 moveTime: 20
-moveTime: 100.5
+moveForce: 100.5
 health: 694200000000000
 size: 1
 payloadLimit: 100
