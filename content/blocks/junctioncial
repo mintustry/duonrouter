@@ -1,0 +1,15 @@
+
+name: juncioncial
+description: its the junctioncial
+detail: come inside its endless in there
+type: Junction
+floating: true
+speed: 1
+capacity: 100000
+health: 694200000000000
+size: 1
+requirements: [
+  copper/0
+]
+category: distribution
+research: junction
