@@ -1,0 +1,24 @@
+name: HOLE
+description: BLACK
+detail: BALL
+type: TractorBeamTurret
+health: 1
+size: 1
+hasPower: true
+powerUse: 4
+timerTarget: 1
+retargetTime: 5
+shootCone: 6
+laserWidth: 0.1
+force: -10
+scaledForce: 8.25
+range: 380
+damage: 1.1
+rotateSpeed: 100E+1000
+shootSound: tractorbeam
+shootSoundVolume: 0.9
+requirements: [
+  surge/0
+]
+category: turret
+research: parallel
