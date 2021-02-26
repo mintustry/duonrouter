@@ -5,7 +5,7 @@ health: 950
 size: 1
 insulated: true
 absorbLasers: true
-chanceDeflect: 8.5
+chanceDeflect: 100
 lightningChance: 100
 flashHit: true
 requirements: [
