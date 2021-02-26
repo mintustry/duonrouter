@@ -6,12 +6,9 @@ health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-hasLiquids: false
 hasItems: true
-craftTime: 0
 updateEffect: unitSpawn
 consumes: {
-  power: 0
     items:{
      items:[
       copper/0
