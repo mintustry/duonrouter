@@ -15,7 +15,7 @@ consumes: {
 phaseUseTime: 350
 phaseRadiusBoost: 80
 phaseShieldBoost: 400
-radius: 107.1
+radius: 10000
 shieldHealth: 700
 cooldownNormal: 175
 cooldownLiquid: 1.5
