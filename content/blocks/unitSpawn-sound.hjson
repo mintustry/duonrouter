@@ -1,4 +1,4 @@
-type: PowerGenerator
+type: SingleTypeGenerator
 name: unitSpawn
 generationType: basePowerGeneration
 description: sound
