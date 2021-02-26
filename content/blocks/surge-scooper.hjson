@@ -23,4 +23,4 @@ requirements: [
 ]
 category: crafting
 research: copper
-outputItem: surge/1000000
+outputItem: surge-alloy/1000000
