@@ -14,7 +14,7 @@ hitSize: 12
 engineSize: 5
 armor: 2
 health: 100e+100
-engineOffset: 18
+engineOffset: 13
 rotateSpeed: 100e+1000
 targetAir: true
 payloadCapacity: 100e+1000
