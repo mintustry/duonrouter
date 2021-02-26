@@ -3,7 +3,7 @@ name: Copperbombarder
 description: h
 health: 1
 liquidCapacity: 0
-size: 1
+size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
