@@ -1,5 +1,5 @@
 
-type: armoredConveyor
+type: StackConveyor
 name: plastron
 description: plast for days
 health: 1
