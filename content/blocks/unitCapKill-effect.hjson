@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: unitSpawn effect
+name: unitCapKill effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: unitSpawn
-explodeEffect: unitSpawn
+generateEffect: unitCapKill
+explodeEffect: unitCapKill
 hasItems: true
 itemDuration: 100
 consumes:{
