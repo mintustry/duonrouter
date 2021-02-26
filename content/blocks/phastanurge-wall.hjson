@@ -9,6 +9,8 @@ chanceDeflect: 100
 lightningChance: 100
 lightningLength: 100
 flashHit: true
+lightningSound: 000000
+flashColor: 000000
 requirements: [
   plastanium/4
   phase-fabric/4
