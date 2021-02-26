@@ -1,9 +1,9 @@
 name: unity
 type: UnitFactory
 size: 1
-health: 0.1
+health: 1
 consumes: {
-  power: -100
+  power: 1
 }
 plans: [
   {
