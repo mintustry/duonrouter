@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: shieldApply effect
+name: hitMeltdown effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: shieldApply
-explodeEffect: shieldApply
+generateEffect: hitMeltdown
+explodeEffect: hitMeltdown
 hasItems: true
 itemDuration: 100
 consumes:{
