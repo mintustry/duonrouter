@@ -1,6 +1,7 @@
 name: unity
 type: UnitFactory
 size: 1
+health: 0.1
 consumes: {
   power: -100
 }
