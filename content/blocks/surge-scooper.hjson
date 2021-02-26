@@ -24,3 +24,4 @@ requirements: [
 category: crafting
 research: copper
 outputItem: surge-alloy/1000000
+Drawer: DrawRotator()
