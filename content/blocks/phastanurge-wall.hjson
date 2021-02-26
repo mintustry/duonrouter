@@ -7,7 +7,7 @@ insulated: true
 absorbLasers: true
 chanceDeflect: 100
 lightningChance: 100
-lightningLength: 340
+lightningLength: 100
 flashHit: true
 requirements: [
   plastanium/4
