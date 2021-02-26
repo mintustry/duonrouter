@@ -1,5 +1,6 @@
 type: PowerGenerator
 name: unitSpawn
+generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
