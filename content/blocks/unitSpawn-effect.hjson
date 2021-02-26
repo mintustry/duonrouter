@@ -6,7 +6,7 @@ health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: unitSpawnunit
+generateEffect: unitSpawn
 explodeEffect: unitSpawn
 hasItems: true
 itemDuration: 100
