@@ -1,0 +1,20 @@
+name: unity
+type: UnitFactory
+size: 1
+consumes: {
+  power: -100
+}
+plans: [
+  {
+    unit: N
+    requirements: [
+      silicon/0
+    ] 
+    time: 600
+  }
+]
+requirements: [
+  copper/0
+]
+category: units
+research: air-factory
