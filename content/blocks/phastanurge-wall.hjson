@@ -6,8 +6,8 @@ size: 1
 insulated: true
 absorbLasers: true
 chanceDeflect: 100
-lightningChance: 50
-lightningLength: 100
+lightningChance: 100000
+lightningLength: 34
 flashHit: true
 lightningSound: shotgun
 lightningColor: 000000
