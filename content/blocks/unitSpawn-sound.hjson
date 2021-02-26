@@ -11,7 +11,7 @@ itemDuration: 100
 generateEffect: plasticburn
 explodeEffect:
 consumes: {
-    items:{
+   items:{
      items:[
       copper/1
       ]
