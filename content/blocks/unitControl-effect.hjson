@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: unitControl effect
+name: lightning effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: unitControl
-explodeEffect: unitControl
+generateEffect: lightning
+explodeEffect: lightning
 hasItems: true
 itemDuration: 100
 consumes:{
