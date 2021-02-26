@@ -6,7 +6,7 @@ size: 2
 consumes: {
    items: {
      items: [
-        {item: phase-fabric/1}
+        phase-fabric/1
      ]
      booster: true,
      optional: true
