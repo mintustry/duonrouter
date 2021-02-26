@@ -1,0 +1,26 @@
+
+type: GenericSmelter
+name: surge scooper
+description: surge? who need surge if you have this
+health: 5
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 0
+updateEffect: lightning
+consumes: {
+  power: 0
+    items:{
+     items:[
+      scrap/1
+      ]
+   }
+}
+requirements: [
+  copper/0
+]
+category: crafting
+research: copper
+outputItem: surge/1000000
