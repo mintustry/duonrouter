@@ -17,7 +17,7 @@ phaseRadiusBoost: 80
 phaseShieldBoost: 400
 radius: 10000
 shieldHealth: 700
-cooldownNormal: 0
+cooldownNormal: 100e+1000
 cooldownLiquid: 1.5
 cooldownBrokenBase: 3.5
 basePowerDraw: 0.2
