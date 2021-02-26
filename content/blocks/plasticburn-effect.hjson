@@ -8,8 +8,6 @@ size: 2
 hasPower: true
 hasItems: true
 itemDuration: 100
-generateEffect: plasticburn
-explodeEffect:
 consumes:{
    items:{
      items:[
@@ -17,6 +15,8 @@ consumes:{
      ]
    }
 }
+generateEffect: plasticburn
+explodeEffect: plasticburn
 requirements: [
   copper/0
 ]
