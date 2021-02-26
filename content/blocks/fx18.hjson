@@ -1,0 +1,25 @@
+type: SingleTypeGenerator
+name: shieldWave effect
+generationType: basePowerGeneration
+description: sound
+health: 1
+liquidCapacity: 0
+size: 2
+hasPower: true
+generateEffect: shieldWave
+explodeEffect: shieldWave
+hasItems: true
+itemDuration: 100
+consumes:{
+   items:{
+     items:[
+      copper/1
+     ]
+   }
+}
+requirements: [
+  copper/0
+]
+category: logic
+research: copper
+powerProduction: 1
