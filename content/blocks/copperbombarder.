@@ -1,0 +1,25 @@
+type: GenericSmelter
+name: Copperbombarder
+description: h
+health: 1
+liquidCapacity: 0
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 0
+updateEffect: plasticburn
+consumes: {
+  power: 0
+    items:{
+     items:[
+      copper/0
+      ]
+   }
+}
+requirements: [
+  copper/0
+]
+category: crafting
+research: graphenite-forge
+outputItem: copper/10000
