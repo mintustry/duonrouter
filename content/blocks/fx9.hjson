@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: unitLandSmall effect
+name: landShock effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: unitLandSmall
-explodeEffect: unitLandSmall
+generateEffect: landShock
+explodeEffect: landShock
 hasItems: true
 itemDuration: 100
 consumes:{
