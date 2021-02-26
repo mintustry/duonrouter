@@ -6,11 +6,12 @@ size: 1
 insulated: true
 absorbLasers: true
 chanceDeflect: 100
-lightningChance: 100
+lightningChance: 50
 lightningLength: 100
 flashHit: true
 lightningSound: 000000
 flashColor: 000000
+deflectSound: shotgun
 requirements: [
   plastanium/4
   phase-fabric/4
