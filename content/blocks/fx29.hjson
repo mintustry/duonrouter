@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: hitMeltdown effect
+name: hitMeltHeal effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: hitMeltdown
-explodeEffect: hitMeltdown
+generateEffect: hitMeltHeal
+explodeEffect: hitMeltHeal
 hasItems: true
 itemDuration: 100
 consumes:{
