@@ -1,0 +1,24 @@
+name: shielde
+description: its me the that thing
+detail: scrapyard inc 2-012
+type: PointDefenseTurret
+health: 1
+size: 1
+hasPower: true
+powerUse: 4
+timerTarget: 0
+retargetTime: 0
+shootCone: 6
+laserWidth: 0.1
+force: -10
+scaledForce: 0.0025
+range: 5000
+bulletDamage: 100e+1000
+rotateSpeed: 100E+1000
+shootSound: pew
+shootSoundVolume: 0.6
+requirements: [
+  metaglass/0
+]
+category: turret
+research: copper
