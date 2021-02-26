@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: hitMeltHeal effect
+name: instTrail effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: hitMeltHeal
-explodeEffect: hitMeltHeal
+generateEffect: instTrail
+explodeEffect: instTrail
 hasItems: true
 itemDuration: 100
 consumes:{
