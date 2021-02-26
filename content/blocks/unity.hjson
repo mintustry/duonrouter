@@ -48,6 +48,203 @@ plans: [
     ] 
     time: 60
   }
+      {
+    unit: nova
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: pulsar
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: quasar
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: vela
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: corvus
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+      {
+    unit: crawler
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: atrax
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: spiroct
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: arkyid
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: toxopid
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+     {
+    unit: flare
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: horizon
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: zenith
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: antumbra
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: eclipse
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+      {
+    unit: mono
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: poly
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: mega
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: quad
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: oct
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+      {
+    unit: risso
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: minke
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: bryde
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: sei
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: omura
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+      {
+    unit: alpha
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: beta
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: gamma
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+
 ]
 requirements: [
   copper/0
