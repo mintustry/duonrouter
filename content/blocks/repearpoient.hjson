@@ -18,5 +18,5 @@ shootSoundVolume: 100
 requirements: [
   metaglass/0
 ]
-category: unit
+category: units
 research: copper
