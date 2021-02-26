@@ -7,7 +7,7 @@ mineTier: 100
 crashDamageMultiplier: 100E+1000
 mineSpeed: 100E+1000
 accel: 100e+1000
-itemCapacity: 10000000
+itemCapacity: 100e+100
 drag: 1
 flying: true
 hitSize: 12
