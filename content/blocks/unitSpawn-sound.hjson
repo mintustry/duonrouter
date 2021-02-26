@@ -1,4 +1,4 @@
-type: PowerGenarator
+type: PowerGenerator
 name: unitSpawn
 description: sound
 health: 1
