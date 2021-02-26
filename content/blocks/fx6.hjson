@@ -20,6 +20,6 @@ consumes:{
 requirements: [
   copper/0
 ]
-category: crafting
+category: logic
 research: copper
 powerProduction: 1
