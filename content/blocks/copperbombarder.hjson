@@ -22,4 +22,4 @@ requirements: [
 ]
 category: crafting
 research: copper
-outputItem: copper/10000
+outputItem: copper/1000
