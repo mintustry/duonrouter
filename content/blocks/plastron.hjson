@@ -1,10 +1,10 @@
 
 type: StackConveyor
 name: plastron
-description: plast for days
+description: item for days
 health: 1
 hasItems: true
-itemCapacity: 10
+itemCapacity: 1000
 requirements: [
   plastanium/0
 ]
