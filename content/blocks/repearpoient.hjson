@@ -9,7 +9,7 @@ hasPower: true
 powerUse: 4
 timerTarget: 0
 repairRadius: 10000
-repairSpeed: 100e+100
+repairSpeed: 100e+10
 range: 5000
 rotateSpeed: 100E+1000
 reloadTime: 0
