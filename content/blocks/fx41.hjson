@@ -1,14 +1,13 @@
-
 type: SingleTypeGenerator
-name: sapExplosion effect
+name: artilleryTrail effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: sapExplosion
-explodeEffect: sapExplosion
+generateEffect: artilleryTrail
+explodeEffect: artilleryTrail
 hasItems: true
 itemDuration: 100
 consumes:{
