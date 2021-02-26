@@ -35,7 +35,7 @@ plans: [
     time: 60
   }
     {
-    unit: secpter
+    unit: scepter
     requirements: [
       silicon/0
     ] 
