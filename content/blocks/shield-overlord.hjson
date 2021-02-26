@@ -3,6 +3,18 @@ description: wow screen field with shield
 type: ForceProjector
 health: 1
 size: 2
+consumes: {
+   items: {
+     items: [
+        {item: phase-fabric/1}
+     ]
+     booster: true,
+     optional: true
+    }
+}
+phaseUseTime: 350
+phaseRadiusBoost: 80
+phaseShieldBoost: 400
 radius: 107.1
 shieldHealth: 700
 cooldownNormal: 175
