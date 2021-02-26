@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: hitLiquid effect
+name: hitLaserBlast effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: hitLiquid
-explodeEffect: hitLiquid
+generateEffect: hitLaserBlast
+explodeEffect: hitLaserBlast
 hasItems: true
 itemDuration: 100
 consumes:{
