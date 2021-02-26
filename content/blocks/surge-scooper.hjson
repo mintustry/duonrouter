@@ -10,6 +10,7 @@ hasLiquids: false
 hasItems: true
 craftTime: 0
 updateEffect: lightning
+Drawer: DrawRotator
 consumes: {
   power: 0
     items:{
@@ -24,4 +25,3 @@ requirements: [
 category: crafting
 research: copper
 outputItem: surge-alloy/1000000
-Drawer: DrawRotator()
