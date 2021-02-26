@@ -1,0 +1,13 @@
+
+type: armoredConveyor
+name: plastron
+description: plast for days
+health: 1
+hasItems: true
+itemCapacity: 10
+requirements: [
+  plastanium/0
+]
+category: distribution
+speed: 100
+research: plastanium-conveyor
