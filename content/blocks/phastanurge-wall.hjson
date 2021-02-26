@@ -1,0 +1,17 @@
+name: Phastanurge wall
+description: wait what a phasta- *cough*, phastanurge wall
+type: Wall
+health: 950
+size: 1
+insulated: true
+absorbLasers: true
+chanceDeflect: 8.5
+lightningChance: 0.1
+flashHit: true
+requirements: [
+  plastanium/4
+  phase-fabric/4
+  metaglass/2
+]
+category: defense
+research: plastanium-wall
