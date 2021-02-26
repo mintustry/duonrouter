@@ -6,6 +6,8 @@ health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
+generateEffect: plasticburn
+explodeEffect: plasticburn
 hasItems: true
 itemDuration: 100
 consumes:{
@@ -15,8 +17,6 @@ consumes:{
      ]
    }
 }
-generateEffect: plasticburn
-explodeEffect: plasticburn
 requirements: [
   copper/0
 ]
