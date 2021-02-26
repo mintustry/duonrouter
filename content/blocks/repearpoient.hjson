@@ -8,7 +8,7 @@ size: 1
 hasPower: true
 powerUse: 4
 timerTarget: 0
-repairRadius: 100e+1000
+repairRadius: 10000
 repairSpeed: 100e+1000
 range: 5000
 bulletDamage: 100e+1000
