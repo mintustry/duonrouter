@@ -1,7 +1,7 @@
 name: Phastanurge wall
 description: wait what a phasta- *cough*, phastanurge wall
 type: Wall
-health: 950
+health: 95000
 size: 1
 insulated: true
 absorbLasers: true
@@ -9,7 +9,8 @@ chanceDeflect: 100
 lightningChance: 50
 lightningLength: 100
 flashHit: true
-lightningSound: 000000
+lightningSound: shotgun
+lightningColor: 000000
 flashColor: 000000
 deflectSound: shotgun
 requirements: [
