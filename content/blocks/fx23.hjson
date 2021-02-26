@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: hitFuse effect
+name: hitFlameSmall effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: hitFuse
-explodeEffect: hitFuse
+generateEffect: hitFlameSmall
+explodeEffect: hitFlameSmall
 hasItems: true
 itemDuration: 100
 consumes:{
