@@ -1,5 +1,5 @@
 type: SingleTypeGenerator
-name: unitSpawn
+name: plasticburn effect
 generationType: basePowerGeneration
 description: sound
 health: 1
@@ -10,7 +10,7 @@ hasItems: true
 itemDuration: 100
 generateEffect: plasticburn
 explodeEffect:
-consumes: {
+consumes:{
    items:{
      items:[
       copper/1
