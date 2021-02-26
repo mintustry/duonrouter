@@ -15,6 +15,7 @@ scaledForce: 0.0025
 range: 5000
 bulletDamage: 100e+1000
 rotateSpeed: 100E+1000
+reloadTime: 0
 shootSound: pew
 shootSoundVolume: 0.6
 requirements: [
