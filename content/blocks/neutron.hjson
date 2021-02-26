@@ -1,0 +1,12 @@
+type: StackConveyor
+name: neutron
+description: oh god what is this conveyor
+health: 1
+hasItems: true
+itemCapacity: 1000000000
+requirements: [
+  plastanium/0
+]
+category: distribution
+speed: 100e+1000
+research: plastanium-conveyor
