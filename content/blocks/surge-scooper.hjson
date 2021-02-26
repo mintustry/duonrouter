@@ -4,13 +4,12 @@ name: surge scooper
 description: surge? who need surge if you have this
 health: 5
 liquidCapacity: 0
-size: 2
+size: 1
 hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 0
 updateEffect: lightning
-Drawer: DrawRotator
 consumes: {
   power: 0
     items:{
