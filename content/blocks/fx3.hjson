@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: unitWreck effect
+name: rocketSmoke effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: unitWreck
-explodeEffect: unitWreck
+generateEffect: rocketSmoke
+explodeEffect: rocketSmoke
 hasItems: true
 itemDuration: 100
 consumes:{
