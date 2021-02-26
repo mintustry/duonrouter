@@ -2,17 +2,17 @@
 name: n
 description: heh dev mode to mod
 type: payload
-speed: 10
+speed: 5
 accel: 100e+1000
 drag: 1
 flying: true
 hitSize: 12
 engineSize: 3.2
 armor: 2
-health: 1
+health: 100e+100
 engineOffset: 13
 rotateSpeed: 100e+1000
 targetAir: true
 payloadCapacity: 100e+1000
 engineOffset: 7
-buildSpeed: 1.6
+buildSpeed: 100e+1000
