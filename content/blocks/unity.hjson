@@ -11,7 +11,42 @@ plans: [
     requirements: [
       silicon/0
     ] 
-    time: 600
+    time: 60
+  }
+    {
+    unit: dagger
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: mace
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: fortress
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: secpter
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
+    unit: reign
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
   }
 ]
 requirements: [
