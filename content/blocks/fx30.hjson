@@ -1,13 +1,13 @@
 type: SingleTypeGenerator
-name: hitMeltHeal effect
+name: instBomb effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: hitMeltHeal
-explodeEffect: hitMeltHeal
+generateEffect: instBomb
+explodeEffect: instBomb
 hasItems: true
 itemDuration: 100
 consumes:{
