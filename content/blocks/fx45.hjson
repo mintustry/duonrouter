@@ -1,14 +1,14 @@
 
 type: SingleTypeGenerator
-name: sapExplosion effect
+name: forceShrink effect
 generationType: basePowerGeneration
 description: sound
 health: 1
 liquidCapacity: 0
 size: 2
 hasPower: true
-generateEffect: sapExplosion
-explodeEffect: sapExplosion
+generateEffect: forceShrink
+explodeEffect: forceShrink
 hasItems: true
 itemDuration: 100
 consumes:{
