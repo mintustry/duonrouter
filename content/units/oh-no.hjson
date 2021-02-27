@@ -12,11 +12,11 @@ health: 23948239223984292
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
-UnitSpawnAbility: [
-  {
-    unit: oh-no
-    spawnX: 0
-    spawnY: 0
-    time: 60
+abilities: [
+  UnitSpawnAbility: {
+      unit: oh-no
+      spawnX: 0
+      spawnY: 0
+      time: 60
   }
 ]
