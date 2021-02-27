@@ -2,9 +2,9 @@
     //어빌리티
 const healColor = Color.valueOf("98ffa9");
 const healerColor = Color.valueOf("db401c");
-const spawnUnit = Vars.content.getByName(ContentType.unit, "arkyid");
-const spawnUnit2 = Vars.content.getByName(ContentType.unit, "reign");
-const spawnUnit3 = Vars.content.getByName(ContentType.unit, "corvus");
+const spawnUnit = Vars.content.getByName(ContentType.unit, "ohno");
+const spawnUnit2 = Vars.content.getByName(ContentType.unit, "ohno");
+const spawnUnit3 = Vars.content.getByName(ContentType.unit, "ohno");
 const unitSpawn1 = new UnitSpawnAbility(spawnUnit3, 15 * 60, 0, 0);
 const healField1 = new RepairFieldAbility(50, 2 * 60, 20 * 8);
 const ohnoEntity = prov(() => extend(AmmoDistributePayloadUnit, {}));
@@ -69,31 +69,3 @@ ohno.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 60, -18, 7));
 ohno.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, 18, -7));
 ohno.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, -18, -7));
 ohno.abilities.add(new UnitSpawnAbility(spawnUnit3, 10 * 60, 0, 0));
-/*
-//로그 확인
-    //어빌리티
-print("HealColor" + " : " + healColor);
-print("spawnUnit" + " : " + spawnUnit);
-print("spawnUnit2" + " : " + spawnUnit2);
-print("spawnUnit3" + " : " + spawnUnit3);
-print("UnitSpawn1" + " : " + UnitSpawn1);
-print("healField1" + " : " + healField1);
-print("healField1.healEffect" + " : " + healField1.healEffect);
-    //엔티티
-print("testunit4Entity" + " : " + testunit4Entity);
-print("testunit4Entity" + " : " + testunit4);
-    //탄환
-print("testFragBullet1" + " : " + testFragBullet1);
-print("testBullet1" + " : " + testBullet1);
-print("testBullet2" + " : " + testBullet2);
-    //무기
-print(testWeapon1);
-print(testWeapon2);
-print(testWeapon3);
-    //그래픽 효과
-print("mendSpawn" + " : " + mendSpawn);
-print("healIn" + " : " + healIn);
-    //유닛
-print("testunit4.abilities" + " : " + testunit4.abilities);
-print("testunit4.weapons" + " : " + testunit4.weapons);
-*/
