@@ -13,6 +13,8 @@ legPairOffset: 0
 legLengthScl: 1
 legSplashDamage: 0
 legSplashRange: 10
+hovering: true
+allowLegStep: true
 mineTier: 100
 mineSpeed: 100E+1000
 accel: 100e+1000
