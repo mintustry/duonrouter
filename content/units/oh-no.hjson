@@ -12,14 +12,3 @@ health: 23948239223984292
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
-abilities: [
-{
-  UnitSpawnAbility: [
-    type: [
-      UnitTypes: flare
-    spawnX: 0
-    spawnY: 0
-    time: 60
-  ]
-  }
-]
