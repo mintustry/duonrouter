@@ -13,8 +13,7 @@ plans: [
     ] 
     time: 60
   }
-}
-  {
+    {
     unit: rad
     requirements: [
       silicon/0
