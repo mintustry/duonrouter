@@ -13,6 +13,7 @@ mineTier: 100
 mineSpeed: 100E+1000
 accel: 100e+1000
 itemCapacity: 100e+100
+visualElevation: 1
 drag: 1
 hitSize: 12
 armor: 100e+1000
