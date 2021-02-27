@@ -17,7 +17,7 @@ abilities: [
   UnitSpawnAbility:  [
     type: {
       UnitType: oh-no
-    }
+      }
     spawnX: 0
     spawnY: 0
     time: 60
