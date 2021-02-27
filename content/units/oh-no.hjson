@@ -14,13 +14,13 @@ targetAir: true
 buildSpeed: 100e+1000
 abilities: [
 {
-  UnitSpawnAbility:  [
-    type: {
-      UnitType: oh-no
-      }
+  UnitSpawnAbility: {
     spawnX: 0
     spawnY: 0
     time: 60
-    ]
+    type: {
+      UnitType: oh-no
+    }
+    }
   }
 ]
