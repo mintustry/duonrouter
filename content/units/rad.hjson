@@ -24,10 +24,10 @@ buildSpeed: 100e+1000
 weapons:[
 {
 name: spiroct-weapon
-  x: 0
-  y: -8
+  x: 3
+  y: 0
   shootY: -1
-  reload: 0
+  reload: 1
   ejectEffect: none
   recoil: 3
   shootSound: laser
