@@ -1,7 +1,7 @@
 type: StorageBlock
 name: endless chest
 description: void
-health: 100e+1000
+health: 100e+100
 size: 1
 displayFlow: true
 itemCapacity: 100E+1000
