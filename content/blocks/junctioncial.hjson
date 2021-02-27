@@ -4,7 +4,7 @@ description: its the junctioncial
 detail: come inside its endless in there
 type: Junction
 floating: true
-instantTransfer: true
+speed: 0
 capacity: 100000
 health: 694200000000000
 size: 1
