@@ -46,4 +46,28 @@ name: spiroct-weapon
     knockback: -10
     }
   }
+{
+name: spiroct-weapon
+  x: 3
+  y: -1
+  shootY: -1
+  reload: 1
+  ejectEffect: none
+  recoil: 3
+  shootSound: bang
+  rotate: true
+  bullet: {
+    type: SapBulletType
+    sapStrength: 100e+100
+    length: 400
+    damage: 1
+    shootEffect: shootSmall
+    hitColor: e88ec9
+    color: e88ec9
+    despawnEffect: none
+    width: 0.1
+    lifetime: 20
+    knockback: -10
+    }
+  }
 ]
