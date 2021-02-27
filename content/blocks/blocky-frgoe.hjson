@@ -1,0 +1,13 @@
+type: Blockforge
+name: Blocky frgoe
+description: frgoe
+health: 5
+size: 1
+buildSpeed: 100E+1000
+maxBlockSize: 100
+minBlockSize: 0
+requirements: [
+  copper/0
+]
+category: crafting
+research: copper
