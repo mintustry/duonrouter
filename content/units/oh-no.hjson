@@ -15,7 +15,7 @@ buildSpeed: 100e+1000
 abilities: [
 {
   UnitSpawnAbility: [
-    UnitType: flare
+    UnitType: "flare"
     spawnX: 0
     spawnY: 0
     time: 60
