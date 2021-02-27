@@ -1,0 +1,19 @@
+name: oh-no
+description: oh no
+type: air
+speed: 1
+accel: 100E+1000
+drag: 1
+hitSize: 20
+commandLimit: 100
+armor: 100e+1000
+health: 23948239223984292
+rotateSpeed: 100e+1000
+targetAir: true
+buildSpeed: 100e+1000
+UnitSpawnAbility: [
+  {
+    unit: oh-no
+    time: 60
+  }
+]
