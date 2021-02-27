@@ -20,7 +20,7 @@ abilities: [
     time: 60
     type: {
       UnitType: oh-no
-    }
+      }
   ]
   }
 ]
