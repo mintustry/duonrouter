@@ -1,5 +1,3 @@
-//변수 정의
-    //어빌리티
 const healColor = Color.valueOf("98ffa9");
 const healerColor = Color.valueOf("db401c");
 const spawnUnit = Vars.content.getByName(ContentType.unit, "flare");
@@ -51,17 +49,8 @@ const healIn = new Effect (60, e => { //유닛 치료 그래픽 효과
         Drawf.tri(e.x, e.y, 3, 35 * e.fout(), i*90);
     };
 });
-
-
-
-//실행문
-
-
-    //그래픽 효과
 unitSpawn1.spawnEffect = mendSpawn;
 healField1.healEffect = healIn;
-
-    //어빌리티
 ohno.abilities.add(new JavaAdapter(RepairFieldAbility, {}, 50, 2 * 60, 20 * 8));
 ohno.abilities.add(new ForceFieldAbility(15*8, 0.5, 550, 2 * 60));
 ohno.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 1, 18, 7));
