@@ -4,6 +4,7 @@ type: flying
 speed: 1
 accel: 100E+1000
 drag: 1
+flying: true
 hitSize: 20
 commandLimit: 100
 armor: 100e+1000
@@ -14,6 +15,8 @@ buildSpeed: 100e+1000
 UnitSpawnAbility: [
   {
     unit: oh-no
+    spawnX: 0
+    spawnY: 0
     time: 60
   }
 ]
