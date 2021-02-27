@@ -13,6 +13,15 @@ plans: [
     ] 
     time: 60
   }
+}
+plans: [
+  {
+    unit: rad
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
     {
     unit: dagger
     requirements: [
