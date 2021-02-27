@@ -27,7 +27,7 @@ name: spiroct-weapon
   x: 3
   y: 0
   shootY: -1
-  reload: 0.1
+  reload: 1
   ejectEffect: none
   recoil: 3
   shootSound: bang
