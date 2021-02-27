@@ -9,7 +9,7 @@ const unitSpawn1 = new UnitSpawnAbility(spawnUnit3, 15 * 60, 0, 0);
 const healField1 = new RepairFieldAbility(50, 2 * 60, 20 * 8);
 const ohnoEntity = prov(() => extend(AmmoDistributePayloadUnit, {}));
 EntityMapping.nameMap.put("ohno", ohnoEntity);
-const ohno = extendContent(UnitType, "testunit4", {});
+const ohno = extendContent(UnitType, "ohno", {});
 const mendSpawn = new Effect (120, e => {
     if(!(e.data instanceof UnitType)) {
         return;
@@ -62,13 +62,13 @@ unitSpawn1.spawnEffect = mendSpawn;
 healField1.healEffect = healIn;
 
     //어빌리티
-testunit4.abilities.add(new JavaAdapter(RepairFieldAbility, {}, 50, 2 * 60, 20 * 8));
-testunit4.abilities.add(new ForceFieldAbility(15*8, 0.5, 550, 2 * 60));
-testunit4.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 60, 18, 7));
-testunit4.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 60, -18, 7));
-testunit4.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, 18, -7));
-testunit4.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, -18, -7));
-testunit4.abilities.add(new UnitSpawnAbility(spawnUnit3, 10 * 60, 0, 0));
+ohno.abilities.add(new JavaAdapter(RepairFieldAbility, {}, 50, 2 * 60, 20 * 8));
+ohno.abilities.add(new ForceFieldAbility(15*8, 0.5, 550, 2 * 60));
+ohno.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 60, 18, 7));
+ohno.abilities.add(new UnitSpawnAbility(spawnUnit2, 5 * 60, -18, 7));
+ohno.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, 18, -7));
+ohno.abilities.add(new UnitSpawnAbility(spawnUnit, 7 * 60, -18, -7));
+ohno.abilities.add(new UnitSpawnAbility(spawnUnit3, 10 * 60, 0, 0));
 /*
 //로그 확인
     //어빌리티
