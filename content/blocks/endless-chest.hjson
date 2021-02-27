@@ -1,0 +1,12 @@
+type: StorageBlock
+name: endless chest
+description: void
+health: 100e+1000
+size: 1
+displayFlow: true
+itemCapacity: 100E+1000
+requirements: [
+  copper/0
+]
+category: effect
+research: copper
