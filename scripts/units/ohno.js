@@ -2,9 +2,9 @@
     //어빌리티
 const healColor = Color.valueOf("98ffa9");
 const healerColor = Color.valueOf("db401c");
-const spawnUnit = Vars.content.getByName(ContentType.unit, "oh no");
-const spawnUnit2 = Vars.content.getByName(ContentType.unit, "oh no");
-const spawnUnit3 = Vars.content.getByName(ContentType.unit, "oh no");
+const spawnUnit = Vars.content.getByName(ContentType.unit, "flare");
+const spawnUnit2 = Vars.content.getByName(ContentType.unit, "flare");
+const spawnUnit3 = Vars.content.getByName(ContentType.unit, "flare");
 const unitSpawn1 = new UnitSpawnAbility(spawnUnit3, 15 * 1, 0, 0);
 const healField1 = new RepairFieldAbility(50, 2 * 60, 20 * 8);
 const ohnoEntity = prov(() => extend(AmmoDistributePayloadUnit, {}));
