@@ -35,7 +35,7 @@ name: spiroct-weapon
   bullet: {
     type: SapBulletType
     sapStrength: 100e+100
-    length: 200
+    length: 400
     damage: 1
     shootEffect: shootSmall
     hitColor: e88ec9
@@ -43,7 +43,7 @@ name: spiroct-weapon
     despawnEffect: none
     width: 0.1
     lifetime: 20
-    knockback: 5
+    knockback: -10
     }
   }
 ]
