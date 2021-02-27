@@ -1,6 +1,6 @@
 name: oh-no
 description: oh no
-type: air
+type: flying
 speed: 1
 accel: 100E+1000
 drag: 1
