@@ -21,3 +21,29 @@ health: 125705200
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
+weapons:[
+{
+name: spiroct-weapon
+  x: 0
+  y: -8
+  shootY: -1
+  reload: 0
+  ejectEffect: none
+  recoil: 3
+  shootSound: laser
+  rotate: true
+  bullet: {
+    type: SapBulletType
+    sapStrength: 100
+    length: 50
+    damage: 100
+    shootEffect: shootSmall
+    hitColor: e88ec9
+    color: e88ec9
+    despawnEffect: none
+    width: 1.0
+    lifetime: 20
+    knockback: 1.3
+    }
+  }
+]
