@@ -19,6 +19,6 @@ abilities: [
       spawnX: 0
       spawnY: 0
       time: 60
-    }
-  ]
+      }
+    ]
 ]
