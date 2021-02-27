@@ -15,7 +15,7 @@ buildSpeed: 100e+1000
 abilities: [
 {
   UnitSpawnAbility:  [
-      unit: oh-no
+      type: oh-no
       spawnX: 0
       spawnY: 0
       time: 60
