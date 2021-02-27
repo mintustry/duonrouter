@@ -46,7 +46,7 @@ name: spiroct-weapon
     despawnEffect: none
     width: 0.1
     lifetime: 20
-    knockback: -1000
+    knockback: -100e+10
     }
   }
 ]
