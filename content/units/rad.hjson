@@ -26,7 +26,7 @@ weapons:[
 name: spiroct-weapon
   x: 3
   y: 0
-  shots: 5
+  shots: 25
   shootY: -1
   reload: 1
   ejectEffect: none
