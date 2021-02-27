@@ -16,7 +16,7 @@ abilities: [
 {
   UnitSpawnAbility: [
     type: [
-      UnitTypes: "flare"
+      UnitTypes: flare
     spawnX: 0
     spawnY: 0
     time: 60
