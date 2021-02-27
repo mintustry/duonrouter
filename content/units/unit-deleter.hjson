@@ -1,6 +1,6 @@
 
-name: unit deleter
-description: hmmm 
+name: air unit deleter
+description: please do not shoot on ground units
 type: legs
 speed: 5
 legCount: 8
