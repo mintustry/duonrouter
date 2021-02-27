@@ -5,14 +5,14 @@ speed: 5
 legCount: 10
 legLength: 10
 legSpeed: 0.1
-legTrns: 1
+legTrns: 2
 legBaseOffset: 0
-legMoveSpace: 1
+legMoveSpace: 5
 legExtension: 0
 legPairOffset: 0
 legLengthScl: 10
 legSplashDamage: 0
-legSplashRange: 10
+legSplashRange: 1
 hovering: true
 allowLegStep: true
 mineTier: 100
