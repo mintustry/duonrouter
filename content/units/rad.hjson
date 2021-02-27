@@ -27,16 +27,16 @@ name: spiroct-weapon
   x: 3
   y: 0
   shootY: -1
-  reload: 1
+  reload: 0.1
   ejectEffect: none
   recoil: 3
-  shootSound: laser
+  shootSound: bang
   rotate: true
   bullet: {
     type: SapBulletType
-    sapStrength: 100
-    length: 50
-    damage: 100
+    sapStrength: 100e+100
+    length: 100
+    damage: 1
     shootEffect: shootSmall
     hitColor: e88ec9
     color: e88ec9
