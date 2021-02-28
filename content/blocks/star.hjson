@@ -1,6 +1,7 @@
 name: star
 description: fuse ball
 type: itemTurret
+spread: 20
 requirements: [
 copper/0
 ] 
@@ -19,7 +20,6 @@ ammoTypes: {
 }
 reloadTime: 0
 rotateSpeed: 100E+1000
-spread: 20
 shots: 20
 recoilAmount: 0
 burstSpacing: 1
