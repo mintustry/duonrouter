@@ -1,7 +1,7 @@
 name: large routerite wall
 description: distributor wall
 type: Router
-health: 6500
+health: 28000
 size: 2
 requirements: [
   r/6
