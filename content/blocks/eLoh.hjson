@@ -10,7 +10,7 @@ timerTarget: 1
 retargetTime: 5
 shootCone: 6
 laserWidth: 0.1
-force: -10
+force: 10
 scaledForce: 0.0025
 range: 5000
 damage: -10
