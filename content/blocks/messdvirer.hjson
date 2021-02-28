@@ -9,7 +9,7 @@ requirements: [
 range: 3600
 rotateSpeed: 100E+1000
 translation: 10
-minDistribute: 0
+minDistribute: 1
 knockback: 5
 reloadTime: 0
 bulletSpeed: 100E+100
