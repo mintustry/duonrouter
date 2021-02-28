@@ -9,5 +9,5 @@ invert: false
 requirements: [
   r/4
 ]
-category: Distribution
+category: distribution
 research: router
