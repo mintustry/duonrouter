@@ -1,0 +1,14 @@
+
+
+name: sort
+description: Sorter, "size: 2" editon.
+type: Sorter
+health: 10
+size: 2
+speed: 1
+invert: false
+requirements: [
+  r/4
+]
+category: distribution
+research: sorter
