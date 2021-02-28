@@ -1,6 +1,6 @@
 name: routerite wall
 description: also includes the function of a router
-type: Wall
+type: Router
 health: 6500
 size: 1
 requirements: [
