@@ -1,0 +1,10 @@
+name: routerite wall
+description: also includes the function of a router
+type: Wall
+health: 6500
+size: 1
+requirements: [
+  r/6
+]
+category: defense
+research: surge-wall
