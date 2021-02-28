@@ -1,7 +1,6 @@
 name: star
 description: fuse ball
 type: itemTurret
-spread: 20
 requirements: [
 copper/0
 ] 
@@ -9,6 +8,7 @@ ammoTypes: {
   thorium: {
    type: ShrapnelBulletType
     length: 120
+    spread: 20
     damage: 175
     width: 10
     fromColor: ffffff
