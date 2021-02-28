@@ -4,7 +4,7 @@ type: ItemBridge
 health: 10
 size: 1
 range: 10
-timerTransport: 1
+timerTransport: 0
 transportTime: 2
 invert: false
 requirements: [
