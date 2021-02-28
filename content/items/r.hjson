@@ -4,5 +4,5 @@ explosiveness: 100e+1000
 flammability: 0
 radioactivity: 100E+1000
 charge: 100E+1000
-hardness: 100e+1000
+hardness: 10
 cost: 100e+1000
