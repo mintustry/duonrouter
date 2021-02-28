@@ -12,7 +12,7 @@ translation: 10
 minDistribute: 1
 knockback: 5
 reloadTime: 0
-bulletSpeed: 100E+100
+bulletSpeed: 1000
 bulletLifetime: 500
 shake: 3
 category: distribution
