@@ -51,7 +51,7 @@ ammoTypes: {
 }
 consumes: {
 	liquid: {
-    liquid: thorium-refrigerant
+    liquid: water
     amount: 0.04
     booster: true
     optional: true
