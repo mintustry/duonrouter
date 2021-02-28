@@ -5,6 +5,7 @@ itemCapacity: 200
 liquidCapacity: 25
 requirements: [
     r/1
+]
 range: 3600
 rotateSpeed: 100E+1000
 translation: 10
