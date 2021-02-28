@@ -11,9 +11,9 @@ retargetTime: 5
 shootCone: 6
 laserWidth: 0.1
 force: 10
-scaledForce: 10
+scaledForce: 10000
 range: 5000
-damage: -10
+damage: 1
 rotateSpeed: 100E+1000
 shootSound: pew
 shootSoundVolume: 0.6
