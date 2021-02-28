@@ -1,6 +1,6 @@
 
 name: eover
-description: OverflowGate, "size: 2" editon.
+description: OverflowGate, "size: 2" editon. but it doesnt work -useless
 type: OverflowGate
 health: 10
 size: 2
