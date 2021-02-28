@@ -1,6 +1,14 @@
 name: star
 description: fuse ball
 type: itemTurret
+spread: 20
+reloadTime: 0
+rotateSpeed: 100E+1000
+shots: 20
+recoilAmount: 0
+burstSpacing: 1
+range: 120
+size: 2
 requirements: [
 copper/0
 ] 
@@ -18,13 +26,6 @@ ammoTypes: {
     smokeEffect: sparkShoot
   }
 }
-reloadTime: 0
-rotateSpeed: 100E+1000
-shots: 20
-recoilAmount: 0
-burstSpacing: 1
-range: 120
-size: 2
 health: 2350
 research: fuse
 category: turret
