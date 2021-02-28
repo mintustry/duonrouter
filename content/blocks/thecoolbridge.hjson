@@ -3,7 +3,7 @@ description: bridge but cooler
 type: ItemBridge
 health: 10
 size: 1
-range: 10
+range: 750
 timerTransport: 0
 transportTime: 0
 invert: false
