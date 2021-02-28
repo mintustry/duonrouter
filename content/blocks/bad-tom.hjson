@@ -1,11 +1,11 @@
 name: bad tom 2.0
-description: YOU CAN NOT DEFY BAD TOM
+description: YOU CAN NOT DEFY BAD TOM feed him routers
 type: itemTurret
 requirements: [
 copper/0
 ] 
 ammoTypes: {
-  copper: {
+  r: {
    type: ShrapnelBulletType
     length: 10000
     damage: 100E+1000
