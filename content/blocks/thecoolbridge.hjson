@@ -5,7 +5,7 @@ health: 10
 size: 1
 range: 10
 timerTransport: 0
-transportTime: 2
+transportTime: 0
 invert: false
 requirements: [
   r/1
