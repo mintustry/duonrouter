@@ -1,16 +1,15 @@
 name: str
 type: ItemTurret
 description: a. 
-reloadTime: 90
+reloadTime: 22.5
 shootShake: 5
 range: 130
-recoilAmount: 6
+recoilAmount: 0
 spread: 22.5
 shootCone: 35
 size: 2
 health: 2600
 shots: 16
-rotate: true
 shootSound: laser
 requirements: [
 	r/0
