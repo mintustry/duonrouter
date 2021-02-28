@@ -1,0 +1,10 @@
+name: large routerite wall
+description: distributor wall
+type: Router
+health: 6500
+size: 1
+requirements: [
+  r/6
+]
+category: defense
+research: routeritewall
