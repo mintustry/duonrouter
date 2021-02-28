@@ -4,7 +4,7 @@ type: Router
 health: 28000
 size: 2
 requirements: [
-  r/6
+  r/24
 ]
 category: defense
 research: routeritewall
