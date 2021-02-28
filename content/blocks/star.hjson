@@ -1,31 +1,61 @@
-name: star
-description: fuse ball
-type: itemTurret
+name: str
+type: ItemTurret
+description: a. 
+reloadTime: 90
+shootShake: 5
+range: 130
+recoilAmount: 6
 spread: 20
-reloadTime: 0
-rotateSpeed: 100E+1000
-shots: 20
-recoilAmount: 0
-burstSpacing: 1
-range: 120
-size: 2
+shootCone: 35
+size: 4
+health: 2600
+shots: 4
+rotate: true
+shootSound: laser
 requirements: [
-copper/0
+	r/0
 ] 
 ammoTypes: {
-  thorium: {
-   type: ShrapnelBulletType
-    length: 120
-    spread: 20
-    damage: 175
-    width: 10
-    fromColor: ffffff
-    toColor: 000000
-    lifetime: 10
-    shootEffect: sparkShoot
+	titanium: {
+   	type: ShrapnelBulletType
+   	length: 200
+   	damage: 180
+   	width: 20
+   	serrationLenScl: 3
+   	serrationSpaceOffset: 40
+  	serrationFadeOffset: 0
+    serrations: 12
+    serrationWidth: 10
+    ammoMultiplier: 6
+    lifetime: 40
+    shootEffect: thoriumShoot
+    smokeEffect: sparkShoot
+	}
+	thorium: {
+   	type: ShrapnelBulletType
+   	length: 100
+   	damage: 280
+   	width: 42
+   	serrationLenScl: 6
+   	serrationSpaceOffset: 40
+  	serrationFadeOffset: 0
+    serrations: 8
+    serrationWidth: 5
+    ammoMultiplier: 7
+    toColor: c2f9ff
+    fromColor: 9ee1e8
+    lifetime: 60
+    shootEffect: thoriumShoot
     smokeEffect: sparkShoot
   }
 }
-health: 2350
+consumes: {
+	liquid: {
+    liquid: thorium-refrigerant
+    amount: 0.04
+    booster: true
+    optional: true
+	}
+}
 research: fuse
 category: turret
