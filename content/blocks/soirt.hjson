@@ -1,7 +1,7 @@
 
 
 name: sort
-description: Sorter, "size: 2" editon.
+description: Sorter, "size: 2" editon. but it doesnt work -useless
 type: Sorter
 health: 10
 size: 2
