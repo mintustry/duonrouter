@@ -1,13 +1,19 @@
 
-type: StorageBlock
+type: Drill
 name: Ai cell bank
-description: expands unit cap
+description: 
 health: 850
-size: 1
-unitCapModifier: 16
+size: 8
+hardnessDrillMultiplier: 50
+tier: 100
+drillTime: 300
+liquidBoostIntensity: 1.6
+warmupSpeed: 0.02
+rotateSpeed: 2
+updateEffectChance: 0.2
 displayFlow: true
 requirements: [
   copper/0
 ]
-category: logic
+category: production
 research: copper
