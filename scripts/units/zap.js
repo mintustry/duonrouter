@@ -3,7 +3,7 @@ const healerColor = Color.valueOf("db401c");
 const healField1 = new RepairFieldAbility(50, 2 * 60, 20 * 8);
 const zapEntity = prov(() => extend(AmmoDistributePayloadUnit, {}));
 EntityMapping.nameMap.put("zap", zapEntity);
-const zap = extendContent(UnitType, "ohno", {});
+const zap = extendContent(UnitType, "zap", {});
 const mendSpawn = new Effect (120, e => {
     if(!(e.data instanceof UnitType)) {
         return;
