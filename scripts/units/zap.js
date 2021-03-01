@@ -1,6 +1,5 @@
 const healColor = Color.valueOf("98ffa9");
 const healerColor = Color.valueOf("db401c");
-const dorceField1 = new ForceFieldAbility(60, 0.3, 400, 60 * 6);
 const healField1 = new RepairFieldAbility(50, 2 * 60, 20 * 8);
 const zapEntity = prov(() => extend(AmmoDistributePayloadUnit, {}));
 EntityMapping.nameMap.put("zap", zapEntity);
@@ -48,5 +47,5 @@ const healIn = new Effect (60, e => { //유닛 치료 그래픽 효과
 });
 unitSpawn1.spawnEffect = mendSpawn;
 healField1.healEffect = healIn;
-zap.abilities.add(new ForceFieldAbility(60, 0.3, 400, 60 * 6));
+zap.abilities.add(new ForceFieldAbility(15*8, 0.5, 550, 2 * 60));
 zap.abilities.add(new JavaAdapter(RepairFieldAbility, {}, 50, 2 * 60, 20 * 8));
