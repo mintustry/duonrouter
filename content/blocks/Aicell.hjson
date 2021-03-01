@@ -1,0 +1,13 @@
+
+type: StorageBlock
+name: Ai cell bank
+description: expands unit cap
+health: 850
+size: 1
+unitCapModifier: 16
+displayFlow: true
+requirements: [
+  copper/0
+]
+category: logic
+research: copper
