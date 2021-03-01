@@ -12,6 +12,7 @@ warmupSpeed: 0.02
 rotateSpeed: 2
 updateEffectChance: 0.2
 drawRim: true
+heatColor: ff5512ff
 displayFlow: true
 requirements: [
   copper/0
