@@ -11,6 +11,7 @@ liquidBoostIntensity: 1.6
 warmupSpeed: 0.02
 rotateSpeed: 2
 updateEffectChance: 0.2
+drawRim: true
 displayFlow: true
 requirements: [
   copper/0
