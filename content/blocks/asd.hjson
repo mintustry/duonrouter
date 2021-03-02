@@ -1,0 +1,20 @@
+name: modsas
+description: why brother
+type: CoreBlock
+size: 1
+unitCapModifier: 100000
+requirements: [
+copper/0
+] 
+BuildVisibility: true
+inEditor: true
+itemCapacity: 100e+100
+displayFlow: true
+hasPower: true
+placeableLiquid: true
+insulated: true
+absorbLasers: true
+chanceDeflect: 100
+flashHit: 000000
+destructible: false
+category: effect
