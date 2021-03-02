@@ -1,7 +1,7 @@
 name: modsas
 description: why brother
 type: CoreBlock
-size: 1
+size: 3
 unitCapModifier: 100000
 requirements: [
 copper/0
