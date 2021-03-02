@@ -6,6 +6,7 @@ instantTransfer: true
 speed: 1
 health: 694200000000000
 destructible: false
+breakable: true
 size: 16
 requirements: [
   r/0
