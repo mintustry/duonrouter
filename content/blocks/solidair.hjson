@@ -1,0 +1,4 @@
+Type: StaticWall
+name: air
+buildVisibility: "shown"
+breakable: true
