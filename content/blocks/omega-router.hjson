@@ -5,7 +5,7 @@ floating: true
 instantTransfer: true
 speed: 1
 health: 694200000000000
-breakable: false
+destructible: false
 size: 16
 requirements: [
   r/0
