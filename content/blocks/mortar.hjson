@@ -22,8 +22,8 @@ ammoTypes: {
       damage: 10
       knockback: -0.8
       lifetime: 80
-      width: 3.5
-      height: 3.5
+      width: 7
+      height: 7
       collidesTiles: false
       splashDamageRadius: 45
       splashDamage: 40
