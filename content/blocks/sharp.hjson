@@ -17,10 +17,11 @@ ammoTypes: {
     splashDamageRadius: 45
     splashDamage: 40
     fragBullets: 8
+    fragCone: 30
     fragBullet: {
       type: ShrapnelBulletType
       damage: 5
-      knockback: 0.4
+      knockback: -0.1
       lifetime: 15
       width: 7
       length: 110
