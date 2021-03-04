@@ -27,7 +27,7 @@ ammoTypes: {
       collidesTiles: false
       splashDamageRadius: 45
       splashDamage: 40
-      fragBullets: 8
+      fragBullets: 6
       fragBullet: {
         type: artilleryExplosive
         damage: 2.5
@@ -38,7 +38,7 @@ ammoTypes: {
         collidesTiles: false
         splashDamageRadius: 45
         splashDamage: 40
-        fragBullets: 8
+        fragBullets: 4
         fragBullet: {
           type: artilleryExplosive
           damage: 1.25
