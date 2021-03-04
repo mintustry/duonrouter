@@ -16,6 +16,7 @@ ammoTypes: {
     ammoMultiplier: 4
     splashDamageRadius: 45
     splashDamage: 40
+    fragBullets: 2
     fragBullet: {
       type: artilleryExplosive
       damage: 10
@@ -26,6 +27,18 @@ ammoTypes: {
       collidesTiles: false
       splashDamageRadius: 45
       splashDamage: 40
+      fragBullets: 2
+      fragBullet: {
+        type: artilleryExplosive
+        damage: 5
+        knockback: -0.8
+        lifetime: 80
+        width: 3.5
+        height: 3.5
+        collidesTiles: false
+        splashDamageRadius: 45
+        splashDamage: 40
+      }
     }
   }
 }
