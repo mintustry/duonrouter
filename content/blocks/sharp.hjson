@@ -21,7 +21,7 @@ ammoTypes: {
     fragBullet: {
       type: ShrapnelBulletType
       damage: 5
-      knockback: -0.1
+      knockback: 0.01
       lifetime: 15
       width: 7
       length: 110
