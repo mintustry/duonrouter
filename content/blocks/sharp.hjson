@@ -9,7 +9,7 @@ ammoTypes: {
    type: artilleryExplosive
     damage: 10
     knockback: 0.8
-    lifetime: 80
+    lifetime: 190
     width: 14
     height: 14
     collidesTiles: false
@@ -21,7 +21,7 @@ ammoTypes: {
       type: ShrapnelBulletType
       damage: 5
       knockback: 0.4
-      lifetime: 80
+      lifetime: 15
       width: 7
       length: 110
       serrationLenScl: 0
