@@ -16,6 +16,7 @@ ammoTypes: {
     ammoMultiplier: 4
     splashDamageRadius: 45
     splashDamage: 40
+    homingPower: 0.04
     fragBullets: 8
     fragCone: 90
     fragBullet: {
