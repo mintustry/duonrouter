@@ -1,6 +1,6 @@
 name: Routerite node
 type: PowerNode
-health: 100e+1000
+health: 100e+100
 size: 1
 maxNodes: 30000
 laserRange: 30000
