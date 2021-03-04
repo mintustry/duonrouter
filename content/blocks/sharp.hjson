@@ -1,0 +1,41 @@
+name: frager
+description: there goes the fragbullets
+type: itemTurret
+requirements: [
+copper/0
+] 
+ammoTypes: {
+  r: {
+   type: artilleryExplosive
+    damage: 10
+    knockback: 0.8
+    lifetime: 80
+    width: 14
+    height: 14
+    collidesTiles: false
+    ammoMultiplier: 4
+    splashDamageRadius: 45
+    splashDamage: 40
+    fragBullets: 8
+    fragBullet: {
+      type: ShrapnelBulletType
+      damage: 5
+      knockback: 0.4
+      lifetime: 80
+      width: 7
+      length: 110
+      serrationLenScl: 60
+      serrationSpaceOffset: 0
+      serrations: 10
+      serrationWidth: 6
+    }
+  }
+}
+reloadTime: 10
+rotateSpeed: 300
+shots: 1
+range: 300
+size: 2
+health: 1
+research: duo
+category: turret
