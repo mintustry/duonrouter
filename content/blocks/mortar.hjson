@@ -27,6 +27,7 @@ ammoTypes: {
       ammoMultiplier: 4
       splashDamageRadius: 45
       splashDamage: 40
+    }
   }
 }
 reloadTime: 10
