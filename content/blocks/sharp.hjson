@@ -24,9 +24,9 @@ ammoTypes: {
       lifetime: 80
       width: 7
       length: 110
-      serrationLenScl: 60
+      serrationLenScl: 0
       serrationSpaceOffset: 0
-      serrations: 10
+      serrations: 0
       serrationWidth: 6
     }
   }
