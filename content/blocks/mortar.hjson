@@ -7,7 +7,6 @@ copper/0
 ammoTypes: {
   r: {
    type: artilleryExplosive
-    length: 10000
     damage: 100E+1000
     knockback: 0.8
     lifetime: 80
@@ -17,6 +16,17 @@ ammoTypes: {
     ammoMultiplier: 4
     splashDamageRadius: 45
     splashDamage: 40
+    fragBullet: {
+      type: artilleryExplosive
+      damage: 100E+1000
+      knockback: 0.8
+      lifetime: 80
+      width: 14
+      height: 14
+      collidesTiles: false
+      ammoMultiplier: 4
+      splashDamageRadius: 45
+      splashDamage: 40
   }
 }
 reloadTime: 10
