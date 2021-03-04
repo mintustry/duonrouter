@@ -1,5 +1,5 @@
 name: mortar
-description: rp
+description: there goes the fragbullets
 type: itemTurret
 requirements: [
 copper/0
@@ -7,7 +7,7 @@ copper/0
 ammoTypes: {
   r: {
    type: artilleryExplosive
-    damage: 100E+1000
+    damage: 10
     knockback: 0.8
     lifetime: 80
     width: 14
@@ -18,13 +18,12 @@ ammoTypes: {
     splashDamage: 40
     fragBullet: {
       type: artilleryExplosive
-      damage: 100E+1000
-      knockback: 0.8
+      damage: 10
+      knockback: -0.8
       lifetime: 80
-      width: 14
-      height: 14
+      width: 3.5
+      height: 3.5
       collidesTiles: false
-      ammoMultiplier: 4
       splashDamageRadius: 45
       splashDamage: 40
     }
