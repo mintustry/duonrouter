@@ -1,4 +1,4 @@
-name: mortar
+name: frager
 description: there goes the fragbullets
 type: itemTurret
 requirements: [
@@ -19,8 +19,8 @@ ammoTypes: {
     fragBullets: 8
     fragBullet: {
       type: artilleryExplosive
-      damage: 10
-      knockback: -0.8
+      damage: 5
+      knockback: 0.4
       lifetime: 80
       width: 7
       height: 7
@@ -30,14 +30,26 @@ ammoTypes: {
       fragBullets: 8
       fragBullet: {
         type: artilleryExplosive
-        damage: 5
-        knockback: -0.8
+        damage: 2.5
+        knockback: 0.2
         lifetime: 80
-        width: 3.5
-        height: 3.5
+        width: 1.75
+        height: 1.75
         collidesTiles: false
         splashDamageRadius: 45
         splashDamage: 40
+        fragBullets: 8
+        fragBullet: {
+          type: artilleryExplosive
+          damage: 1.25
+          knockback: 0.1
+          lifetime: 80
+          width: 3.5
+          height: 3.5
+          collidesTiles: false
+          splashDamageRadius: 45
+          splashDamage: 40
+        }
       }
     }
   }
