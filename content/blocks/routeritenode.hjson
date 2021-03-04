@@ -1,0 +1,11 @@
+name: Routerite node
+type: PowerNode
+health: 100e+1000
+size: 1
+maxNodes: 30000
+laserRange: 30000
+requirements: [
+  r/1
+]
+research: power-node-large
+category: power
