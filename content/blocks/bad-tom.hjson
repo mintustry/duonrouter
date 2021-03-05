@@ -1,36 +1,43 @@
-name: bad tom 2.0
-description: YOU CAN NOT DEFY BAD TOM feed him routers
-type: itemTurret
+name: str
+type: ItemTurret
+description: a. 
+reloadTime: 0
+shootShake: 5
+range: 30000
+recoilAmount: 0
 spread: 0.5
+shootCone: 0
+size: 2
+health: 2600
+shots: 760
+shootSound: laser
 requirements: [
-copper/0
+	r/0
 ] 
 ammoTypes: {
-  r: {
-   type: ShrapnelBulletType
-    length: 10000
-    damage: "1000E+1000"
-    width: 100
-    serrationLenScl: 10
-    serrationSpaceOffset: 10
-    serrationFadeOffset: 0
-    serrations: 15
-    serrationWidth: 30
-    fromColor: ffffff
-    toColor: 000000
+	r: {
+   	type: ShrapnelBulletType
+   	length: 10000
+   	damage: 100E+1000
+   	width: 100
+   	serrationLenScl: 0
+   	serrationSpaceOffset: 0
+  	serrationFadeOffset: 0
+    serrations: 0
+    serrationWidth: 10
+    ammoMultiplier: 0
     lifetime: 10
-    shootEffect: sparkShoot
+    shootEffect: thoriumShoot
     smokeEffect: sparkShoot
-  }
+	}
 }
-reloadTime: 0
-rotateSpeed: 100E+1000
-shots: 1
-recoilAmount: 60
-burstSpacing: 1
-range: 10000
-shots: 720
-size: 4
-health: 2350
-research: duo
+consumes: {
+	liquid: {
+    liquid: water
+    amount: 0.04
+    booster: true
+    optional: true
+	}
+}
+research: fuse
 category: turret
