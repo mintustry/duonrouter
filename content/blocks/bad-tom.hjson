@@ -8,7 +8,7 @@ ammoTypes: {
   r: {
    type: ShrapnelBulletType
     length: 10000
-    damage: "MAX_VALUE"
+    damage: "1000E+1000"
     width: 100
     serrationLenScl: 10
     serrationSpaceOffset: 10
