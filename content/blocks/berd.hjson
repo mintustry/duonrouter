@@ -1,5 +1,5 @@
-name: chipnel
-description: there goes the fragbullets
+name: berd
+description: carpy design
 type: itemTurret
 requirements: [
 copper/0
@@ -26,7 +26,7 @@ ammoTypes: {
       shake: 1
       healPercent: 1
       collidesTeam: true
-      
+      colors: 84f491
     }
   }
 }
