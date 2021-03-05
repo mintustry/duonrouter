@@ -59,8 +59,8 @@ ammoTypes: {
             damage: 10
             knockback: 0.01
             lifetime: 15
-            width: 0.7
-            length: 11
+            width: 1.4
+            length: 1.1
             serrationLenScl: 0
             serrationSpaceOffset: 0
             serrations: 0
