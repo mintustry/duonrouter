@@ -9,18 +9,19 @@ ammoTypes: {
    type: artilleryExplosive
     damage: 10
     knockback: 0.8
-    lifetime: 80
+    lifetime: 190
     width: 14
     height: 14
     ammoMultiplier: 4
     homingPower: 0.04
     splashDamageRadius: 45
     splashDamage: 40
-    fragBullets: 8
+    fragBullets: 16
     fragBullet: {
       type: LaserBulletType
-      damage: 28
-      length: 175
+      damage: 90
+      width: 100
+      length: 900
       drawSize: 420
       lifetime: 160
       shake: 1
