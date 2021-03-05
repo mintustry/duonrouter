@@ -20,13 +20,14 @@ ammoTypes: {
     fragBullet: {
       type: LaserBulletType
       damage: 28
-      length: 175
+      length: 1750
       drawSize: 420
       lifetime: 160
       shake: 1
       healPercent: 1
       collidesTeam: true
       fragCone: 15
+      collidesAir: true
       laserColor: 84f491
     }
   }
