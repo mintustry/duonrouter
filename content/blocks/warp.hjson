@@ -1,0 +1,32 @@
+
+name: berd
+description: carpy design
+type: itemTurret
+requirements: [
+copper/0
+] 
+ammoTypes: {
+  r: {
+    type: LaserBulletType
+    damage: 180
+    width: 100
+    length: 9000
+    drawSize: 420
+    lifetime: 10
+    shake: 1
+    healPercent: 1
+    collidesTeam: true
+    collidesAir: true
+    Color: 84f491
+    }
+  }
+}
+reloadTime: 0.5
+rotateSpeed: 300
+shots: 1
+inaccuracy: 360
+range: 300
+size: 2
+health: 1
+research: duo
+category: turret
