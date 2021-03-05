@@ -27,5 +27,6 @@ inaccuracy: 360
 range: 300
 size: 2
 health: 1
+shots: 5
 research: duo
 category: turret
