@@ -14,9 +14,8 @@
   shots: 1
 
   const MiniCopper = extend(ShrapnelBulletType, {
-  sprite: "prog-mats-minigun-ball",
   length: 10000,
-  damage: 100E+1000,
+  damage: Number.MAX_VALUE,
   width: 100,
   serrationLenScl: 10,
   serrationSpaceOffset: 10,
