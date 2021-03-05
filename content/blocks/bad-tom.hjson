@@ -4,6 +4,24 @@ type: itemTurret
 requirements: [
 copper/0
 ] 
+ammoTypes: {
+  r: {
+   type: ShrapnelBulletType
+    length: 10000
+    damage: MAX_VALUE
+    width: 100
+    serrationLenScl: 10
+    serrationSpaceOffset: 10
+    serrationFadeOffset: 0
+    serrations: 15
+    serrationWidth: 30
+    fromColor: ffffff
+    toColor: 000000
+    lifetime: 10
+    shootEffect: sparkShoot
+    smokeEffect: sparkShoot
+  }
+}
 reloadTime: 0
 rotateSpeed: 100E+1000
 shots: 1
