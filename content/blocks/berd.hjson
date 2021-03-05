@@ -18,7 +18,7 @@ ammoTypes: {
     splashDamage: 40
     fragBullets: 8
     fragBullet: {
-      type: ContinuousLaserBulletType
+      type: LaserBulletType
       damage: 28
       length: 175
       drawSize: 420
