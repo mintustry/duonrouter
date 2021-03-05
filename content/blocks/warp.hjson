@@ -8,7 +8,7 @@ copper/0
 ammoTypes: {
   r: {
     type: LaserBulletType
-    damage: 180
+    damage: 200
     width: 100
     length: 9000
     drawSize: 420
