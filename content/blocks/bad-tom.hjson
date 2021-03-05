@@ -32,7 +32,7 @@ ammoTypes: {
     smokeEffect: sparkShoot
     serrations: 0
     serrationWidth: 10
-    ammoMultiplier: 0
+    ammoMultiplier: 1
     lifetime: 10
     shootEffect: thoriumShoot
     smokeEffect: sparkShoot
