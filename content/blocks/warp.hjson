@@ -1,6 +1,6 @@
 
-name: berd
-description: carpy design
+name: warp
+description: into warp speed
 type: itemTurret
 requirements: [
 copper/0
@@ -18,7 +18,6 @@ ammoTypes: {
     collidesTeam: true
     collidesAir: true
     Color: 84f491
-    }
   }
 }
 reloadTime: 0.5
