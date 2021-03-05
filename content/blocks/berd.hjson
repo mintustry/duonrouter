@@ -26,6 +26,7 @@ ammoTypes: {
       shake: 1
       healPercent: 1
       collidesTeam: true
+      fragCone: 15
       laserColor: 84f491
     }
   }
