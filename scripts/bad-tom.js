@@ -1,3 +1,19 @@
+const bad = extend(ItemTurret, "bad-tom", {
+  load(){
+    this.turretRegions = [];
+    this.outlineRegions = [];
+    this.heatRegions = [];
+    
+    this.teamRegion = Core.atlas.find("error");
+    this.baseRegion = Core.atlas.find("block-4");
+    }
+  },
+  icons(){
+    return[
+      this.baseRegion,
+      this.turretRegions[0]
+    ];
+  }, 
   size: 4,
   range: 3000,
   health: 1800,
@@ -29,5 +45,5 @@
   smokeEffect: sparkShoot,
 });
 
-minigun.ammo(
+bad.ammo(
   Items.copper, MiniCopper,
