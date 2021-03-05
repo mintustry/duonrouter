@@ -1,0 +1,52 @@
+name: berd
+description: carpy design
+type: itemTurret
+requirements: [
+copper/0
+] 
+ammoTypes: {
+  r: {
+    type: artilleryExplosive
+    damage: 10
+    knockback: 0.8
+    lifetime: 80
+    width: 14
+    height: 14
+    ammoMultiplier: 4
+    homingPower: 0.04
+    splashDamageRadius: 45
+    splashDamage: 40
+    fragBullets: 8
+    fragBullet: {
+      type: artilleryExplosive
+      damage: 9
+      knockback: 0.7
+      lifetime: 70
+      width: 13
+      height: 13
+      homingPower: 0.03
+      splashDamageRadius: 45
+      splashDamage: 40
+      fragBullets: 8
+      fragBullet: {
+        type: artilleryExplosive
+        damage: 8
+        knockback: 0.6
+        lifetime: 60
+        width: 12
+        height: 12
+        homingPower: 0.02
+        splashDamageRadius: 45
+        splashDamage: 40
+      }
+    }
+  }
+}
+reloadTime: 10
+rotateSpeed: 300
+shots: 1
+range: 300
+size: 2
+health: 1
+research: duo
+category: turret
