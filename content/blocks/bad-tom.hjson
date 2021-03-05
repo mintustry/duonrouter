@@ -1,6 +1,7 @@
 name: bad tom 2.0
 description: YOU CAN NOT DEFY BAD TOM feed him routers
 type: itemTurret
+spread: 0.5
 requirements: [
 copper/0
 ] 
@@ -29,7 +30,6 @@ recoilAmount: 60
 burstSpacing: 1
 range: 10000
 shots: 720
-spread: 0.5
 size: 4
 health: 2350
 research: duo
