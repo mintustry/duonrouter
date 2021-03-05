@@ -4,25 +4,11 @@ type: itemTurret
 requirements: [
 copper/0
 ] 
-ammoTypes: {
-  r: {
-   type: artilleryExplosive
-    damage: 10
-    knockback: 0.8
-    lifetime: 80
-    width: 14
-    height: 14
-    collidesTiles: false
-    ammoMultiplier: 4
-    homingPower: 0.04
-    splashDamageRadius: 45
-    splashDamage: 40
-    name: chipnel
-description: there goes the fragbullets
-type: itemTurret
-requirements: [
-copper/0
-] 
+rotateSpeed: 300
+shots: 1
+range: 300
+size: 2
+health: 1
 ammoTypes: {
   r: {
    type: artilleryExplosive
@@ -94,11 +80,5 @@ ammoTypes: {
     }
   }
 }
-reloadTime: 10
-rotateSpeed: 300
-shots: 1
-range: 300
-size: 2
-health: 1
 research: duo
 category: turret
