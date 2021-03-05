@@ -60,7 +60,7 @@ ammoTypes: {
             knockback: 0.01
             lifetime: 15
             width: 5
-            length: 0.1
+            length: 0.05
             serrationLenScl: 0
             serrationSpaceOffset: 0
             serrations: 0
