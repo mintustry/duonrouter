@@ -5,11 +5,11 @@ reloadTime: 0
 shootShake: 5
 range: 30000
 recoilAmount: 0
-spread: 0.5
+spread: 1
 shootCone: 0
 size: 2
 health: 2600
-shots: 760
+shots: 360
 shootSound: laser
 requirements: [
 	r/0
