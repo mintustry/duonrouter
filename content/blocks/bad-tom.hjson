@@ -1,7 +1,7 @@
-name: str
+name: bad tom
 type: ItemTurret
 description: a. 
-reloadTime: 1
+reloadTime: 0
 shootShake: 5
 range: 30000
 recoilAmount: 0
@@ -11,6 +11,7 @@ size: 2
 health: 2600
 shots: 360
 shootSound: laser
+rotateSpeed: 100E+1000
 requirements: [
 	r/0
 ] 
