@@ -126,6 +126,54 @@ ammoTypes: {
                         homingPower: 0.001
                         splashDamageRadius: 45
                         splashDamage: 40
+                        fragBullets: 2
+                          fragBullet: {
+                          type: artilleryExplosive
+                          damage: 1
+                          knockback: 0.05
+                          lifetime: 5
+                          width: 4
+                          height: 4
+                          homingPower: 0.001
+                          splashDamageRadius: 45
+                          splashDamage: 40
+                          fragBullets: 2
+                            fragBullet: {
+                            type: artilleryExplosive
+                            damage: 1
+                            knockback: 0.05
+                            lifetime: 5
+                            width: 3
+                            height: 3
+                            homingPower: 0.001
+                            splashDamageRadius: 45
+                            splashDamage: 40
+                            fragBullets: 2
+                              fragBullet: {
+                              type: artilleryExplosive
+                              damage: 1
+                              knockback: 0.05
+                              lifetime: 5
+                              width: 2
+                              height: 2
+                              homingPower: 0.001
+                              splashDamageRadius: 45
+                              splashDamage: 40
+                              fragBullets: 2
+                                fragBullet: {
+                                type: artilleryExplosive
+                                damage: 1
+                                knockback: 0.05
+                                lifetime: 5
+                                width: 1
+                                height: 1
+                                homingPower: 0.001
+                                splashDamageRadius: 45
+                                splashDamage: 40
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
