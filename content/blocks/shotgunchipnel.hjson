@@ -1,0 +1,104 @@
+name: narrow chipnel
+description: narrow editon
+type: itemTurret
+requirements: [
+copper/0
+] 
+ammoTypes: {
+  r: {
+   type: artilleryExplosive
+    damage: 10
+    knockback: 0.8
+    lifetime: 80
+    width: 14
+    height: 14
+    collidesTiles: false
+    ammoMultiplier: 4
+    homingPower: 0.04
+    splashDamageRadius: 45
+    splashDamage: 40
+    name: chipnel
+description: there goes the fragbullets
+type: itemTurret
+requirements: [
+copper/0
+] 
+ammoTypes: {
+  r: {
+   type: artilleryExplosive
+    damage: 10
+    knockback: 0.8
+    lifetime: 80
+    width: 14
+    height: 14
+    collidesTiles: false
+    ammoMultiplier: 4
+    homingPower: 0.04
+    splashDamageRadius: 45
+    splashDamage: 40
+    fragCone: 15
+    fragBullets: 8
+    fragBullet: {
+      type: artilleryExplosive
+      damage: 5
+      knockback: 0.4
+      lifetime: 80
+      width: 7
+      height: 7
+      collidesTiles: false
+      splashDamageRadius: 45
+      splashDamage: 40
+      homingPower: 0.08
+      fragCone: 15
+      fragBullets: 6
+      fragBullet: {
+        type: artilleryExplosive
+        damage: 2.5
+        knockback: 0.2
+        lifetime: 80
+        width: 6
+        height: 6
+        collidesTiles: false
+        splashDamageRadius: 45
+        splashDamage: 40
+        homingPower: 0.16
+        fragCone: 15
+        fragBullets: 4
+        fragBullet: {
+          type: artilleryExplosive
+          damage: 1.25
+          knockback: 0.1
+          lifetime: 80
+          width: 5
+          height: 5
+          collidesTiles: false
+          homingPower: 0.32
+          splashDamageRadius: 45
+          splashDamage: 40
+          fragCone: 15
+          fragBullets: 3
+          fragBullet: {
+            type: ShrapnelBulletType
+            damage: 10
+            knockback: 0.01
+            lifetime: 15
+            width: 5
+            length: 0.05
+            serrationLenScl: 0
+            serrationSpaceOffset: 0
+            serrations: 0
+            serrationWidth: 6
+          }
+        }
+      }
+    }
+  }
+}
+reloadTime: 10
+rotateSpeed: 300
+shots: 1
+range: 300
+size: 2
+health: 1
+research: duo
+category: turret
