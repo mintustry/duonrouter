@@ -1,7 +1,7 @@
 name: str
 type: ItemTurret
 description: a. 
-reloadTime: 0
+reloadTime: 1
 shootShake: 5
 range: 30000
 recoilAmount: 0
@@ -15,29 +15,28 @@ requirements: [
 	r/0
 ] 
 ammoTypes: {
-	r: {
-   	type: ShrapnelBulletType
-   	length: 10000
-   	damage: 100E+1000
-   	width: 100
-   	serrationLenScl: 0
-   	serrationSpaceOffset: 0
-  	serrationFadeOffset: 0
+  r: {
+    type: ShrapnelBulletType
+    length: 10000
+    damage: 100E+1000
+    width: 100
+    serrationLenScl: 10
+    serrationSpaceOffset: 10
+    serrationFadeOffset: 0
+    serrations: 15
+    serrationWidth: 30
+    fromColor: ffffff
+    toColor: 000000
+    lifetime: 10
+    shootEffect: sparkShoot
+    smokeEffect: sparkShoot
     serrations: 0
     serrationWidth: 10
     ammoMultiplier: 0
     lifetime: 10
     shootEffect: thoriumShoot
     smokeEffect: sparkShoot
-	}
-}
-consumes: {
-	liquid: {
-    liquid: water
-    amount: 0.04
-    booster: true
-    optional: true
-	}
+  }
 }
 research: fuse
 category: turret
