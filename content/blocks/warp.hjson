@@ -22,11 +22,10 @@ ammoTypes: {
 }
 reloadTime: 0
 rotateSpeed: 300
-shots: 1
 inaccuracy: 360
 range: 300
 size: 2
 health: 1
-shots: 25
+shots: 100
 research: duo
 category: turret
