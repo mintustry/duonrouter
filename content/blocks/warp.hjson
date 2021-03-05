@@ -20,7 +20,7 @@ ammoTypes: {
     Color: 84f491
   }
 }
-reloadTime: 0.5
+reloadTime: 0
 rotateSpeed: 300
 shots: 1
 inaccuracy: 360
