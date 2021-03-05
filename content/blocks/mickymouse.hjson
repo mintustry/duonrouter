@@ -1,12 +1,12 @@
   
 type: OverdriveProjector
-name: endless chest
+name: speed
 description: void
 health: 100e+100
 size: 1
 speedBoost: 10000
 range: 10000
-itemCapacity: 100E+100
+
 requirements: [
   copper/0
 ]
