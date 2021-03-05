@@ -20,7 +20,7 @@ ammoTypes: {
     fragBullet: {
       type: LaserBulletType
       damage: 28
-      length: 1750
+      length: 175
       drawSize: 420
       lifetime: 160
       shake: 1
