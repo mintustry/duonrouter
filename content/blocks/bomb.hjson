@@ -61,7 +61,7 @@ ammoTypes: {
             splashDamageRadius: 45
             splashDamage: 40
             fragBullets: 2
-              fragBullet: {
+            fragBullet: {
               type: artilleryExplosive
               damage: 5
               knockback: 0.2
@@ -71,6 +71,30 @@ ammoTypes: {
               homingPower: 0.004
               splashDamageRadius: 45
               splashDamage: 40
+              fragBullets: 2
+              fragBullet: {
+                type: artilleryExplosive
+                damage: 4
+                knockback: 0.1
+                lifetime: 20
+                width: 8
+                height: 8
+                homingPower: 0.003
+                splashDamageRadius: 45
+                splashDamage: 40
+                fragBullets: 2
+                fragBullet: {
+                  type: artilleryExplosive
+                  damage: 3
+                  knockback: 0.05
+                  lifetime: 20
+                  width: 7
+                  height: 7
+                  homingPower: 0.002
+                  splashDamageRadius: 45
+                  splashDamage: 40
+                }
+              }
             }
           }
         }
