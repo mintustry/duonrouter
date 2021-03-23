@@ -16,8 +16,7 @@ ammoTypes: {
     ammoMultiplier: 4
     splashDamageRadius: 45
     splashDamage: 40
-    homingPower: 0.04
-    fragBullets: 8
+    fragBullets: 4
     fragCone: 90
     fragBullet: {
       type: ShrapnelBulletType
@@ -30,6 +29,34 @@ ammoTypes: {
       serrationSpaceOffset: 0
       serrations: 0
       serrationWidth: 6
+    }
+  }
+  thorium: {
+   type: artilleryExplosive
+    damage: 25
+    knockback: 0.8
+    lifetime: 190
+    width: 14
+    height: 14
+    collidesTiles: false
+    ammoMultiplier: 4
+    splashDamageRadius: 45
+    splashDamage: 40
+    fragBullets: 6
+    fragCone: 90
+    fragBullet: {
+      type: ShrapnelBulletType
+      damage: 25
+      knockback: 0.01
+      lifetime: 15
+      width: 7
+      length: 110
+      serrationLenScl: 0
+      serrationSpaceOffset: 0
+      serrations: 0
+      serrationWidth: 6
+      toColor: f9a3c7
+      fromColor: f9a3c7
     }
   }
 }
