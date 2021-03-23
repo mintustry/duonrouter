@@ -1,0 +1,45 @@
+name: Razsel
+description: Razzy
+type: mech
+speed: 5
+mineTier: 100
+mineSpeed: 100E+1000
+accel: 100e+1000
+itemCapacity: 100e+100
+visualElevation: 1
+drag: 1
+hitSize: 1
+commandLimit: 100
+armor: 100e+1000
+health: 125705200
+rotateSpeed: 100e+1000
+targetAir: true
+buildSpeed: 100e+1000
+weapons:[
+{
+name: spiroct-weapon
+  x: 3
+  y: 0
+  shots: 25
+  shootY: -1
+  reload: 1
+  ejectEffect: none
+  recoil: 3
+  shootSound: bang
+  rotate: true
+  bullet: {
+    type: LaserBulletType
+    sapStrength: 100e+100
+    length: 1000
+    damage: 1
+    shootEffect: shootSmall
+    hitColor: e88ec9
+    color: e88ec9
+    despawnEffect: none
+    lifetime: 65
+    width: 75
+    lifetime: 20
+    knockback: -10
+    }
+  }
+]
