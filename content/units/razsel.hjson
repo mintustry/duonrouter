@@ -6,7 +6,7 @@ mineTier: 100
 mineSpeed: 100E+1000
 accel: 100e+1000
 itemCapacity: 100e+100
-visualElevation: 1
+visualElevation: 0
 drag: 1
 hitSize: 1
 commandLimit: 100
@@ -37,7 +37,7 @@ name: spiroct-weapon
     despawnEffect: none
     lifetime: 65
     width: 75
-    knockback: -10
+    knockback: 0
     }
   }
 ]
