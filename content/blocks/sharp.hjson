@@ -33,7 +33,7 @@ ammoTypes: {
   }
   thorium: {
    type: artilleryExplosive
-    damage: 25
+    damage: 40
     knockback: 0.8
     lifetime: 190
     width: 14
@@ -46,7 +46,7 @@ ammoTypes: {
     fragCone: 90
     fragBullet: {
       type: ShrapnelBulletType
-      damage: 25
+      damage: 50
       knockback: 0.01
       lifetime: 15
       width: 7
@@ -60,7 +60,7 @@ ammoTypes: {
     }
   }
 }
-reloadTime: 10
+reloadTime: 40
 rotateSpeed: 300
 shots: 1
 range: 300
