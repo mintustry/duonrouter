@@ -29,16 +29,14 @@ name: spiroct-weapon
   rotate: true
   bullet: {
     type: LaserBulletType
-    sapStrength: 100e+100
     length: 1000
-    damage: 1
+    damage: 100
     shootEffect: shootSmall
     hitColor: e88ec9
     color: e88ec9
     despawnEffect: none
     lifetime: 65
     width: 75
-    lifetime: 20
     knockback: -10
     }
   }
