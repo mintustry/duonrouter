@@ -65,6 +65,7 @@ rotateSpeed: 300
 shots: 1
 range: 300
 size: 2
+recoilAmount: 5
 health: 1
 research: duo
 category: turret
