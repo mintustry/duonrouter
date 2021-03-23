@@ -1,11 +1,11 @@
-name: frager
-description: there goes the fragbullets
+name: sharp flaks
+description: Get your sharp flak now with a discount of a router off.
 type: itemTurret
 requirements: [
 copper/0
 ] 
 ammoTypes: {
-  r: {
+  titanium: {
    type: artilleryExplosive
     damage: 10
     knockback: 0.8
