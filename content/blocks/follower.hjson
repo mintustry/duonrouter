@@ -1,11 +1,11 @@
-name: chipnel
-description: there goes the fragbullets
+name: follower
+description: the bullet wont stop following
 type: itemTurret
 requirements: [
 copper/0
 ] 
 ammoTypes: {
-  r: {
+  copper: {
    type: artilleryExplosive
     damage: 10
     knockback: 0.8
