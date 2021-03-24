@@ -26,7 +26,6 @@ name: spiroct-weapon
   ejectEffect: none
   recoil: 3
   shootSound: bang
-  rotate: true
   bullet: {
     type: LaserBulletType
     length: 1000
@@ -36,7 +35,7 @@ name: spiroct-weapon
     color: e88ec9
     despawnEffect: none
     lifetime: 65
-    width: 75
+    width: 32.5
     knockback: 0
     }
   }
