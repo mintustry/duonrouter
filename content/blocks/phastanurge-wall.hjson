@@ -11,7 +11,6 @@ lightningLength: 34
 flashHit: true
 lightningSound: shotgun
 lightningColor: 000000
-flashColor: 000000
 deflectSound: shotgun
 requirements: [
   plastanium/4
