@@ -4,7 +4,7 @@ details: AAA
 heatCapacity: -0
 explosiveness: 100e+1000
 temperature: 100e+1000
-viscosity: 10000
+viscosity: 100e+1000
 effect: corroded
 color: ffffff
 barColor: 919191
