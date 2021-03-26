@@ -1,7 +1,7 @@
 
 name: ROMBUS
 description: accel
-type: air
+type: flying
 speed: 5
 mineTier: 100
 crashDamageMultiplier: 100E+1000
