@@ -14,6 +14,13 @@ plans: [
     time: 60
   }
     {
+    unit: ROMBUS
+    requirements: [
+      silicon/0
+    ] 
+    time: 60
+  }
+    {
     unit: rad
     requirements: [
       silicon/0
