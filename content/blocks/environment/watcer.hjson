@@ -1,5 +1,6 @@
 Type: Floor
 isLiquid: true
+variants: 1
 blendGroup: water
 liquidDrop: AAA
 cacheLayer: water
