@@ -1,2 +1,7 @@
 Type: Floor
 isLiquid: true
+blendGroup: water
+liquidDrop: AAA
+cacheLayer: water
+walkEffect: wet
+drownUpdateEffect: tarred
