@@ -6,15 +6,20 @@ copper/0
 ] 
 shootType: {
    type: ContinuousLaserBulletType
-    length: 200
-    damage: 100E+1000
+    length: 150
+    damage: 100
 }
-reloadTime: 0
+reloadTime: 75
+powerUse: 15
+loopSoundVolume: 2
+shootDuration: 180
+
+shootSound: laserbig
+loopSound: beam
 rotateSpeed: 100E+1000
 shots: 1
-recoilAmount: 30
-burstSpacing: 1
-range: 10000
+recoilAmount: 3
+range: 150
 size: 3
 health: 2350
 research: meltdown
