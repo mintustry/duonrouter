@@ -1,6 +1,6 @@
 name: Reduction
 description:
-type: LaserTurret
+type: laserTurret
 requirements: [
 copper/0
 ] 
@@ -15,7 +15,7 @@ shots: 1
 recoilAmount: 30
 burstSpacing: 1
 range: 10000
-size: 4
+size: 3
 health: 2350
 research: meltdown
 category: turret
