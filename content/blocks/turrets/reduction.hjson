@@ -1,6 +1,6 @@
 name: Reduction
-description:
-type: laserTurret
+description: R
+type: LaserTurret
 requirements: [
 copper/0
 ] 
