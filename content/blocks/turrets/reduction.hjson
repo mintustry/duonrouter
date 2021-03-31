@@ -1,7 +1,7 @@
 name: Reduction
 description: R
 type: LaserTurret
-reloadTime: 75
+reloadTime: 1
 powerUse: 15
 loopSoundVolume: 2
 shootDuration: 180
