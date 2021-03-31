@@ -21,6 +21,7 @@ shootType: {
    length: 150
    damage: 100
    hitEffect: hitMeltdown
+   width: 7
 }
 health: 2350
 research: meltdown
