@@ -6,9 +6,9 @@ copper/0
 ] 
 shootType: {
    type: ContinuousLaserBulletType
-    length: 150
-    damage: 100
-    hitEffect:
+   length: 150
+   damage: 100
+   hitEffect: hitMeltdown
 }
 reloadTime: 75
 shootCone: 40
