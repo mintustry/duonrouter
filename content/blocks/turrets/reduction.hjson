@@ -8,15 +8,17 @@ shootType: {
    type: ContinuousLaserBulletType
     length: 150
     damage: 100
+    hitEffect:
 }
 reloadTime: 75
+shootCone: 40
 powerUse: 15
+firingMoveFract: 0.5
 loopSoundVolume: 2
 shootDuration: 180
-
 shootSound: laserbig
 loopSound: beam
-rotateSpeed: 100E+1000
+rotateSpeed: 7.5
 shots: 1
 recoilAmount: 3
 range: 150
