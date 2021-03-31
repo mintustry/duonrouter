@@ -10,7 +10,7 @@ shootType: {
    damage: 100
    hitEffect: hitMeltdown
 }
-reloadTime: 75
+reloadTime: 0
 shootCone: 40
 powerUse: 15
 firingMoveFract: 0.5
