@@ -9,6 +9,7 @@ shootSound: laserbig
 loopSound: beam
 rotateSpeed: 7.5
 shots: 1
+firingMoveFract: 0.5
 recoilAmount: 3
 range: 150
 size: 3
