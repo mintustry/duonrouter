@@ -19,7 +19,7 @@ copper/0
 shootType: {
    type: ContinuousLaserBulletType
    length: 150
-   damage: 40
+   damage: 50
    hitEffect: hitMeltdown
    width: 7
 }
