@@ -1,0 +1,10 @@
+name: massive router
+description: BIG router
+type: Router
+speed: 1
+health: 640
+requirements: [
+  copper/48
+]
+category: distribution
+research: router
