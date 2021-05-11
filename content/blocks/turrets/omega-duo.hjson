@@ -19,14 +19,14 @@ ammoTypes: {
 reloadTime: 20
 rotateSpeed: 10
 shots: 2
-spread: 4
+spread: 64
 alternate: true
 recoilAmount: 16
-restitution: 0.36
+restitution: 0.02
 range: 1600
 shootCone: 15
 size: 16
-inaccuracy: 32
+inaccuracy: 2
 health: 64000
 research: duo
 category: turret
