@@ -19,7 +19,7 @@ ammoTypes: {
 reloadTime: 20
 rotateSpeed: 10
 shots: 2
-spread: 64
+spread: 4
 alternate: true
 recoilAmount: 16
 restitution: 0.36
