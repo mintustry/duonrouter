@@ -11,13 +11,13 @@ ammoTypes: {
     damage: 144
     width: 112
     lifetime: 960
-    shootEffect: sparkShoot
-    smokeEffect: sparkShoot
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
     speed: 40
   }
 }
 reloadTime: 20
-rotateSpeed: 160
+rotateSpeed: 10
 shots: 2
 spread: 64
 alternate: true
