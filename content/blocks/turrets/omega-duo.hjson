@@ -45,7 +45,7 @@ ammoTypes: {
     damage: 192
     width: 112
     homingPower: 1.28
-    homingRange: 800
+    homingRange: 20
     lifetime: 960
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
