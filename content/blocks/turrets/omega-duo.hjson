@@ -15,6 +15,41 @@ ammoTypes: {
     smokeEffect: shootSmallSmoke
     speed: 40
   }
+  graphite: {
+   type: BasicBulletType
+    height: 192
+    damage: 288
+    width: 144
+    lifetime: 960
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 56
+  }
+  pyratite: {
+   type: standardIncendiary
+    height: 192
+    damage: 192
+    width: 160
+    lifetime: 960
+    frontColor: f8ad42
+    backColor: f68021
+    makeFire: true
+    inaccuracy: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 56
+  }
+  silicon: {
+   type: standardHoming
+    height: 144
+    damage: 192
+    width: 112
+    homingPower: 1.28
+    lifetime: 960
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 56
+  }
 }
 reloadTime: 20
 rotateSpeed: 10
