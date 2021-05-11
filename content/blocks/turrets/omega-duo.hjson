@@ -6,7 +6,7 @@ copper/560
 ] 
 ammoTypes: {
   copper: {
-   type: ShrapnelBulletType
+   type: BasicBulletType
     height: 144
     damage: 144
     width: 112
