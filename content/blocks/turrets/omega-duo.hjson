@@ -1,0 +1,31 @@
+name: Omega duo
+description: duo..?
+type: itemTurret
+requirements: [
+copper/560
+] 
+ammoTypes: {
+  copper: {
+   type: ShrapnelBulletType
+    height: 144
+    damage: 144
+    width: 112
+    lifetime: 960
+    shootEffect: sparkShoot
+    smokeEffect: sparkShoot
+  }
+}
+reloadTime: 0
+rotateSpeed: 160
+shots: 2
+spread: 64
+alternate: true
+recoilAmount: 16
+restitution: 0.36
+range: 1600
+shootCone: 15
+size: 16
+inaccuracy: 32
+health: 64000
+research: duo
+category: turret
