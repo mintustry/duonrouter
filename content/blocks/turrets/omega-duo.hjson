@@ -13,9 +13,10 @@ ammoTypes: {
     lifetime: 960
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
+    speed: 40
   }
 }
-reloadTime: 0
+reloadTime: 20
 rotateSpeed: 160
 shots: 2
 spread: 64
