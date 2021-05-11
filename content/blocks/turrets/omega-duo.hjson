@@ -44,7 +44,7 @@ ammoTypes: {
     height: 144
     damage: 192
     width: 112
-    homingPower: 1.28
+    homingPower: 0.08
     homingRange: 20
     lifetime: 960
     shootEffect: shootSmall
