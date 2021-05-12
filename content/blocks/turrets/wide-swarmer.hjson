@@ -6,7 +6,7 @@ requirements: [
 copper/560
 ] 
 ammoTypes: {
-  blastcompound: {
+  blast-compound: {
    type: BasicBulletType
     height: 8
     damage: 
