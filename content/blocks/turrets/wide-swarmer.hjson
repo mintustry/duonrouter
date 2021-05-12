@@ -33,7 +33,7 @@ recoilAmount: 16
 restitution: 0.02
 range: 300
 shootCone: 15
-size: 16
+size: 2
 inaccuracy: 10
 health: 64000
 burstSpacing: 5
