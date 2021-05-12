@@ -9,7 +9,7 @@ ammoTypes: {
   blast-compound: {
    type: BasicBulletType
     height: 8
-    damage: 
+    damage: 10
     width: 8
     lifetime: 960
     shootEffect: shootSmall
