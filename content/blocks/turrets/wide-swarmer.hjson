@@ -1,0 +1,42 @@
+
+name: swarmer wide
+description: w i d e
+type: itemTurret
+requirements: [
+copper/560
+] 
+ammoTypes: {
+  blastcompound: {
+   type: BasicBulletType
+    height: 8
+    damage: 
+    width: 8
+    lifetime: 960
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 40
+    drag: -0.01
+    shrinkY: 0
+    splashDamageRadius: 30
+    splashDamage: 45
+    hitEffect: blastExplosion
+    despawnEffect: blastExplosion
+    
+  }
+}
+reloadTime: 30
+rotateSpeed: 10
+shots: 8
+xRand: 12
+spread: 64
+alternate: true
+recoilAmount: 16
+restitution: 0.02
+range: 300
+shootCone: 15
+size: 16
+inaccuracy: 10
+health: 64000
+burstSpacing; 5
+research: duo
+category: turret
