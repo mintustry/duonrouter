@@ -21,7 +21,6 @@ ammoTypes: {
     splashDamage: 45
     hitEffect: blastExplosion
     despawnEffect: blastExplosion
-    
   }
 }
 reloadTime: 30
