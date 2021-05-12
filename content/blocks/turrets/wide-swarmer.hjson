@@ -27,13 +27,13 @@ reloadTime: 30
 rotateSpeed: 10
 shots: 8
 xRand: 12
-spread: 64
-alternate: true
+spread: 4
+alternate: false
 recoilAmount: 16
 restitution: 0.02
 range: 300
 shootCone: 15
-size: 2
+size: 3
 inaccuracy: 10
 health: 64000
 burstSpacing: 5
