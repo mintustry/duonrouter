@@ -36,6 +36,6 @@ shootCone: 15
 size: 16
 inaccuracy: 10
 health: 64000
-burstSpacing; 5
+burstSpacing: 5
 research: duo
 category: turret
