@@ -38,7 +38,7 @@ ammoTypes: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     speed: 56
-    status: Burning
+    status: burning
   }
   silicon: {
    type: standardHoming
