@@ -1,1 +1,1 @@
-require("blocks/atmospheric-cooler");
+require("dingus-rotate-thing");
