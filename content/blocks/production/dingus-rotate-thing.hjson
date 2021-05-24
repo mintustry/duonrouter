@@ -1,0 +1,25 @@
+
+type: GenericCrafter
+name: Leadifyer 
+description: turn ur copper into lead
+health: 1
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 10
+consumes: {
+  power: 0
+    items:{
+     items:[
+      copper/0
+      ]
+   }
+}
+requirements: [
+  copper/1
+]
+category: crafting
+research: copper
+outputItem: lead/1
