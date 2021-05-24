@@ -1,1 +1,1 @@
-require("dingus-rotate-thing");
+require("blocks/dingus-rotate-thing");
