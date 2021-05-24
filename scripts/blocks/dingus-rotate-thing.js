@@ -2,7 +2,6 @@ const rotateBlock = extend(DrawMixer, {
     draw(entity){
         const rotation = entity.block.rotate ? entity.rotdeg() : 0;
 
-        Draw.rect(this.bottom, entity.x, entity.y, rotation);
         Draw.rect(this.rotator, entity.x, entity.y, entity.totalProgress * 6);
     },
     load(block){
