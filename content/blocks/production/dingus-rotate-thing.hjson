@@ -20,7 +20,8 @@ consumes: {
    }
 }
 outputItem : {
-    item: lead/1
+    item: lead
+    amount: 1
 }
 craftTime: 150
 category: crafting
