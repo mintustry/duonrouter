@@ -20,5 +20,5 @@ const rotateBlock = extend(DrawMixer, {
     }
 });
 //stole it form Sharlottes/ExampleMod
-const atmosphericCooler = extendContent(GenericCrafter, "atmospheric-cooler", {});
-atmosphericCooler.drawer = rotateBlock;
+const dingus-rotate-thing = extendContent(GenericCrafter, "atmospheric-cooler", {});
+dingus-rotate-thing.drawer = rotateBlock;
