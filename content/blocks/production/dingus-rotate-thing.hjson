@@ -14,8 +14,12 @@ requirements: [
 ]
 
 consumes: {
-    items:{items:[titanium/4]}
-    power: 20
+  power: 0
+    items:{
+     items:[
+      copper/0
+      ]
+   }
 }
 outputLiquid : {
     liquid: cryofluid
