@@ -23,5 +23,5 @@ outputItem : {
     item: lead
     amount: 1
 }
-craftTime: 150
+craftTime: 10
 category: crafting
