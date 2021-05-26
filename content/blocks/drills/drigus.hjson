@@ -8,7 +8,7 @@ health: 850
 size: 1
 hardnessDrillMultiplier: 50
 tier: 100
-drillTime: 1000
+drillTime: 1
 liquidBoostIntensity: 1.6
 warmupSpeed: 100
 rotateSpeed: 10
