@@ -1,0 +1,10 @@
+colorFrom: ffffff
+colorTo: ffffff
+particles: 6
+cone: 180
+length: 20
+baseLength: 0
+sizeFrom: 2
+sizeTo: 0
+offset: 0
+region: "circle"
