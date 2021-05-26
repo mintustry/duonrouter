@@ -6,7 +6,7 @@ description: a
 details: dingus
 health: 850
 size: 1
-hardnessDrillMultiplier: 50
+hardnessDrillMultiplier: 0
 tier: 100
 drillTime: 0
 liquidBoostIntensity: 1.6
