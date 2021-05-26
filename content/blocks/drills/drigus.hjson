@@ -1,0 +1,22 @@
+
+
+type: Drill
+name: Drigus
+description: a
+details: dingus
+health: 850
+size: 1
+hardnessDrillMultiplier: 50
+tier: 100
+drillTime: 0
+liquidBoostIntensity: 1.6
+warmupSpeed: 0.02
+rotateSpeed: 10
+updateEffectChance: 0.2
+drawRim: true
+heatColor: ff5512
+requirements: [
+  copper/0
+]
+category: production
+research: copper
