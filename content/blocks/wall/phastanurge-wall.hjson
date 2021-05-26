@@ -19,3 +19,4 @@ requirements: [
 ]
 category: defense
 research: plastanium-wall
+floating: true
