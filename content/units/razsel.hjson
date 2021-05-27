@@ -15,6 +15,7 @@ health: 125705200
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
+details: raspberry flavor editon
 weapons:[
 {
 name: spiroct-weapon
