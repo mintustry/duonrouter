@@ -2,6 +2,7 @@ name: unity
 type: UnitFactory
 size: 1
 health: 1
+details: i wonder
 consumes: {
   power: 1
 }
