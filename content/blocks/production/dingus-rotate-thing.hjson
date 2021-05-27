@@ -2,14 +2,12 @@ name: Leadifiy
 health: 1500
 description: leadifiy ur copper
 size: 2
+details: mmm, ah yes coding. definitely didnt stole it frome Sharlottes/ExampleMod
 hasItems: true
 hasPower: true
 itemCapacity: 10
 requirements: [
-    lead/150
-    metaglass/130
-    titanium/120
-    silicon/100
+    copper/150
 ]
 consumes: {
   power: 15
