@@ -1,7 +1,8 @@
 
 type: GenericSmelter
-name: surge scooper
-description: surge? who need surge if you have this
+name: butter generator
+description: huh?
+details: yummay slice of butter 
 health: 5
 liquidCapacity: 0
 size: 1
