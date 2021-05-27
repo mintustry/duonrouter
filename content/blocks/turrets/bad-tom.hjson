@@ -2,6 +2,7 @@
 name: bad tom 2.0
 description: YOU CAN NOT DEFY BAD TOM feed him routers
 type: itemTurret
+details: god why did this existed
 requirements: [
 copper/0
 ] 
