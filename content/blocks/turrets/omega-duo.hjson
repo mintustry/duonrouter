@@ -1,6 +1,7 @@
 name: Omega duo
 description: duo..?
 type: itemTurret
+details: woah, a duo
 requirements: [
 copper/560
 ] 
