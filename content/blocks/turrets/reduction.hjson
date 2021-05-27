@@ -1,5 +1,6 @@
 name: Reduction
 description: R
+details: sprites are hard
 type: LaserTurret
 reloadTime: 1
 powerUse: 15
