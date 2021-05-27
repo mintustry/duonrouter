@@ -10,6 +10,7 @@ accel: 100e+1000
 itemCapacity: 100e+100
 drag: 1
 flying: true
+details: woah, its worthless
 hitSize: 12
 engineSize: 5
 armor: 2
