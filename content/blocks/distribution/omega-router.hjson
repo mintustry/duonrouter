@@ -8,6 +8,7 @@ health: 694200000000000
 destructible: false
 breakable: true
 size: 16
+details: you dare defy the router god?
 requirements: [
   r/0
 ]
