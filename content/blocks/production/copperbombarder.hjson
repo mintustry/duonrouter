@@ -1,7 +1,8 @@
 type: GenericSmelter
 name: Copperbombarder
-description: h
+description: with, this exist?
 health: 1
+details: BOMB SERPULO WITH THE POWER OF MILLION OF COPPER>
 liquidCapacity: 0
 size: 2
 hasPower: true
