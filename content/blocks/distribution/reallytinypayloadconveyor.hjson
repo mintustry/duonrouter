@@ -5,6 +5,7 @@ floating: true
 moveTime: 0.5
 moveForce: 100.5
 health: 694200000000000
+details: yayayyyayayayyayayaaayyayayayyayayayayaya plankton conveyor
 size: 1
 payloadLimit: 100
 requirements: [
