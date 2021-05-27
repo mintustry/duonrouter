@@ -23,6 +23,7 @@ health: 125705200
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
+details: bullets' knockback is high, so uh use it on flying units?
 weapons:[
 {
 name: spiroct-weapon
