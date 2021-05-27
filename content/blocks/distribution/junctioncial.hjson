@@ -8,6 +8,7 @@ speed: 0
 capacity: 100000
 health: 694200000000000
 size: 1
+details: balh blah blah ieddd 
 requirements: [
   copper/0
 ]
