@@ -1,6 +1,7 @@
 type: BlockForge
 name: Blocky frgoe
 description: frgoe
+details: froge
 health: 5
 size: 1
 buildSpeed: 100E+1000
