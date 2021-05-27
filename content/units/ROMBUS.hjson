@@ -13,6 +13,7 @@ flying: true
 hitSize: 12
 engineSize: 5
 armor: 2
+details: missle unit go brrrrr
 health: 100e+100
 engineOffset: 13
 rotateSpeed: 100e+1000
