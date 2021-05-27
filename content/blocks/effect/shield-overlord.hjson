@@ -1,5 +1,6 @@
 name: shield overlord
-description: wow screen field with shield
+description: wow screen field with shield field with field
+details: he protecc map from crx
 type: ForceProjector
 health: 1
 size: 2
