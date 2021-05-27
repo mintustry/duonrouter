@@ -4,6 +4,7 @@ type: mech
 speed: 4
 hitSize: 32
 health: 560
+details: chad? more like modded dagger
 weapons:[
 {
 name: chad-mount
