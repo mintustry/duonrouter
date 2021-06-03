@@ -6,6 +6,7 @@ armor: 0
 speed: 5
 accel: 0.06
 drag: 0.017
+MoveLightningAbility: {35, 0.15, 12, 0.8, 1.2, white, 0, artilleryPlastic, 0, 0, sparkShoot, spark}
 range: 0
 lowAltitude: true
 flying: true
