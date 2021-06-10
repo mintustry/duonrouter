@@ -25,11 +25,11 @@ ammoTypes: {
       type: ParticleEffect
       particles: 30
       sizeFrom: 0
-      sizeTo: 10
+      sizeTo: 100
       length: 500
       lifetime: 50
       colorFrom: FFFFFF
-      colorTo: FFFFFF
+      colorTo: 000000
       cone: 100
     }
   }
