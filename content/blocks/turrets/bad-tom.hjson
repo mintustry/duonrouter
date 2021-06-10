@@ -24,13 +24,13 @@ ammoTypes: {
     shootEffect: {    
       type: ParticleEffect
       particles: 30
-      sizeFrom: 10
-      sizeTo: 0
+      sizeFrom: 0
+      sizeTo: 10
       length: 500
       lifetime: 50
       colorFrom: FFFFFF
       colorTo: FFFFFF
-      cone: 50
+      cone: 100
     }
   }
 }
