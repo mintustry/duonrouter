@@ -9,6 +9,13 @@ drag: 0.017
 range: 0
 lowAltitude: true
 flying: true
+abilities: [
+  type: MoveLightningAbility
+  damage: 35.0
+  chance; 0.15
+  length: 12
+  minSpeed: 0.8
+]
 engineOffset: 10.5
 rotateShooting: false
 hitSize: 10
