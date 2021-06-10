@@ -12,8 +12,8 @@ flying: true
 abilities: [
   {
     type: ForceFieldAbility
-    radius: 60
-    regen: 0.1
+    radius: 30
+    regen: 50
     max: 50
     cooldown: 0
   }
