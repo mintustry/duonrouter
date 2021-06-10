@@ -8,7 +8,7 @@ copper/0
 ] 
 ammoTypes: {
   r: {
-   type: ShrapnelBulletType
+    type: ShrapnelBulletType
     length: 10000
     damage: 100E+1000
     width: 100
@@ -20,8 +20,18 @@ ammoTypes: {
     fromColor: ffffff
     toColor: 000000
     lifetime: 10
-    shootEffect: sparkShoot
     smokeEffect: sparkShoot
+    shootEffect: {    
+      type: ParticleEffect
+      particles: 30
+      sizeFrom: 1
+      sizeTo: 0
+      length: 70
+      lifetime: 50
+      colorFrom: FFFFFF
+      colorTo: FFFFFF
+      cone: 50
+    }
   }
 }
 reloadTime: 0
