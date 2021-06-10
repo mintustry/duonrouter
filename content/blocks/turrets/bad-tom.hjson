@@ -26,11 +26,11 @@ ammoTypes: {
       particles: 30
       sizeFrom: 0
       sizeTo: 100
-      length: 500
-      lifetime: 50
+      length: 600
+      lifetime: 150
       colorFrom: FFFFFF
       colorTo: 000000
-      cone: 100
+      cone: 45
     }
   }
 }
