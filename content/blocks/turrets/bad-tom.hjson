@@ -26,7 +26,7 @@ ammoTypes: {
       particles: 30
       sizeFrom: 10
       sizeTo: 0
-      length: 200
+      length: 500
       lifetime: 50
       colorFrom: FFFFFF
       colorTo: FFFFFF
