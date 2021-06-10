@@ -1,6 +1,6 @@
 name: aAa
 mineTier: 2
-details: yo
+details: yo, its the da shield
 health: 1
 armor: 0
 speed: 5
@@ -13,8 +13,8 @@ abilities: [
   {
     type: ForceFieldAbility
     radius: 30
-    regen: 50
-    max: 50
+    regen: 5000
+    max: 5000
     cooldown: 0
   }
 ]
