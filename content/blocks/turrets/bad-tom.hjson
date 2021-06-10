@@ -24,9 +24,9 @@ ammoTypes: {
     shootEffect: {    
       type: ParticleEffect
       particles: 30
-      sizeFrom: 1
+      sizeFrom: 10
       sizeTo: 0
-      length: 70
+      length: 200
       lifetime: 50
       colorFrom: FFFFFF
       colorTo: FFFFFF
