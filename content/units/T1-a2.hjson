@@ -37,14 +37,14 @@ name: mass
   shootSound: bang
   rotate: true
   bullet: {
-    type: SapBulletType
-    length: 1000
+    type: BasicBulletType
+    height: 8 
     damage: 1
     shootEffect: shootSmall
     hitColor: e88ec9
     color: e88ec9
     despawnEffect: none
-    width: 0.1
+    width: 8
     lifetime: 20
     knockback: 0
     }
