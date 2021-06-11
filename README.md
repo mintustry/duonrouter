@@ -19,4 +19,4 @@ not for campaign and never with be
 
 
 
-home to useless and stuff things
+home to cursed and questionable things
