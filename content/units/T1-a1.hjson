@@ -20,10 +20,10 @@ name: chad-mount
     lifetime: 240
     shootEffect: {
       type: ParticleEffect
-      particles: 10
-      sizeFrom: 1
+      particles: 20
+      sizeFrom: 5
       sizeTo: 0
-      region: T1-a1
+      region: "duo"
       length: 70
       lifetime: 50
       colorFrom: FFFFFF
