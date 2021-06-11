@@ -20,13 +20,13 @@ name: chad-mount
     lifetime: 240
     shootEffect: {
       type: ParticleEffect
-      particles: 30
+      particles: 10
       sizeFrom: 1
-      sizeTo: 5
+      sizeTo: 0
       length: 70
       lifetime: 50
       colorFrom: FFFFFF
-      colorTo: FFFFFF
+      colorTo: 000000
       cone: 50
       }
     }
