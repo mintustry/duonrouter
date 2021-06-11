@@ -1,0 +1,50 @@
+
+name: mass driver
+description: context
+type: legs
+speed: 5
+legCount: 4
+legLength: 30
+legTrns: 0.8
+legBaseOffset: 2
+legMoveSpace: 5
+hovering: true
+allowLegStep: true
+accel: 1
+itemCapacity: 100e+100
+visualElevation: 1
+drag: 0.1
+hitSize: 1
+commandLimit: 100
+armor: 100e+1000
+health: 125705200
+rotateSpeed: 100e+1000
+targetAir: true
+buildSpeed: 100e+1000
+weapons:[
+{
+name: spiroct-weapon
+  x: 3
+  y: 0
+  shots: 25
+  shootY: -1
+  reload: 1
+  ejectEffect: none
+  recoil: 3
+  shootSound: bang
+  rotate: true
+  bullet: {
+    type: SapBulletType
+    sapStrength: 100e+100
+    length: 1000
+    damage: 1
+    shootEffect: shootSmall
+    hitColor: e88ec9
+    color: e88ec9
+    despawnEffect: none
+    width: 0.1
+    lifetime: 20
+    knockback: 0
+    }
+  }
+]
