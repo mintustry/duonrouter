@@ -1,0 +1,24 @@
+name: T1 a
+description: context
+type: mech
+speed: 4
+hitSize: 32
+health: 560
+details: context
+weapons:[
+{
+name: chad-mount
+  x: 16
+  y: 8
+  top: false
+  reload: 16
+  bullet: {
+    type: BasicBulletType
+    damage: 36
+    width: 28
+    height: 36
+    shootEffect: shootSmall
+    lifetime: 240
+    }
+  }
+]
