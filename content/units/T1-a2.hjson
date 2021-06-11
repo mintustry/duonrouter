@@ -10,6 +10,7 @@ legBaseOffset: 10
 legMoveSpace: 1
 hovering: true
 allowLegStep: true
+rotateShooting: false
 accel: 1
 itemCapacity: 100e+100
 visualElevation: 1
@@ -33,7 +34,7 @@ name: mass
   recoil: 3
   mirror: false
   shootSound: bang
-  rotate: false
+  rotate: true
   bullet: {
     type: SapBulletType
     length: 1000
