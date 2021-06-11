@@ -28,7 +28,7 @@ name: chad-mount
       lifetime: 50
       colorFrom: FFFFFF
       colorTo: 000000
-      cone: 0
+      cone: 360
       }
     shootEffect: {
       type: ParticleEffect
