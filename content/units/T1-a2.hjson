@@ -33,7 +33,7 @@ name: mass
   ejectEffect: none
   recoil: 3
   mirror: false
-  rotateSpeed: 0.8
+  rotateSpeed: 4
   shootSound: bang
   rotate: true
   bullet: {
