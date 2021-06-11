@@ -23,7 +23,7 @@ name: chad-mount
       particles: 10
       sizeFrom: 1
       sizeTo: 0
-      region: "T1-a1"
+      region: T1-a1
       length: 70
       lifetime: 50
       colorFrom: FFFFFF
