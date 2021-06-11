@@ -15,7 +15,7 @@ accel: 1
 itemCapacity: 120
 visualElevation: 1
 drag: 0.1
-hitSize: 20
+hitSize: 25
 commandLimit: 8
 armor: 18
 health: 12500
