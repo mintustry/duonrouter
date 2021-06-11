@@ -41,6 +41,7 @@ name: chad-mount
       colorFrom: FFFFFF
       colorTo: 000000
       cone: 50
+      line: true
       }
     }
   }
