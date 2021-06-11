@@ -23,7 +23,7 @@ name: chad-mount
       particles: 20
       sizeFrom: 5
       sizeTo: 0
-      region: "duo"
+      region: "rubble-8-0"
       length: 70
       lifetime: 50
       colorFrom: FFFFFF
