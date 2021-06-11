@@ -19,7 +19,7 @@ hitSize: 1
 commandLimit: 100
 armor: 100e+1000
 health: 125705200
-rotateSpeed: 100e+1000
+rotateSpeed: 0.5
 targetAir: true
 buildSpeed: 100e+1000
 weapons:[
@@ -33,6 +33,7 @@ name: mass
   ejectEffect: none
   recoil: 3
   mirror: false
+  rotateSpeed: 0.04
   shootSound: bang
   rotate: true
   bullet: {
