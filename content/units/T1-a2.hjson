@@ -28,8 +28,8 @@ name: mass
   x: 0
   y: 0
   shots: 1
-  shootY: -1
-  reload: 1
+  shootY: 4
+  reload: 100
   ejectEffect: none
   recoil: 3
   mirror: false
