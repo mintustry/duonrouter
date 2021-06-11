@@ -23,7 +23,7 @@ targetAir: true
 buildSpeed: 100e+1000
 weapons:[
 {
-name: spiroct-weapon
+name: mass
   x: 3
   y: 0
   shots: 25
@@ -31,11 +31,11 @@ name: spiroct-weapon
   reload: 1
   ejectEffect: none
   recoil: 3
+  mirror: false
   shootSound: bang
-  rotate: true
+  rotate: false
   bullet: {
     type: SapBulletType
-    sapStrength: 100e+100
     length: 1000
     damage: 1
     shootEffect: shootSmall
