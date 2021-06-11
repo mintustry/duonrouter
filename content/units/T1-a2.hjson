@@ -1,6 +1,6 @@
 
 name: mass driver
-description: context
+description: mass driver context
 type: legs
 speed: 1
 legCount: 4
@@ -12,16 +12,17 @@ hovering: true
 allowLegStep: true
 rotateShooting: false
 accel: 1
-itemCapacity: 100e+100
+itemCapacity: 120
 visualElevation: 1
 drag: 0.1
-hitSize: 1
-commandLimit: 100
-armor: 100e+1000
-health: 125705200
+hitSize: 10
+commandLimit: 8
+armor: 18
+health: 12500
 rotateSpeed: 5
 targetAir: true
-buildSpeed: 100e+1000
+buildSpeed: 1
+range: 208
 weapons:[
 {
 name: mass
@@ -42,7 +43,7 @@ name: mass
     damage: 500
     shootEffect: shootBig2
     smokeEffect: shootBigSmoke2
-    hitColor: 000000
+    hitColor: ffffff
     color: e88ec9
     despawnEffect: mineBig
     width: 12
