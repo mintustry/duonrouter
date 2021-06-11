@@ -8,7 +8,7 @@ details: context
 weapons:[
 {
 name: chad-mount
-  x: 3
+  x: 9
   y: 2
   top: false
   reload: 16
