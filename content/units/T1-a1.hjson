@@ -18,6 +18,18 @@ name: chad-mount
     width: 28
     height: 36
     lifetime: 240
+    despawnEffect: { 
+      type: ParticleEffect
+      particles: 20
+      sizeFrom: 5
+      sizeTo: 0
+      region: "rubble-8-0"
+      length: 70
+      lifetime: 50
+      colorFrom: FFFFFF
+      colorTo: 000000
+      cone: 0
+      }
     shootEffect: {
       type: ParticleEffect
       particles: 20
