@@ -17,8 +17,18 @@ name: chad-mount
     damage: 36
     width: 28
     height: 36
-    shootEffect: shootSmall
     lifetime: 240
+    shootEffect: {
+      type: ParticleEffect
+      particles: 30
+      sizeFrom: 1
+      sizeTo: 5
+      length: 70
+      lifetime: 50
+      colorFrom: FFFFFF
+      colorTo: FFFFFF
+      cone: 50
+      }
     }
   }
 ]
