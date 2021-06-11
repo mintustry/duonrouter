@@ -34,13 +34,14 @@ name: mass
   recoil: 3
   mirror: false
   rotateSpeed: 4
-  shootSound: bang
+  shootSound: shootBig
   rotate: true
   bullet: {
     type: BasicBulletType
     height: 16
     damage: 10
-    shootEffect: shootSmall
+    shootEffect: shootBig2
+    smokeEffect: shootBigSmoke2
     hitColor: e88ec9
     color: e88ec9
     despawnEffect: none
