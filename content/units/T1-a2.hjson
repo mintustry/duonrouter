@@ -39,10 +39,10 @@ name: mass
   bullet: {
     type: BasicBulletType
     height: 16
-    damage: 10
+    damage: 500
     shootEffect: shootBig2
     smokeEffect: shootBigSmoke2
-    hitColor: e88ec9
+    hitColor: 000000
     color: e88ec9
     despawnEffect: mineBig
     width: 12
