@@ -8,8 +8,8 @@ details: context
 weapons:[
 {
 name: chad-mount
-  x: 16
-  y: 8
+  x: 3
+  y: 2
   top: false
   reload: 16
   bullet: {
