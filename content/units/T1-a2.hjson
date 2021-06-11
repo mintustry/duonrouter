@@ -47,7 +47,7 @@ name: mass
     color: e88ec9
     despawnEffect: mineBig
     width: 12
-    lifetime: 960
+    lifetime: 200
     knockback: 0
     speed: 4
     }
