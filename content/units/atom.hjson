@@ -8,8 +8,8 @@ details: context1
 weapons:[
 {
 name: atom-weapon
-  x: 14
-  y: 2
+  x: 5.25
+  y: 0
   top: false
   reload: 16
   bullet: {
