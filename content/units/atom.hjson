@@ -19,7 +19,7 @@ name: atom-weapon
     damage: 50
     width: 5
     length: 10
-    lifetime: 1000
+    lifetime: 25
     serrations: 0
     }
   }
