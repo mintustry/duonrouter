@@ -3,7 +3,7 @@ description: context1
 type: mech
 speed: 0.5
 hitSize: 10
-health: 560
+health: 180
 details: context1
 weapons:[
 {
@@ -16,7 +16,7 @@ name: atom-weapon
   shootY: 6
   bullet: {
     type: ShrapnelBulletType
-    damage: 50
+    damage: 25
     width: 5
     length: 25
     lifetime: 25
