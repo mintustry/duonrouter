@@ -9,7 +9,7 @@ weapons:[
 {
 name: plasma-pulse
   x: 10
-  y: 1
+  y: 1.25
   top: false
   reload: 16
   shootX: -0.5
