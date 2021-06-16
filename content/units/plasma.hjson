@@ -11,8 +11,8 @@ name: plasma-pulse
   x: 10
   y: 1.25
   top: false
-  reload: 16
-  shootX: -0.5
+  reload: 9
+  shootX: -1
   shootY: 6
   bullet: {
     damage: 10
