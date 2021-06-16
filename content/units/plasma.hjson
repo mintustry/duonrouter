@@ -7,7 +7,7 @@ health: 180
 details: context1
 weapons:[
 {
-name: atom-weapon
+name: plasma-pulse
   x: 5.25
   y: 0
   top: false
