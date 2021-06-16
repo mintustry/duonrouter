@@ -18,8 +18,10 @@ name: plasma-pulse
     damage: 10
     speed: 4
     lifetime: 25
-    width: 5
+    width: 7.5
     height: 10
+    frontColor: 5bc8df
+    backColor: 2e9fb5
     }
   }
 ]
