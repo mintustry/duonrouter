@@ -1,9 +1,9 @@
 name: Plasma
 description: context1
 type: mech
-speed: 0.5
+speed: 0.4
 hitSize: 10
-health: 180
+health: 485
 details: context1
 weapons:[
 {
