@@ -15,7 +15,7 @@ name: plasma-pulse
   shootX: -1
   shootY: 6
   bullet: {
-    damage: 10
+    damage: 26
     speed: 4
     lifetime: 25
     width: 7.5
