@@ -1,0 +1,20 @@
+
+name: Zipline
+description: a
+type: payload
+speed: 5
+mineTier: 100
+mineSpeed: 100E+1000
+accel: 100e+1000
+itemCapacity: 100e+100
+drag: 1
+flying: true
+hitSize: 12
+engineSize: 5
+armor: 2
+health: 100e+100
+engineOffset: 13
+rotateSpeed: 100e+1000
+targetAir: true
+payloadCapacity: 100e+1000
+buildSpeed: 100e+1000
