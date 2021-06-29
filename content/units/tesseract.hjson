@@ -1,0 +1,27 @@
+name: Tesseract
+description: a long forgotten mech that was used in galatic wars
+type: mech
+speed: 0.4
+hitSize: 10
+health: 485
+details: hhh
+weapons:[
+{
+name: plasma-pulse
+  x: 10
+  y: 1.25
+  top: false
+  reload: 9
+  shootX: -1
+  shootY: 6
+  bullet: {
+    damage: 26
+    speed: 4
+    lifetime: 25
+    width: 7.5
+    height: 10
+    frontColor: 5bc8df
+    backColor: 2e9fb5
+    }
+  }
+]
