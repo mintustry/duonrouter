@@ -9,7 +9,7 @@ weapons:[
 {
 name: tesseract-cannon
   x: 15
-  y: 0.25
+  y: -0.25
   top: false
   reload: 9
   shootX: -1
