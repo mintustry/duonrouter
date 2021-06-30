@@ -7,7 +7,7 @@ health: 485
 details: hhh
 weapons:[
 {
-name: plasma-pulse
+name: tesseract-cannon
   x: 10
   y: 1.25
   top: false
