@@ -22,6 +22,7 @@ name: tesseract-cannon
     height: 10
     frontColor: 5bc8df
     backColor: 2e9fb5
+    trailChance: 1
     trailEffect: overdriveBlockFull
     }
   }
