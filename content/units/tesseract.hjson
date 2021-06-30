@@ -24,6 +24,7 @@ name: tesseract-cannon
     backColor: 2e9fb5
     trailChance: 1
     trailEffect: overdriveBlockFull
+    region: particle
     }
   }
 ]
