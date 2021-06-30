@@ -1,8 +1,8 @@
 name: Tesseract
 description: a long forgotten mech that was used in galatic wars
 type: mech
-speed: 0.4
-hitSize: 10
+speed: 0.2
+hitSize: 25
 health: 6750
 details: hhh
 weapons:[
@@ -11,7 +11,7 @@ name: tesseract-cannon
   x: 15
   y: -0.25
   top: false
-  reload: 9
+  reload: 11
   shootX: -1
   shootY: 6
   bullet: {
