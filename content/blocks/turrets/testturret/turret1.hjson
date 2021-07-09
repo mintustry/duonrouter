@@ -19,7 +19,7 @@ ammoTypes: {
       particles: 5
       sizeFrom: 10
       sizeTo: 0
-      region: "plasma"
+      region: "square"
     }
   }
 }
