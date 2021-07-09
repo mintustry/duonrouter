@@ -19,7 +19,7 @@ ammoTypes: {
       particles: 5
       sizeFrom: 10
       sizeTo: 0
-      region: "duo"
+      region: "rubble-8-0"
     }
   }
 }
