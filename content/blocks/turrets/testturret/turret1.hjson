@@ -19,6 +19,7 @@ ammoTypes: {
       sizeTo: 0
     smokeEffect: none
     speed: 0
+    }
   }
 }
 reloadTime: 20
