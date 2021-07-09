@@ -1,7 +1,7 @@
 name: test1
-description: 
+description: e
 type: itemTurret
-details: 
+details: e 
 requirements: [
 copper/560
 ] 
