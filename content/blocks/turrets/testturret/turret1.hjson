@@ -19,19 +19,19 @@ ammoTypes: {
       particles: 5
       sizeFrom: 10
       sizeTo: 0
+      region: diamond
     }
   }
 }
 reloadTime: 20
 rotateSpeed: 10
 shots: 2
-spread: 64
 alternate: true
 recoilAmount: 16
 restitution: 0.02
 range: 1600
 shootCone: 15
-size: 16
+size: 1
 inaccuracy: 2
 health: 1
 research: duo
