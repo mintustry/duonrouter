@@ -17,8 +17,8 @@ ammoTypes: {
       particles: 5
       sizeFrom: 10
       sizeTo: 0
-    smokeEffect: none
-    speed: 0
+      smokeEffect: none
+      speed: 0
     }
   }
 }
