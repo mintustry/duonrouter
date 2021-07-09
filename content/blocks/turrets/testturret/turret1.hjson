@@ -36,4 +36,4 @@ inaccuracy: 2
 health: 1
 research: duo
 category: turret
-buoldVisibility: "hidden"
+buildVisibility: "hidden"
