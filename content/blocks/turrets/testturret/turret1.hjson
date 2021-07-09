@@ -1,1 +1,38 @@
-
+name: test1
+description: 
+type: itemTurret
+details: 
+requirements: [
+copper/560
+] 
+ammoTypes: {
+  copper: {
+   type: BasicBulletType
+    height: 9
+    damage: 9
+    width: 9
+    lifetime: 0
+    shootEffect: {
+      type: ParticleEffect
+      particles: 5
+      sizeFrom: 10
+      sizeTo: 0
+    smokeEffect: none
+    speed: 0
+  }
+}
+reloadTime: 20
+rotateSpeed: 10
+shots: 2
+spread: 64
+alternate: true
+recoilAmount: 16
+restitution: 0.02
+range: 1600
+shootCone: 15
+size: 16
+inaccuracy: 2
+health: 1
+research: duo
+category: turret
+buoldVisibility: "hidden"
