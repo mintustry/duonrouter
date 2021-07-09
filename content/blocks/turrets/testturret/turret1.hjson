@@ -7,18 +7,18 @@ copper/560
 ] 
 ammoTypes: {
   copper: {
-   type: BasicBulletType
+    type: BasicBulletType
     height: 9
     damage: 9
     width: 9
     lifetime: 0
+    smokeEffect: none
+    speed: 0
     shootEffect: {
       type: ParticleEffect
       particles: 5
       sizeFrom: 10
       sizeTo: 0
-      smokeEffect: none
-      speed: 0
     }
   }
 }
