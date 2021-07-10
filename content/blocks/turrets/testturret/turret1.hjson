@@ -16,11 +16,11 @@ ammoTypes: {
     speed: 0
     shootEffect: {
       type: ParticleEffect
-      particles: 1
+      particles: 5
       sizeFrom: 10
-      sizeTo: 0
+      sizeTo: 5
       region: "duo-n-router-diamond"
-      cone: 0
+      cone: 45
       colorFrom: ffffffff
       colorTo:  ffffff00
       length: 100
