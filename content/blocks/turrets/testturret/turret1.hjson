@@ -16,11 +16,11 @@ ammoTypes: {
     speed: 0
     shootEffect: {
       type: ParticleEffect
-      particles: 5
+      particles: 1
       sizeFrom: 10
       sizeTo: 0
       region: "duo-n-router-diamond"
-      cone: 45
+      cone: 0
       colorFrom: ffffffff
       colorTo:  ffffff00
       length: 100
@@ -28,15 +28,13 @@ ammoTypes: {
   }
 }
 reloadTime: 20
-rotateSpeed: 10
+rotateSpeed: 5
 shots: 2
 alternate: true
-recoilAmount: 16
+recoilAmount: 0
 restitution: 0.02
 range: 1600
-shootCone: 15
 size: 1
-inaccuracy: 2
 health: 1
 research: duo
 category: turret
