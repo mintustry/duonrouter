@@ -22,7 +22,7 @@ ammoTypes: {
       region: "duo-n-router-diamond"
       cone: 45
       colorFrom: ffffffff
-      colorTo:  ffffff00
+      colorTo:  ffffff50
       length: 100
     }
   }
