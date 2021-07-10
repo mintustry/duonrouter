@@ -23,7 +23,7 @@ ammoTypes: {
       cone: 45
       colorFrom: ffffffff
       colorTo:  ffffff00
-      lifetime: 150
+      lifetime: 1500
     }
   }
 }
