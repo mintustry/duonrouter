@@ -20,7 +20,7 @@ ammoTypes: {
       sizeFrom: 10
       sizeTo: 0
       region: "shape-3"
-      spin: 36
+      cone: 45
     }
   }
 }
