@@ -1,5 +1,3 @@
-![adsnkl](https://user-images.githubusercontent.com/70564305/125212424-a7ca1800-e2f0-11eb-9dce-7e622df0d570.png)
-# preference
 its a mod,
 
 
@@ -9,7 +7,7 @@ its a mod,
 
 
 
-
+![pixil-frame-0 (2)](https://user-images.githubusercontent.com/70564305/125213978-0cd53c00-e2f8-11eb-99ea-2762a3619453.png)
 
 
 
