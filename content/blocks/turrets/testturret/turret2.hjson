@@ -23,6 +23,6 @@ shots: 1
 range: 1
 size: 1
 health: 1
-research: air
+research: duo
 category: turret
 buildVisibility: "sandboxOnly"
