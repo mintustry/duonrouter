@@ -1,0 +1,28 @@
+name: test2
+description: none 
+type: itemTurret
+details: none
+requirements: [
+copper/1
+] 
+ammoTypes: {
+  copper: {
+   type: BasicBulletType
+    height: 2
+    damage: 2
+    width: 1
+    lifetime: 50
+    shootEffect: none
+    smokeEffect: none
+    speed: 5
+  }
+}
+reloadTime: 20
+rotateSpeed: 1
+shots: 1
+range: 1
+size: 1
+health: 1
+research: air
+category: turret
+buildVisibility: "sandboxOnly"
