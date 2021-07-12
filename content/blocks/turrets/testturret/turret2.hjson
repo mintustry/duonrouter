@@ -8,9 +8,9 @@ copper/1
 ammoTypes: {
   copper: {
    type: BasicBulletType
-    height: 2
+    height: 6
     damage: 2
-    width: 1
+    width: 5
     lifetime: 50
     shootEffect: none
     smokeEffect: none
@@ -18,7 +18,7 @@ ammoTypes: {
   }
 }
 reloadTime: 20
-rotateSpeed: 1
+rotateSpeed: 100
 shots: 1
 range: 1
 size: 1
