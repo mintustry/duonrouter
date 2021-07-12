@@ -39,3 +39,4 @@ health: 1
 research: duo
 category: turret
 buildVisibility: hidden
+alwaysUnlocked: true
