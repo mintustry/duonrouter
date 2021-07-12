@@ -38,5 +38,5 @@ size: 1
 health: 1
 research: duo
 category: turret
-buildVisibility: hidden
+buildVisibility: "hidden"
 alwaysUnlocked: false
