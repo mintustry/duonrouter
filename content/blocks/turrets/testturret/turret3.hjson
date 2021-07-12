@@ -7,18 +7,17 @@ copper/1
 ] 
 ammoTypes: {
   copper: {
-   type: EmpBulletType
-      radius: 100
-      timeIncrease: 2.5
-      timeDuration: 600
-      powerDamageScl: 2
-      powerSclDecrease: 0.2
-      hitPowerEffect: hitEmpSpark
-      chainEffect: chainEmp
-      applyEffect: heal
-      hitUnits: true
-      unitDamageScl: 0.7
-    }
+    type: EmpBulletType
+    radius: 100
+    timeIncrease: 2.5
+    timeDuration: 600
+    powerDamageScl: 2
+    powerSclDecrease: 0.2
+    hitPowerEffect: hitEmpSpark
+    chainEffect: chainEmp
+    applyEffect: heal
+    hitUnits: true
+    unitDamageScl: 0.7
   }
 }
 reloadTime: 20
