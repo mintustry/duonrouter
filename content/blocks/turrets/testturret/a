@@ -1,33 +1,28 @@
-name: 
-description: 
+name: none
+description: none 
 type: itemTurret
-details: 
+details: none
 requirements: [
-copper/560
+copper/1
 ] 
 ammoTypes: {
   copper: {
    type: BasicBulletType
-    height: 9
-    damage: 9
-    width: 9
+    height: 1
+    damage: 1
+    width: 1
     lifetime: 0
-    shootEffect: shootSmall
-    smokeEffect: shootSmallSmoke
+    shootEffect: none
+    smokeEffect: none
     speed: 0
   }
 }
 reloadTime: 20
-rotateSpeed: 10
-shots: 2
-spread: 64
-alternate: true
-recoilAmount: 16
-restitution: 0.02
-range: 1600
-shootCone: 15
-size: 16
-inaccuracy: 2
+rotateSpeed: 1
+shots: 1
+range: 1
+size: 1
 health: 1
-research: duo
+research: air
 category: turret
+buildVisibility: "sandboxOnly"
