@@ -1,5 +1,5 @@
 name: test2
-description: none 
+description: phantom explosion 
 type: itemTurret
 details: none
 requirements: [
@@ -15,6 +15,17 @@ ammoTypes: {
     shootEffect: none
     smokeEffect: none
     speed: 5
+    despawnEffect: {
+      type: ParticleEffect
+      particles: 5
+      sizeFrom: 10
+      sizeTo: 0
+      region: "duo-n-router-diamond"
+      cone: 360
+      colorFrom: ffffffff
+      colorTo:  ffffff50
+      length: 100
+    }
   }
 }
 reloadTime: 20
