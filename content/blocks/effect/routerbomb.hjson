@@ -1,5 +1,6 @@
 type: ShockMine
 health: 1
 size: 1
+name: router bomb
 category: effect
 research: router
