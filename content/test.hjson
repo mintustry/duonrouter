@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: test
+description: with, this exist?
+health: 1
+details: a
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 0
+updateEffect: plasticburn
+consumes: {
+  power: 0
+    items:{
+     items:[
+      copper/0
+      ]
+   }
+}
+requirements: [
+  copper/0
+]
+category: crafting
+research: copper
+outputItem: copper/1
