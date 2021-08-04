@@ -19,7 +19,7 @@ name: railgun
     type: BasicBulletType
     damage: 36
     sprite: "router"
-    speed: 30
+    speed: 5
     width: 20
     height: 20
     shootEffect: shootSmall
