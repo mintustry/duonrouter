@@ -24,3 +24,6 @@ requirements: [
 category: crafting
 research: copper
 outputItem: copper/1
+bars: {
+  health: ["e"]
+}
