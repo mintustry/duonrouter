@@ -6,3 +6,4 @@ damage: 0.01
 cooldown: 5
 category: effect
 research: router
+hasShadow: false
