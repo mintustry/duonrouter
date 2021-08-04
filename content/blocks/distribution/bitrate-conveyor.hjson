@@ -3,12 +3,12 @@ name: bit rate conveyor
 description: haven't i seen this name before?
 type: PayloadConveyor
 floating: true
-moveTime: 40
-moveForce: -111
+moveTime: -0.01
+moveForce: 1
 health: 340
-details: oh--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------no
+details: start you, piece of dingus
 size: 3
-payloadLimit: 3
+payloadLimit: 100000
 requirements: [
   copper/0
 ]
