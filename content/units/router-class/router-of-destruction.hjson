@@ -1,1 +1,31 @@
-
+name: n
+description: the god of destruction
+type: payload
+speed: 5
+accel: 1
+itemCapacity: 1250
+drag: 1
+details: uh
+hitSize: 60
+armor: 25
+weapons:[
+{
+name: railgun
+  x: 16
+  y: 8
+  top: false
+  reload: 16
+  bullet: {
+    type: BasicBulletType
+    damage: 36
+    sprite: "router"
+    width: 28
+    height: 36
+    shootEffect: shootSmall
+    lifetime: 240
+    }
+  }
+]
+health: 1500250
+engineOffset: 13
+rotateSpeed: 1
