@@ -1,0 +1,8 @@
+type: itemSource
+name: thick item source
+health: 3000
+size: 2
+description: why not use a thick one instead of 4 source?
+details: wait what?
+category: distribution
+alwaysUnlocked: true
