@@ -47,10 +47,22 @@ name: railgun
       shrinkY: 0
       shootEffect: shootSmall
       lifetime: 80
+      fragBullets: 4
+      fragBullet: {
+        type: BasicBulletType
+        damage: 12
+        sprite: "router"  
+        speed: 0.5
+        spin: 3
+        width: 5
+        height: 5
+        shrinkX: 0
+        shrinkY: 0
+        lifetime: 40
+        }
       }
     }
   }
 ]
 health: 1500250
-engineOffset: 13
 rotateSpeed: 1
