@@ -23,6 +23,13 @@ name: railgun
     width: 20
     height: 20
     shootEffect: shootSmall
+    despawnEffect:  {   
+      type: WaveEffect
+      sizeFrom: 0
+      sizeTo: 0
+      strokeFrom: 2
+      strokeTo: 0
+    }
     lifetime: 160
     shrinkX: 0
     shrinkY: 0
@@ -32,14 +39,14 @@ name: railgun
       type: BasicBulletType
       damage: 36 
       sprite: "router"  
-      speed: 3
+      speed: 1
       spin: 5
       width: 10
       height: 10
       shrinkX: 0
       shrinkY: 0
       shootEffect: shootSmall
-      lifetime: 160
+      lifetime: 80
       }
     }
   }
