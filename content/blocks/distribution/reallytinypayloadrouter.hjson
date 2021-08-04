@@ -1,0 +1,16 @@
+
+name: ReallyTinyPayloadRouter
+description: its very tiny
+type: PayloadRouter
+floating: true
+moveTime: 0.5
+moveForce: 100.5
+health: 694200000000000
+details: yayayyyayayayyayayaaayyayayayyayayayayayayeeeyeyyeyeyeyyeyyeyyyayayyyayyayayyayayayayaayyay plankton router
+size: 1
+payloadLimit: 100
+requirements: [
+  copper/0
+]
+category: distribution
+research: conveyor
