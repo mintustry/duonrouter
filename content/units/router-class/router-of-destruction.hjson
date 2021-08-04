@@ -24,8 +24,8 @@ name: railgun
     height: 20
     shootEffect: shootSmall
     lifetime: 160
-    shrinkX: 20
-    shrinkY: 20
+    shrinkX: 0
+    shrinkY: 0
     spin: 5
     fragBullets: 6
     fragBullet: {
@@ -36,8 +36,8 @@ name: railgun
       spin: 5
       width: 10
       height: 10
-      shrinkX: 20
-      shrinkY: 20
+      shrinkX: 0
+      shrinkY: 0
       shootEffect: shootSmall
       lifetime: 160
       }
