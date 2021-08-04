@@ -4,7 +4,7 @@ description: haven't i seen this name before?
 type: PayloadConveyor
 floating: true
 moveTime: 40
-moveForce: 0
+moveForce: 1000000
 health: 340
 details: oh--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------no
 size: 3
