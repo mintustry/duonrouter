@@ -7,4 +7,4 @@ cooldown: 5
 category: effect
 research: router
 hasShadow: false
-alwaysUnlocked: true
+BuildVisibility: "shown"
