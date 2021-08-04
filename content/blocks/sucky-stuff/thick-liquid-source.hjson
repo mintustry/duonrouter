@@ -1,0 +1,9 @@
+type: LiquidSource
+name: thick liquid source
+health: 3000
+size: 2
+description: same story here
+details: giga mex
+category: distribution
+alwaysUnlocked: true
+buildVisibility: "sandboxOnly"
