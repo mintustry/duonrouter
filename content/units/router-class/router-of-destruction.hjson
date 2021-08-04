@@ -25,7 +25,7 @@ name: railgun
     shootEffect: shootSmall
     despawnEffect:  {   
       type: WaveEffect
-      sizeFrom: 0
+      sizeFrom: 100
       sizeTo: 0
       strokeFrom: 2
       strokeTo: 0
