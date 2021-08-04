@@ -16,22 +16,22 @@ name: railgun
   top: false
   reload: 32
   bullet: {
-    type: BasicBulletType
+    type: BombBulletType
     damage: 36
     sprite: "router"
-    speed: 5
+    speed: 3
     width: 20
     height: 20
     shootEffect: shootSmall
     lifetime: 160
     fragBullets: 6
     fragBullet: {
-      type: BasicBulletType
+      type: BombBulletType
       damage: 36 
       sprite: "router"  
-      speed: 30
-      width: 20
-      height: 20
+      speed: 3
+      width: 10
+      height: 10
       shootEffect: shootSmall
       lifetime: 160
       }
