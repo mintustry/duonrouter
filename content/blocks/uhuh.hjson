@@ -1,29 +1,17 @@
-type: GenericSmelter
+type: wall
 name: test
-description: woh
+description: uhuh 
 health: 1
-details: a
+details: mmmm salvaging parts
 liquidCapacity: 0
-size: 2
+size: 1
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 0
 updateEffect: plasticburn
-consumes: {
-  power: 0
-    items:{
-     items:[
-      copper/0
-      ]
-   }
-}
 requirements: [
   copper/0
 ]
 category: crafting
 research: copper
-outputItem: copper/1
-bars: {
-  health: ["e"]
-}
+
