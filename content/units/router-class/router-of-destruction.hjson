@@ -10,7 +10,7 @@ hitSize: 60
 armor: 25
 weapons:[
 {
-name: weapon1
+name: tesseract-cannon
   x: 16
   y: 8
   top: false
@@ -64,7 +64,7 @@ name: weapon1
     }
   }
 {
-name: weapon1
+name: tesseract-cannon
   x: 32
   y: 16
   top: false
