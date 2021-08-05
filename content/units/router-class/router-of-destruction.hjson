@@ -80,12 +80,10 @@ name: tesseract-cannon
     width: 20
     height: 20
     shootEffect: shootSmall
-    despawnEffect: none
     lifetime: 160
     shrinkX: 0.1
     shrinkY: 0.1
     spin: 5
-    collides: false
     }
   }
 ]
