@@ -66,6 +66,7 @@ name: tesseract-cannon
 {
 name: tesseract-cannon
   rotateSpeed: 2
+  rotate: true
   x: 32
   y: 16
   top: false
@@ -84,6 +85,19 @@ name: tesseract-cannon
     shrinkX: 0.1
     shrinkY: 0.1
     spin: 5
+    fragBullets: 4
+    fragBullet: {
+      type: BasicBulletType
+      damage: 12
+      sprite: "router"  
+      speed: 0.5
+      spin: 3
+      width: 5
+      height: 5
+      shrinkX: 0
+      shrinkY: 0
+      lifetime: 40
+      }
     }
   }
 ]
