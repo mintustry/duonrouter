@@ -75,21 +75,29 @@ name: mortor
     type: BasicBulletType
     damage: 36
     sprite: "router"
-    speed: 3
-    width: 20
-    height: 20
+    speed: 1
+    width: 10
+    height: 10
     shootEffect: shootSmall
-    despawnEffect:  {   
-      type: WaveEffect
-      sizeFrom: 0
-      sizeTo: 100
-      strokeFrom: 2
-      strokeTo: 0
-    }
+    despawnEffect: none
     lifetime: 160
-    shrinkX: 0
-    shrinkY: 0
+    shrinkX: -1
+    shrinkY: -1
     spin: 5
+    collides: false
+    fragBullets: 1
+    fragBullet: {
+      type: BasicBulletType
+      type: BasicBulletType
+      damage: 12
+      sprite: "router"  
+      speed: 0.5
+      spin: 3
+      width: 5
+      height: 5
+      shrinkX: 1
+      shrinkY: 1
+      lifetime: 40
     }
   }
 ]
