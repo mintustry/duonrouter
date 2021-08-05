@@ -71,6 +71,7 @@ name: tesseract-cannon
   reload: 32
   autoTarget: true
   controllable: false
+  rotateSpeed: 2
   bullet: {
     type: ArtilleryBulletType
     damage: 36
