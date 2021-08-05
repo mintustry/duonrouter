@@ -63,6 +63,36 @@ name: railgun
       }
     }
   }
+{
+name: mortor
+  x: 16
+  y: 8
+  top: false
+  reload: 32
+  bullet: {
+    type: BasicBulletType
+    damage: 36
+    sprite: "router"
+    speed: 3
+    width: 20
+    height: 20
+    shootEffect: shootSmall
+    despawnEffect:  {   
+      type: WaveEffect
+      sizeFrom: 0
+      sizeTo: 100
+      strokeFrom: 2
+      strokeTo: 0
+    }
+    lifetime: 160
+    shrinkX: 0
+    shrinkY: 0
+    spin: 5
+    autoTarget: true
+    controllable: false
+    }
+  }
 ]
+
 health: 1500250
 rotateSpeed: 1
