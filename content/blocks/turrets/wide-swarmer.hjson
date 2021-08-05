@@ -2,6 +2,7 @@
 name: swarmer wide
 description: w i d e
 type: itemTurret
+shootLength: 8
 requirements: [
 copper/560
 ] 
@@ -29,7 +30,7 @@ shots: 8
 xRand: 12
 spread: 4
 alternate: false
-recoilAmount: 16
+recoilAmount: 1
 restitution: 0.02
 range: 300
 shootCone: 15
