@@ -65,13 +65,13 @@ name: tesseract-cannon
   }
 {
 name: tesseract-cannon
+  rotateSpeed: 2
   x: 32
   y: 16
   top: false
   reload: 32
   autoTarget: true
   controllable: false
-  rotateSpeed: 2
   bullet: {
     type: ArtilleryBulletType
     damage: 36
