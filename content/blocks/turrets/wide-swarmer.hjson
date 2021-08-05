@@ -36,6 +36,7 @@ range: 300
 shootCone: 15
 size: 3
 inaccuracy: 10
+shootSound: missile
 health: 64000
 burstSpacing: 5
 research: duo
