@@ -26,8 +26,8 @@ name: railgun
     despawnEffect:  {   
       type: WaveEffect
       sizeFrom: 0
-      sizeTo: 100
-      strokeFrom: 2
+      sizeTo: 50
+      strokeFrom: 5
       strokeTo: 0
     }
     lifetime: 160
@@ -72,34 +72,19 @@ name: mortor
   autoTarget: true
   controllable: false
   bullet: {
-    type: BasicBulletType
+    type: ArtilleryBulletType
     damage: 36
     sprite: "router"
     speed: 1
-    width: 10
-    height: 10
+    width: 20
+    height: 20
     shootEffect: shootSmall
     despawnEffect: none
     lifetime: 160
-    shrinkX: -1
-    shrinkY: -1
+    shrinkX: 0.1
+    shrinkY: 0.1
     spin: 5
     collides: false
-    fragBullets: 1
-    fragCone: 0
-    fragBullet: {
-      type: BasicBulletType
-      type: BasicBulletType
-      damage: 12
-      sprite: "router"  
-      speed: 0.5
-      spin: 3
-      width: 15
-      height: 15
-      shrinkX: 1
-      shrinkY: 1
-      lifetime: 40
-      }
     }
   }
 ]
