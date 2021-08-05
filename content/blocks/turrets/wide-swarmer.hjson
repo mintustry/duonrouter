@@ -25,7 +25,7 @@ ammoTypes: {
   }
 }
 reloadTime: 30
-rotateSpeed: 10
+rotateSpeed: 5
 shots: 8
 xRand: 12
 spread: 4
