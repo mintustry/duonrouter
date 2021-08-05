@@ -98,6 +98,7 @@ name: mortor
       shrinkX: 1
       shrinkY: 1
       lifetime: 40
+      }
     }
   }
 ]
