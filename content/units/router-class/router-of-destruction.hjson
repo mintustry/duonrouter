@@ -65,10 +65,12 @@ name: railgun
   }
 {
 name: mortor
-  x: 16
-  y: 8
+  x: 32
+  y: 16
   top: false
   reload: 32
+  autoTarget: true
+  controllable: false
   bullet: {
     type: BasicBulletType
     damage: 36
@@ -88,8 +90,6 @@ name: mortor
     shrinkX: 0
     shrinkY: 0
     spin: 5
-    autoTarget: true
-    controllable: false
     }
   }
 ]
