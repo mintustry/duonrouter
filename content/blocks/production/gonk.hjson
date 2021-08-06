@@ -9,12 +9,12 @@ size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 0
+craftTime: 2
 updateEffect: plasticburn
 consumes: {
   power: 0
-    items:{
-     items:[
+  items:{
+    items:[
       copper/3
       ]
    }
