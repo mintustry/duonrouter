@@ -28,4 +28,9 @@ category: crafting
 sine: false
 research: copper
 outputItem: lead/4
-bars: [totalProgress, "b"]
+bars: [
+  {
+  type: totalProgress
+  name: s
+  }
+]
