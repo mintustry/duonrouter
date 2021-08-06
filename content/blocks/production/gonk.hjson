@@ -30,8 +30,7 @@ research: copper
 outputItem: lead/1
 bars: [
 {
-  no: {
-    type: totalProgress
+  type: totalProgress
+  name: e
   }
-}
 ]
