@@ -29,7 +29,9 @@ sine: false
 research: copper
 outputItem: lead/1
 bars: [
+{
   no: {
     type: totalProgress
   }
+}
 ]
