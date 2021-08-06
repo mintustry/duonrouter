@@ -10,18 +10,59 @@ ammoTypes: {
   blast-compound: {
    type: MissileBulletType
     height: 8
-    damage: 10
+    damage: 8
     width: 8
-    lifetime: 960
+    lifetime: 52
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     speed: 3.7
+    homingPower: 0.08
     drag: -0.01
     shrinkY: 0
     splashDamageRadius: 30
     splashDamage: 45
     hitEffect: blastExplosion
     despawnEffect: blastExplosion
+    status: blasted
+  }
+  pyratite: {
+   type: MissileBulletType
+    height: 7
+    damage: 8
+    width: 8
+    lifetime: 52
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 3.7
+    drag: -0.01
+    shrinkY: 0
+    hitEffect: blastExplosion
+    despawnEffect: blastExplosion
+    splashDamageRadius: 20
+    splashDamage: 30
+    homingPower: 0.08
+    makeFire: true
+    status: burning
+  }
+  surge-alloy: {
+   type: MissileBulletType
+    height: 8
+    damage: 8
+    width: 8
+    lifetime: 52
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    speed: 3.7
+    drag: -0.01
+    lightningLength: 10
+    lightning: 2
+    lightningDamage: 10
+    shrinkY: 0
+    hitEffect: blastExplosion
+    despawnEffect: blastExplosion
+    splashDamageRadius: 25
+    splashDamage: 35
+    homingPower: 0.08
   }
 }
 reloadTime: 30
