@@ -27,5 +27,4 @@ frameCount: 5
 category: crafting
 sine: false
 research: copper
-outputItem: lead/4
-bars: [totalProgress,"1"]
+outputItem: lead/1
