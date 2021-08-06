@@ -28,8 +28,10 @@ category: crafting
 sine: false
 research: copper
 outputItem: lead/1
-bars: {
-  totalProgress: {
-  name: e
+bars: [
+{
+  totalProgress:{
+    name: e
   }
 }
+]
