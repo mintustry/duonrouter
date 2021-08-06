@@ -1,0 +1,28 @@
+
+type: GenericSmelter
+name: gonk
+description: junk
+health: 1
+details: B
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 0
+updateEffect: plasticburn
+consumes: {
+  power: 0
+    items:{
+     items:[
+      copper/3
+      ]
+   }
+}
+requirements: [
+  copper/0
+]
+drawer: drawAnimation
+category: crafting
+research: copper
+outputItem: lead/4
