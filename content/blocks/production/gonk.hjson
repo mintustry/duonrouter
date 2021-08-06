@@ -29,8 +29,7 @@ sine: false
 research: copper
 outputItem: lead/4
 bars: [
-  {
-  type: totalProgress
-  name: s
+{
+  totalProgress: e
   }
 ]
