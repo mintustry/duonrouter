@@ -1,5 +1,5 @@
 
-type: GenericSmelter
+type: GenericCrafter
 name: gonk
 description: junk
 health: 1
