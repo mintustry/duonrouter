@@ -25,5 +25,6 @@ requirements: [
 drawer: drawAnimation
 frameCount: 5
 category: crafting
+sine: false
 research: copper
 outputItem: lead/4
