@@ -13,7 +13,7 @@ weapons:[
 name: mech-can
   x: -66
   y: 8
-  shootY: 25
+  shootY: 30
   top: false
   reload: 32
   bullet: {
