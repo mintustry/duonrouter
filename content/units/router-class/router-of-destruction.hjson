@@ -86,7 +86,7 @@ name: tesseract-cannon
     shrinkY: 0.2
     spin: 5
     fromColor: ffffff00
-    toColor: ffffff
+    toColor: ffffffff
     fragBullets: 4
     fragBullet: {
       type: BasicBulletType
