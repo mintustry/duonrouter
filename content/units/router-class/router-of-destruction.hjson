@@ -11,7 +11,7 @@ armor: 25
 weapons:[
 {
 name: mech-can
-  x: 16
+  x: -86
   y: 8
   top: false
   reload: 32
