@@ -16,6 +16,7 @@ name: mech-can
   shootY: 30
   top: false
   reload: 32
+  shootSound: shootBig
   bullet: {
     type: BasicBulletType
     damage: 36
@@ -24,7 +25,6 @@ name: mech-can
     width: 20
     height: 20
     shootEffect: shootSmall
-    shootSound: shootBig
     despawnEffect:  {   
       type: WaveEffect
       sizeFrom: 0
