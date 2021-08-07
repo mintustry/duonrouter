@@ -82,9 +82,11 @@ name: tesseract-cannon
     height: 20
     shootEffect: shootSmall
     lifetime: 160
-    shrinkX: 0.1
-    shrinkY: 0.1
+    shrinkX: 0.2
+    shrinkY: 0.2
     spin: 5
+    fromColor: ffffff00
+    toColor: ffffff
     fragBullets: 4
     fragBullet: {
       type: BasicBulletType
