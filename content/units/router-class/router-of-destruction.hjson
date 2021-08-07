@@ -11,8 +11,9 @@ armor: 25
 weapons:[
 {
 name: mech-can
-  x: -86
+  x: -66
   y: 8
+  shootY: 25
   top: false
   reload: 32
   bullet: {
