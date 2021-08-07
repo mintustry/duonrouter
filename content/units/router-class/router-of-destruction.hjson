@@ -10,7 +10,7 @@ hitSize: 60
 armor: 25
 weapons:[
 {
-name: tesseract-cannon
+name: mech-can
   x: 16
   y: 8
   top: false
