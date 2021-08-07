@@ -16,7 +16,7 @@ name: mech-can
   shootY: 30
   top: false
   reload: 32
-  shootSound: shootBig
+  shootSound: shotgun
   bullet: {
     type: BasicBulletType
     damage: 36
