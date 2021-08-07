@@ -24,6 +24,7 @@ name: mech-can
     width: 20
     height: 20
     shootEffect: shootSmall
+    shootSound: shootBig
     despawnEffect:  {   
       type: WaveEffect
       sizeFrom: 0
