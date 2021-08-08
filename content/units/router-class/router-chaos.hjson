@@ -15,7 +15,7 @@ name: mech-can
   y: 8
   shootY: 35
   shots: 3
-  shotDelay: 10
+  shotDelay: 3
   top: false
   reload: 32
   recoil: 10
@@ -24,7 +24,7 @@ name: mech-can
     type: BasicBulletType
     damage: 275
     sprite: "router"
-    speed: 3
+    speed: 5
     width: 20
     height: 20
     shootEffect: shootSmall
