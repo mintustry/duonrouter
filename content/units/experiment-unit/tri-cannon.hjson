@@ -25,7 +25,9 @@ name: tri-cannon-base
   top: true
   reload: 10000000
   shootX: 0
+  rotate: true
   shootY: 0
+  rotateSpeed: 10
   bullet: {
   recoil: 0
     type: ShrapnelBulletType
@@ -41,9 +43,11 @@ name: tri-cannon-left
   x: 0
   y: 0
   top: true
+  rotate: true
   reload: 30
   shootX: 5
   shootY: 10
+  rotateSpeed: 10
   bullet: {
   recoil: 20
     type: ShrapnelBulletType
@@ -59,10 +63,12 @@ name: tri-cannon-med
   x: 0
   y: 0
   top: true
+  rotate: true
   reload: 30
   shotDelay: 10
   shootX: 0
   shootY: 10
+  rotateSpeed: 10
   bullet: {
   recoil: 20
     type: ShrapnelBulletType
