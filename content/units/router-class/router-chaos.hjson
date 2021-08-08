@@ -76,8 +76,8 @@ name: router-cannonier
   rotateSpeed: 2
   rotate: true
   x: 32
-  y: 16
-  top: false
+  y: -16
+  top: true
   reload: 32
   autoTarget: true
   controllable: false
