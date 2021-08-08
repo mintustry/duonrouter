@@ -24,7 +24,7 @@ name: mech-can
     type: BasicBulletType
     damage: 575
     sprite: "router"
-    speed: 5
+    speed: 10
     width: 20
     height: 20
     shootEffect: shootSmall
@@ -38,7 +38,7 @@ name: mech-can
       strokeFrom: 5
       strokeTo: 0
     }
-    lifetime: 160
+    lifetime: 40
     shrinkX: 0
     shrinkY: 0
     spin: 5
