@@ -22,13 +22,13 @@ name: mech-can
   shootSound: shootBig
   bullet: {
     type: BasicBulletType
-    damage: 275
+    damage: 575
     sprite: "router"
     speed: 5
     width: 20
     height: 20
     shootEffect: shootSmall
-    pierceCap: 3
+    pierceCap: 5
     pierceBuilding: true
     pierce: true
     despawnEffect:  {   
@@ -45,9 +45,9 @@ name: mech-can
     fragBullets: 6
     fragBullet: {
       type: BasicBulletType
-      damage: 200 
+      damage: 450 
       sprite: "router"  
-      speed: 1
+      speed: 2
       spin: 5
       width: 10
       height: 10
@@ -58,9 +58,9 @@ name: mech-can
       fragBullets: 4
       fragBullet: {
         type: BasicBulletType
-        damage: 100
+        damage: 345
         sprite: "router"  
-        speed: 0.5
+        speed: 1
         spin: 3
         width: 5
         height: 5
