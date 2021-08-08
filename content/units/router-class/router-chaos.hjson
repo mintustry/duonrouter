@@ -83,14 +83,7 @@ name: router-cannonier
   controllable: false
   bullet: {
     type: ArtilleryBulletType
-    trailEffect: {
-      type: ParticleEffect
-      sizeFrom: 0
-      sizeTo: 30
-      region: "router"
-      spin: 4
-      particles: 1
-    }
+    trailEffect: none
     damage: 36
     sprite: "router"
     speed: 1
