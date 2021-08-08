@@ -86,7 +86,7 @@ name: router-cannonier
     trailEffect: {
       type: ParticleEffect
       sizeFrom: 0
-      sizeTo: 10
+      sizeTo: 30
       region: "router"
       spin: 4
       particles: 1
