@@ -7,7 +7,7 @@ itemCapacity: 1250
 drag: 1
 details: uh
 hitSize: 60
-armor: 25
+armor: 450
 weapons:[
 {
 name: mech-can
@@ -110,5 +110,5 @@ name: tesseract-cannon
   }
 ]
 
-health: 1500250
+health: 2875000
 rotateSpeed: 1
