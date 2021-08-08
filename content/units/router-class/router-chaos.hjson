@@ -14,6 +14,8 @@ name: mech-can
   x: -62
   y: 8
   shootY: 35
+  shots: 3
+  shotDelay: 120
   top: false
   reload: 32
   recoil: 10
@@ -26,7 +28,7 @@ name: mech-can
     width: 20
     height: 20
     shootEffect: shootSmall
-    pierceCap: 10
+    pierceCap: 3
     pierceBuilding: true
     pierce: true
     despawnEffect:  {   
