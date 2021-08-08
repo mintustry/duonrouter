@@ -72,7 +72,7 @@ name: mech-can
     }
   }
 {
-name: tesseract-cannon
+name: router-cannonier
   rotateSpeed: 2
   rotate: true
   x: 32
