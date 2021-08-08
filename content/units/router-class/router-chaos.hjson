@@ -79,7 +79,6 @@ name: router-cannonier
   y: -16
   top: true
   reload: 32
-  trailInterval: 10
   autoTarget: true
   controllable: false
   bullet: {
@@ -90,6 +89,7 @@ name: router-cannonier
       sizeTo: 10
       region: "router"
       spin: 4
+      particles: 1
     }
     damage: 36
     sprite: "router"
