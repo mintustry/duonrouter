@@ -22,7 +22,7 @@ weapons:[
 name: tri-cannon-base
   x: 0
   y: 0
-  top: true
+  top: false
   reload: 10000000
   shootX: 0
   rotate: true
@@ -42,7 +42,7 @@ name: tri-cannon-base
 name: tri-cannon-left
   x: 0
   y: 0
-  top: true
+  top: false
   rotate: true
   reload: 30
   shootX: 5
@@ -62,7 +62,7 @@ name: tri-cannon-left
 name: tri-cannon-med
   x: 0
   y: 0
-  top: true
+  top: false
   rotate: true
   reload: 30
   shotDelay: 10
@@ -83,7 +83,7 @@ name: tri-cannon-med
 name: tri-cannon-right
   x: 0
   y: 0
-  top: true
+  top: false
   reload: 30
   shotDelay: 20
   shootX: -5
