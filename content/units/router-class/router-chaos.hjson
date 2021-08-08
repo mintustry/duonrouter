@@ -79,6 +79,7 @@ name: router-cannonier
   y: -16
   top: true
   reload: 32
+  trailInterval: 10
   autoTarget: true
   controllable: false
   bullet: {
