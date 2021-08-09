@@ -104,7 +104,7 @@ name: router-cannonier
       sprite: "router"  
       speed: 0.5
       lifetime: 60
-      spin: 8
+      spin: 14
       width: 10
       height: 10
       shrinkX: 0
