@@ -103,6 +103,7 @@ name: router-cannonier
       trailEffect: none
       sprite: "router"  
       speed: 0.5
+      lifetime: 60
       spin: 3
       width: 10
       height: 10
@@ -125,13 +126,13 @@ name: router-cannonier
   shootSound: shootBig
   bullet: {
     type: BasicBulletType
-    damage: 30
+    damage: 120
     sprite: "router"
     speed: 7
     width: 10
     height: 10
     shootEffect: shootSmall
-    lifetime: 160
+    lifetime: 130
     spin: 5
     }
   }
