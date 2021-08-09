@@ -7,7 +7,7 @@ itemCapacity: 1250
 drag: 1
 details: uh
 hitSize: 60
-armor: 450
+armor: 1675
 weapons:[
 {
 name: mech-can
@@ -111,5 +111,5 @@ name: router-cannonier
   }
 ]
 
-health: 2875000
+health: 5602850
 rotateSpeed: 1
