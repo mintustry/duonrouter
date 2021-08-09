@@ -86,7 +86,7 @@ name: router-cannonier
     trailEffect: none
     damage: 36
     sprite: "router"
-    speed: 1
+    speed: 2
     width: 20
     height: 20
     shootEffect: shootSmall
@@ -126,7 +126,7 @@ name: router-cannonier
     type: BasicBulletType
     damage: 50
     sprite: "router"
-    speed: 1
+    speed: 5
     width: 20
     height: 20
     shootEffect: shootSmall
