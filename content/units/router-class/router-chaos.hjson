@@ -97,6 +97,7 @@ name: router-cannonier
     fragLifeMax: 2.6
     fragLifeMin: 2
     fragBullets: 4
+    splashDamage: 100
     fragBullet: {
       type: ArtilleryBulletType
       damage: 12
