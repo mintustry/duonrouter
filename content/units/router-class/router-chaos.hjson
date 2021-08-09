@@ -94,10 +94,13 @@ name: router-cannonier
     shrinkX: 0.2
     shrinkY: 0.2
     spin: 5
+    fragLifeMax: 1.3
+    fragLifeMin: 1
     fragBullets: 4
     fragBullet: {
-      type: BasicBulletType
+      type: ArtilleryBulletType
       damage: 12
+      trailEffect: none
       sprite: "router"  
       speed: 0.5
       spin: 3
@@ -107,6 +110,27 @@ name: router-cannonier
       shrinkY: 0
       lifetime: 40
       }
+    }
+  }
+  name: router-cannonier
+  rotateSpeed: 5
+  rotate: true
+  x: 56
+  y: -16
+  top: true
+  reload: 16
+  autoTarget: true
+  controllable: false
+  bullet: {
+    type: BasicBulletType
+    damage: 50
+    sprite: "router"
+    speed: 1
+    width: 20
+    height: 20
+    shootEffect: shootSmall
+    lifetime: 160
+    spin: 5
     }
   }
 ]
