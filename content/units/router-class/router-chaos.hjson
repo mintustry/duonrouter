@@ -104,7 +104,7 @@ name: router-cannonier
       sprite: "router"  
       speed: 0.5
       lifetime: 60
-      spin: 3
+      spin: 8
       width: 10
       height: 10
       shrinkX: 0
@@ -132,7 +132,7 @@ name: router-cannonier
     width: 10
     height: 10
     shootEffect: shootSmall
-    lifetime: 130
+    lifetime: 80
     spin: 5
     }
   }
