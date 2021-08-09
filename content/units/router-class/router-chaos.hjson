@@ -112,6 +112,7 @@ name: router-cannonier
       }
     }
   }
+{
   name: router-cannonier
   rotateSpeed: 5
   rotate: true
