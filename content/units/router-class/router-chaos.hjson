@@ -37,13 +37,14 @@ name: mech-can
         {
         type: WaveEffect
         sizeFrom: 0
-        sizeTo: 50
+        sizeTo: 25
         strokeFrom: 5
         strokeTo: 0
         }
         {
         type: ParticleEffect
         line: true
+        length: 60
         lenFrom: 4
         lenTo: 2
         }
