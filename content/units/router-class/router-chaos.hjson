@@ -31,7 +31,7 @@ name: mech-can
     pierceCap: 5
     pierceBuilding: true
     pierce: true
-    despawnEffect:  {   
+    despawnEffect: {   
       type: MultiEffect
       effects: [
         {
@@ -78,10 +78,10 @@ name: mech-can
         shrinkX: 0
         shrinkY: 0
         lifetime: 40
-        }
       }
     }
   }
+}
 {
 name: router-cannonier
   rotateSpeed: 2
@@ -123,9 +123,9 @@ name: router-cannonier
       shrinkX: 0
       shrinkY: 0
       lifetime: 40
-      }
     }
   }
+}
 {
 name: router-cannonier
   rotateSpeed: 5
@@ -147,8 +147,8 @@ name: router-cannonier
     shootEffect: shootSmall
     lifetime: 80
     spin: 5
-    }
   }
+}
 ]
 
 health: 5602850
