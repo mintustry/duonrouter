@@ -51,10 +51,15 @@ name: mech-can
         line: true
         length: 30
         baseLength: 15
-        lenFrom: 4
+        lenFrom: 6
         lenTo: 2
-        strokeFrom: 3
-        strokeTo: 3
+        strokeFrom: 2
+        strokeTo: 2
+        }
+        {
+        type: ExplosionEffect
+        smokes: 6
+        sparks:4
         }
       ]
     }
