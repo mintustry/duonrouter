@@ -48,8 +48,8 @@ name: mech-can
         length: 60
         lenFrom: 4
         lenTo: 2
-        strokeFrom: 5
-        strokeTo: 5
+        strokeFrom: 3
+        strokeTo: 3
         }
       ]
     }
