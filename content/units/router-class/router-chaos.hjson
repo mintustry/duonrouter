@@ -48,6 +48,7 @@ name: mech-can
         lenTo: 2
         }
       ]
+    }
     lifetime: 40
     shrinkX: 0
     shrinkY: 0
