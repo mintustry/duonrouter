@@ -36,6 +36,8 @@ name: mech-can
       effects: [
         {
         type: WaveEffect
+        colorTo: ffbe57
+        colorFrom: ffffff
         sizeFrom: 0
         sizeTo: 25
         strokeFrom: 5
@@ -44,8 +46,11 @@ name: mech-can
         {
         type: ParticleEffect
         particles: 10
+        colorTo: ffbe57
+        colorFrom: ffffff
         line: true
         length: 60
+        baseLength: 30
         lenFrom: 4
         lenTo: 2
         strokeFrom: 3
