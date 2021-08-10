@@ -60,6 +60,13 @@ name: mech-can
         type: ExplosionEffect
         smokes: 6
         sparks:4
+        sparkLen: 3
+        sparkStroke: 1
+        waveRadBase: 2
+        waveRad: 15
+        waveStroke: 3
+        waveLife: 6
+        sparkRad: 23
         }
       ]
     }
