@@ -39,7 +39,7 @@ name: mech-can
         colorTo: ffbe57
         colorFrom: ffffff
         sizeFrom: 0
-        sizeTo: 25
+        sizeTo: 40
         strokeFrom: 5
         strokeTo: 0
         }
@@ -49,8 +49,8 @@ name: mech-can
         colorTo: ffbe57
         colorFrom: ffffff
         line: true
-        length: 60
-        baseLength: 30
+        length: 30
+        baseLength: 15
         lenFrom: 4
         lenTo: 2
         strokeFrom: 3
