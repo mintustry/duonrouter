@@ -32,12 +32,22 @@ name: mech-can
     pierceBuilding: true
     pierce: true
     despawnEffect:  {   
-      type: WaveEffect
-      sizeFrom: 0
-      sizeTo: 50
-      strokeFrom: 5
-      strokeTo: 0
-    }
+      type: MultiEffect
+      effects: [
+        {
+        type: WaveEffect
+        sizeFrom: 0
+        sizeTo: 50
+        strokeFrom: 5
+        strokeTo: 0
+        }
+        {
+        type: ParticleEffect
+        line: true
+        lenFrom: 4
+        lenTo: 2
+        }
+    ]
     lifetime: 40
     shrinkX: 0
     shrinkY: 0
