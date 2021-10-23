@@ -20,8 +20,8 @@ ammoTypes: {
   r: {
     type: LaserBulletType
     damage: 200
-    width: 100
-    length: 9000
+    width: 10
+    length: 150
     drawSize: 420
     lifetime: 10
     shake: 1
