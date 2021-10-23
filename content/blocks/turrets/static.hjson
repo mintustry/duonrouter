@@ -1,0 +1,44 @@
+name: static
+type: ItemTurret
+description: a. 
+reloadTime: 22.5
+burstSpacing: 5
+shootShake: 5
+range: 130
+recoilAmount: 4
+shootCone: 35
+shootLength: 7
+restitution: 1
+size: 2
+health: 2600
+shots: 3
+shootSound: laser
+inaccuracy: 12
+requirements: [
+	r/0
+] 
+ammoTypes: {
+  r: {
+    type: LaserBulletType
+    damage: 200
+    width: 10
+    length: 150
+    drawSize: 420
+    lifetime: 10
+    shake: 1
+    healPercent: 1
+    collidesTeam: true
+    collidesAir: true
+    Color: 84f491
+  }
+}
+consumes: {
+	liquid: {
+    liquid: water
+    amount: 0.04
+    booster: true
+    optional: true
+	}
+}
+research: fuse
+category: turret
