@@ -1,8 +1,7 @@
 name: static
 type: ItemTurret
 description: a. 
-reloadTime: 22.5
-burstSpacing: 5
+reloadTime: 5
 shootShake: 5
 range: 130
 recoilAmount: 4
@@ -11,7 +10,7 @@ shootLength: 7
 restitution: 1
 size: 2
 health: 2600
-shots: 3
+shots: 1
 shootSound: laser
 inaccuracy: 12
 requirements: [
