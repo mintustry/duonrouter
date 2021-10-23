@@ -24,8 +24,9 @@ ammoTypes: {
   lead: {
     type: LiquidBulletType
     orbSize: 4
+    reloadMultiplier: 15
     damage: 40
-    speed: 12
+    speed: 1
     lifetime: 50
     liquid: water
     collidesTeam: true
