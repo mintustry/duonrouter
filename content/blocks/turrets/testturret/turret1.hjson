@@ -30,7 +30,6 @@ ammoTypes: {
     liquid: water
     collidesTeam: true
     healPercent: 1.5
-    }
   }
 }
 reloadTime: 20
