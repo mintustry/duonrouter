@@ -2,6 +2,7 @@ name: splatter
 type: ItemTurret
 description: a. 
 reloadTime: 22.5
+burstSpacing: 5
 shootShake: 5
 range: 130
 recoilAmount: 0
