@@ -5,7 +5,7 @@ reloadTime: 22.5
 burstSpacing: 5
 shootShake: 5
 range: 130
-recoilAmount: 0
+recoilAmount: 20
 shootCone: 35
 shootLength: 7
 restitution: 1
