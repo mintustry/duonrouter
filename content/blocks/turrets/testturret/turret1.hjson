@@ -7,7 +7,7 @@ copper/560
 ] 
 ammoTypes: {
   copper: {
-    type: EmpBulletType
+    type: RailBulletType
     damage: 315000
     length: 980
     pierceDamageFactor: 0.75
