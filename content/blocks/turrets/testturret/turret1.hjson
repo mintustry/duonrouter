@@ -1,7 +1,7 @@
 name: test1
-description: e
+description: total usage
 type: itemTurret
-details: e 
+details: fuck 
 requirements: [
 copper/560
 ] 
@@ -21,12 +21,18 @@ ammoTypes: {
       colorTo: 6f7fe8
     }
   }
+  lead: {
+    type: LiquidBulletType
+    orbSize: 4
+    damage: 40
+    speed: 12
+    lifetime: 50
+    liquid: water
+    collidesTeam: true
+    healPercent: 1.5
+    }
+  }
 }
-trailWidth: 3
-trailLength: 15
-trailColor: 83f793
-despawnEffect: none
-despawnHit: true
 reloadTime: 20
 rotateSpeed: 5
 shots: 2
