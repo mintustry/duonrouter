@@ -32,6 +32,35 @@ ammoTypes: {
     collidesTeam: true
     healPercent: 1.5
   }
+  graphite: {
+    type: ContinuousLaserBulletType
+    damage: 1250
+    collidesTeam: true
+    healPercent: 4.5
+    length: 360
+    drawSize: 360
+    lifetime: 310
+    width: 18
+    colors: [
+      84f59150
+      a5f5af70
+      cef5d290
+      ffffff
+    ]
+    lightColor: 84f591
+    hitEffect: {
+      line: true
+      particles: 8
+      lifetime: 15
+      length: 45
+      lenFrom: 20
+      lenTo: 0
+      strokeFrom: 3
+      strokeTo: 1.5
+      colorFrom: 84f591
+      colorTo: 84f59150
+    }
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
