@@ -1,0 +1,60 @@
+name: splatter
+type: ItemTurret
+description: a. 
+reloadTime: 22.5
+shootShake: 5
+range: 130
+recoilAmount: 0
+spread: 22.5
+shootCone: 35
+size: 2
+health: 2600
+shots: 16
+shootSound: laser
+requirements: [
+	r/0
+] 
+ammoTypes: {
+	titanium: {
+   	type: ShrapnelBulletType
+   	length: 200
+   	damage: 180
+   	width: 20
+   	serrationLenScl: 3
+   	serrationSpaceOffset: 40
+  	serrationFadeOffset: 0
+    serrations: 12
+    serrationWidth: 10
+    ammoMultiplier: 6
+    lifetime: 40
+    shootEffect: thoriumShoot
+    smokeEffect: sparkShoot
+	}
+	thorium: {
+   	type: ShrapnelBulletType
+   	length: 100
+   	damage: 280
+   	width: 42
+   	serrationLenScl: 6
+   	serrationSpaceOffset: 40
+  	serrationFadeOffset: 0
+    serrations: 8
+    serrationWidth: 5
+    ammoMultiplier: 7
+    toColor: c2f9ff
+    fromColor: 9ee1e8
+    lifetime: 60
+    shootEffect: thoriumShoot
+    smokeEffect: sparkShoot
+  }
+}
+consumes: {
+	liquid: {
+    liquid: water
+    amount: 0.04
+    booster: true
+    optional: true
+	}
+}
+research: fuse
+category: turret
