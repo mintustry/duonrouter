@@ -21,7 +21,7 @@ ammoTypes: {
     type: LightningBulletType
     damage: 200
     lightningLength: 30
-    collidesAir: true
+    lightningLengthRand: 50
   }
 }
 consumes: {
