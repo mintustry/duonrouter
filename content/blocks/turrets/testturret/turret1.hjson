@@ -59,6 +59,7 @@ ammoTypes: {
       strokeTo: 1.5
       colorFrom: 84f591
       colorTo: 84f59150
+    }
   }
   coal: {
     type: LaserBoltBulletType
