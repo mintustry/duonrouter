@@ -8,55 +8,17 @@ copper/560
 ammoTypes: {
   copper: {
     type: EmpBulletType
-    scaleVelocity: true
-    damage: 20
-    splashDamage: 30
-    splashDamageRadius: 30
-    healPercent: 7
-    radius: 30
-    unitDamageScl: 0.8
-    timeIncrease: 1.25
-    timeDuration: 240
-    speed: 5
-    lifetime: 40
-    sprite: circle-bullet
-    width: 6
-    height: 6
-    shrinkY: 0
-    frontColor: ffffff
-    backColor: 83f793
-    lightColor: 83f793
-    hitColor: 83f793
-    hitEffect: {
-      lifetime: 70
-      effects: [
-        {
-          lifetime: 5
-          particles: 1
-          length: 0
-          sizeFrom: 30
-          sizeTo: 30
-          colorFrom: 83f793
-          colorTo: 83f793
-        }
-        {
-          lifetime: 70
-          sizeFrom: 30
-          sizeTo: 30
-          strokeFrom: 2
-          strokeTo: 0
-          colorFrom: 83f793
-          colorTo: 83f793
-        }
-        {
-          lifetime: 70
-          length: 0
-          particles: 1
-          sizeFrom: 4
-          sizeTo: 0
-          colorTo: 83f793
-        }
-      ]
+    damage: 315000
+    length: 980
+    pierceDamageFactor: 0.75
+    updateEffectSeg: 180
+    updateEffect: {
+      particles: 1
+      lifetime: 30
+      length: 0
+      sizeFrom: 60
+      colorFrom: 6f7fe8
+      colorTo: 6f7fe8
     }
   }
 }
