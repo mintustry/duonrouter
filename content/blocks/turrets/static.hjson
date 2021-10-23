@@ -19,17 +19,10 @@ requirements: [
 ] 
 ammoTypes: {
   r: {
-    type: LaserBulletType
+    type: LightningBulletType
     damage: 200
-    width: 10
-    length: 150
-    drawSize: 420
-    lifetime: 10
-    shake: 1
-    healPercent: 1
-    collidesTeam: true
+    lightningLength: 30
     collidesAir: true
-    Color: 84f491
   }
 }
 consumes: {
