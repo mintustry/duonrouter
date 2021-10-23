@@ -15,37 +15,18 @@ requirements: [
 	r/0
 ] 
 ammoTypes: {
-	titanium: {
-   	type: ShrapnelBulletType
-   	length: 200
-   	damage: 180
-   	width: 20
-   	serrationLenScl: 3
-   	serrationSpaceOffset: 40
-  	serrationFadeOffset: 0
-    serrations: 12
-    serrationWidth: 10
-    ammoMultiplier: 6
-    lifetime: 40
-    shootEffect: thoriumShoot
-    smokeEffect: sparkShoot
-	}
-	thorium: {
-   	type: ShrapnelBulletType
-   	length: 100
-   	damage: 280
-   	width: 42
-   	serrationLenScl: 6
-   	serrationSpaceOffset: 40
-  	serrationFadeOffset: 0
-    serrations: 8
-    serrationWidth: 5
-    ammoMultiplier: 7
-    toColor: c2f9ff
-    fromColor: 9ee1e8
-    lifetime: 60
-    shootEffect: thoriumShoot
-    smokeEffect: sparkShoot
+  r: {
+    type: LaserBulletType
+    damage: 200
+    width: 100
+    length: 9000
+    drawSize: 420
+    lifetime: 10
+    shake: 1
+    healPercent: 1
+    collidesTeam: true
+    collidesAir: true
+    Color: 84f491
   }
 }
 consumes: {
