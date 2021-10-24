@@ -42,11 +42,10 @@ ammoTypes: {
       colorFrom: ffffffff
       colorTo:  ffffff50
       length: 100
-      }
+    }
     smokeEffect: none
     speed: 5
     despawnEffect: name
-    }
   }
 }
 reloadTime: 20
