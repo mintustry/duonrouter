@@ -1,0 +1,39 @@
+
+name: blade
+type: ItemTurret
+description: a. 
+reloadTime: 2
+shootShake: 5
+range: 130
+recoilAmount: 0.8
+shootCone: 35
+shootLength: 7
+restitution: 0.1
+size: 3
+health: 2600
+shots: 1
+shootSound: flame
+inaccuracy: 12
+requirements: [
+	r/0
+] 
+ammoTypes: {
+  plastanium: {
+    type: BasicBulletType
+    speed: 5
+    witdh: 5
+    height: 5
+    reigon: "duo-n-router-arrow-bullet"
+	  damage: 20
+  }
+}
+consumes: {
+	liquid: {
+    liquid: water
+    amount: 0.04
+    booster: true
+    optional: true
+	}
+}
+research: fuse
+category: turret
