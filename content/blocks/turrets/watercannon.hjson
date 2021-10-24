@@ -1,5 +1,5 @@
 name: splatter
-type: LiquidTurret
+type: ItemTurret
 size: 2
 squareSprite: false
 requiresWater: true
@@ -22,15 +22,13 @@ shootEffect: {
   colorTo: 596ab825
 }
 ammoTypes: {
-  water: {
-    type: LiquidBulletType
-    liquid: water
+  titanium: {
+    type: BasicBulletType
     damage: 8
     speed: 12
     lifetime: 30
     drag: 0.05
-    orbSize: 6
-    fragbullets: 5
+    fragbullets: 25
     fragbullet: {
       type: LiquidBulletType
       liquid: water
