@@ -172,6 +172,7 @@ ammoTypes: {
     hitEffect: hitLiquid
   }
   plastanium: {
+    type: ShrapnelBulletType
     damage: 104
     length: 85
     width: 12
