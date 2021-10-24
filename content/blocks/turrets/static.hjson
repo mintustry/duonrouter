@@ -7,7 +7,7 @@ range: 130
 recoilAmount: 0.8
 shootCone: 35
 shootLength: 7
-restitution: 1
+restitution: 0.1
 size: 2
 health: 2600
 shots: 1
