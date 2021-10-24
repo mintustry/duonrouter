@@ -18,10 +18,18 @@ requirements: [
 ] 
 ammoTypes: {
   r: {
-    type: LightningBulletType
-    damage: 200
-    lightningLength: 30
-    lightningLengthRand: 50
+  type: BulletType
+	  ammoMultiplier: 3
+	  hitSize: 7
+	  lifetime: 13
+	  pierce: true
+	  statusDuration: 240
+	  shootEffect: shootSmallFlame
+	  hitEffect: hitFlameSmall
+	  despawnEffect: none
+	  status: burning
+	  keepVelocity: false
+	  hittable: false
   }
 }
 consumes: {
