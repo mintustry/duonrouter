@@ -23,8 +23,7 @@ shootEffect: {
 }
 ammoTypes: {
   titanium: {
-    type: LiquidBulletType
-    liquid: water
+    type: BasicBulletType
     damage: 8
     speed: 12
     lifetime: 30
