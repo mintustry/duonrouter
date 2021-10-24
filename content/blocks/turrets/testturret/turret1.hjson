@@ -161,6 +161,23 @@ ammoTypes: {
     ]
     lightColor: 6f7fe8
   }
+  thorium: {
+    type: SapBulletType
+    damage: 250
+    length: 260
+    sapStrength: 0.55
+    color: bf92f9
+    lightColor: a488eb
+    shootEffect: shootLiquid
+    hitEffect: hitLiquid
+  }
+  plastanium: {
+    damage: 104
+    length: 85
+    width: 12
+    toColor: ffd37f
+    buildingDamageMultiplier: 0.01
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
