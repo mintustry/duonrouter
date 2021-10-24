@@ -23,8 +23,8 @@ ammoTypes: {
     speed: 5
     witdh: 5
     height: 5
-    reigon: "duo-n-router-arrow-bullet"
-	  damage: 20
+    sprite: "duo-n-router-arrow-bullet"
+    damage: 20
   }
 }
 consumes: {
