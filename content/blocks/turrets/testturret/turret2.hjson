@@ -35,7 +35,8 @@ ammoTypes: {
     lifetime: 11
     shootEffect: {
       type: ParticleEffect
-      particles: 40
+      particles: 7
+      region: "duo-n-router-arrow-bullet"
       sizeFrom: 10
       sizeTo: 0
       cone: 25
