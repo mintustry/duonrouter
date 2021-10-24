@@ -132,6 +132,7 @@ ammoTypes: {
   }
   metaglass: {
     speed: 4
+    type: ArtilleryBulletType
     splashDamage: 850
     splashDamageRadius: 55
     width: 18
@@ -146,6 +147,7 @@ ammoTypes: {
     statusDuration: 1080
   }
   sand: {
+    type: LaserBulletType
     damage: 450
     lifetime: 35
     width: 16
