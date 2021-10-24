@@ -28,15 +28,23 @@ ammoTypes: {
     speed: 12
     lifetime: 30
     drag: 0.05
-    fragBullets: 25
+    fragBullets: 2
     fragBullet: {
-      type: LiquidBulletType
-      liquid: water
+      type: BasicBulletType
       damage: 8
       speed: 12
       lifetime: 30
       drag: 0.05
-      orbSize: 3
+      fragBullets: 29
+      fragBullet: {
+        type: LiquidBulletType
+        liquid: water
+        damage: 8
+        speed: 12
+        lifetime: 30
+        drag: 0.05
+        orbSize: 3
+      }
     }
   }
 }
