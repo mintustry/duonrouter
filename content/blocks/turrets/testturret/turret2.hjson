@@ -45,7 +45,7 @@ ammoTypes: {
     }
     smokeEffect: none
     speed: 5
-    despawnEffect: name
+    despawnEffect: none
   }
 }
 reloadTime: 20
