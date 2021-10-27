@@ -198,6 +198,34 @@ ammoTypes: {
     weaveScale: 8
     weaveMag: 1
   }
+  phase-fabric: {
+    type: BasicBulletType
+    sprite: "large-bomb"
+    width: 30
+    height: 30
+    maxRange: 30
+    ignoreRotation: true
+    backColor: 98ffa9
+    frontColor: ffffff
+    mixColorTo: ffffff
+    hitSound: Soundsplasmaboom
+    shootCone: 180
+    ejectEffect: none
+    hitShake: 4
+    collidesAir: false
+    lifetime: 70
+    despawnEffect: greenBomb
+    hitEffect: massiveExplosion
+    keepVelocity: false
+    spin: 2
+    shrinkX: 0.7
+    shrinkY: 0.7
+    speed: 0
+    collides: false
+    healPercent: 15
+    splashDamage: 220
+    splashDamageRadius: 80
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
