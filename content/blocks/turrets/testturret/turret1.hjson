@@ -179,6 +179,25 @@ ammoTypes: {
     toColor: ffd37f
     buildingDamageMultiplier: 0.01
   }
+  surge-alloy: {
+    type: MissileBulletType
+    width: 8
+    height: 8
+    shrinkY: 0
+    drag: -0.003
+    homingRange: 60
+    keepVelocity: false
+    splashDamageRadius: 25
+    splashDamage: 10
+    lifetime: 70
+    trailColor: gray
+    backColor: bulletYellowBack
+    frontColor: bulletYellow
+    hitEffect: blastExplosion
+    despawnEffect: blastExplosion
+    weaveScale: 8
+    weaveMag: 1
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
