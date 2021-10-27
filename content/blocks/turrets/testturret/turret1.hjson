@@ -190,9 +190,9 @@ ammoTypes: {
     splashDamageRadius: 25
     splashDamage: 10
     lifetime: 70
-    trailColor: gray
-    backColor: bulletYellowBack
-    frontColor: bulletYellow
+    trailColor: 454545
+    backColor: f9c27a
+    frontColor: fff8e8
     hitEffect: blastExplosion
     despawnEffect: blastExplosion
     weaveScale: 8
