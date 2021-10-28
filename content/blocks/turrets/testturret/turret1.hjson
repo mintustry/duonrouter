@@ -232,11 +232,12 @@ ammoTypes: {
   height: 1
   width:1 
   lifetime: 50
+  fragCone: 0
   fragBullets: 1
   fragBullet: {
     type: BasicBulletType
     speed: 0.1
-    drag: -0.01
+    drag: -0.1
     lifetime: 50
     width: 5
     height: 7
