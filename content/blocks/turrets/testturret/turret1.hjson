@@ -245,8 +245,6 @@ ammoTypes: {
     pierce: true
     pierceBuilding: true
     sprite: "duo-n-router-arrow-bullet"
-    backRegion: white
-    frontRegion: white
     }
   }
   spore-pod: {
