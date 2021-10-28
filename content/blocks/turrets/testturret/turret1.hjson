@@ -236,7 +236,7 @@ ammoTypes: {
   fragBullets: 1
   fragBullet: {
     type: BasicBulletType
-    speed: 0.1
+    speed: 0.5
     drag: -0.05
     lifetime: 100
     width: 5
