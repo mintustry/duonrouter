@@ -226,6 +226,13 @@ ammoTypes: {
     splashDamage: 220
     splashDamageRadius: 80
   }
+  blast-compound: {
+  type: BasicBulletType
+  speed: 1
+  height: 1
+  width:1 
+  lifetime: 50
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
