@@ -250,7 +250,7 @@ ammoTypes: {
   height: 2
   weight: 2
   lifetime: 50
-  splashDamageRadius: 100e+309
+  splashDamageRadius: 1000000
   splashDamage: 100e+309
   }
 }
