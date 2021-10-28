@@ -255,7 +255,7 @@ ammoTypes: {
   despawnEffect: {
     type: ParticleEffect
     particles: 1
-    lifetime: 30
+    lifetime: 150
     sizeFrom: 1000
     sizeTo: 1000
     colorFrom: ffffff
