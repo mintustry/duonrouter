@@ -252,6 +252,14 @@ ammoTypes: {
   lifetime: 50
   splashDamageRadius: 1000000
   splashDamage: 100e+309
+  despawnEffect: {
+    type: ParticleEffect
+    particles: 1
+    lifetime: 30
+    sizeFrom: 1000
+    sizeTo: 1000
+    colorFrom: ffffff
+    colorTo: ffffff00
   }
 }
 reloadTime: 20
