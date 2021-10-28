@@ -243,7 +243,7 @@ ammoTypes: {
     height: 7
     }
   }
-  spore: {
+  spore-pod: {
   type: BasicBulletType
   speed: 2
   height: 2
