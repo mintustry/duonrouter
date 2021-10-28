@@ -260,6 +260,7 @@ ammoTypes: {
     sizeTo: 1000
     colorFrom: ffffff
     colorTo: ffffff00
+    }
   }
 }
 reloadTime: 20
