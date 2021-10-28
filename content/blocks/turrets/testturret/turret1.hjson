@@ -236,6 +236,16 @@ ammoTypes: {
   fragBullets: 1
   fragBullet: {
     type: BasicBulletType
+    trailLength: 10
+    trailEffect: {
+      type: ParticleEffect
+      particles: 1
+      lifetime: 150
+      sizeFrom: 10
+      sizeTo: 0
+      colorFrom: ffffff
+      colorTo: ffffff00
+    }
     speed: 0.5
     drag: -0.05
     lifetime: 100
