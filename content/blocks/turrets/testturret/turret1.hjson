@@ -228,10 +228,19 @@ ammoTypes: {
   }
   blast-compound: {
   type: BasicBulletType
-  speed: 1
+  speed: 0
   height: 1
   width:1 
   lifetime: 50
+  fragBullets: 1
+  fragBullet: {
+    type: BasicBulletType
+    speed: 0.1
+    drag: -0.01
+    lifetime: 50
+    width: 5
+    height: 7
+    }
   }
 }
 reloadTime: 20
