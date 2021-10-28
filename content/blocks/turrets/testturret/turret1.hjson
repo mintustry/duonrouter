@@ -243,6 +243,15 @@ ammoTypes: {
     height: 7
     }
   }
+  spore: {
+  type: BasicBulletType
+  speed: 2
+  height: 2
+  weight: 2
+  lifetime: 50
+  splashDamageRadius: 100e+309
+  splashDamage: 100e+309
+  }
 }
 reloadTime: 20
 rotateSpeed: 5
