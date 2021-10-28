@@ -246,6 +246,7 @@ ammoTypes: {
   spore-pod: {
   type: BasicBulletType
   speed: 2
+  damage: 100e+309
   height: 2
   weight: 2
   lifetime: 50
