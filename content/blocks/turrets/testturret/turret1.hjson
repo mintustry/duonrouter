@@ -232,20 +232,6 @@ ammoTypes: {
   height: 1
   width:1 
   lifetime: 50
-  fragCone: 0
-  fragBullets: 1
-  fragBullet: {
-    type: BasicBulletType
-    speed: 0.5
-    drag: -0.05
-    lifetime: 100
-    width: 5
-    height: 7
-    pierceCap: 10
-    pierce: true
-    pierceBuilding: true
-    sprite: "duo-n-router-arrow-bullet"
-    }
   }
   spore-pod: {
   type: BasicBulletType
