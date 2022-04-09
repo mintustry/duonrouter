@@ -35,7 +35,7 @@ name: plasma-pulse
       lifetime: 10
       lightning: 5
       lightningLength: 10
-      lightningLengthRand
+      lightningLengthRand: 5
       lightningDamage: 50
       }
     }
