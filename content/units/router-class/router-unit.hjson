@@ -3,7 +3,7 @@ description: rounter
 type: mech
 speed: 0.4
 hitSize: 10
-health: 485
+health: 100000
 details: context1
 weapons:[
 {
@@ -16,10 +16,10 @@ name: plasma-pulse
   shootY: 6
   bullet: {
     damage: 99999
-    speed: 4
+    speed: 10
     lifetime: 25
     width: 7.5
-    height: 10
+    height: 7.5
     frontColor: 5bc8df
     backColor: 2e9fb5
     }
