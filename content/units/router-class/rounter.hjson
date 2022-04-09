@@ -25,6 +25,8 @@ name: plasma-pulse
     height: 7.5
     frontColor: 5bc8df
     backColor: 2e9fb5
+    collidesTiles: true
+    collidesGround:true
     }
   }
 ]
