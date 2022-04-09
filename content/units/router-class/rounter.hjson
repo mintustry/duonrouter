@@ -15,7 +15,10 @@ name: plasma-pulse
   shootX: -1
   shootY: 6
   bullet: {
+    type: FlakBulletType
     damage: 99999
+    explodeRange: 50
+    explodeDamage: 0
     speed: 10
     lifetime: 25
     width: 7.5
