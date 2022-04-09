@@ -29,10 +29,11 @@ name: plasma-pulse
     lightningLength: 10
     lightningLengthRand: 5
     lightningDamage: 500
-    lightningType:
+    lightningType: {
       damage: 10
       speed: 3
       lifetime: 10
+      }
     }
   }
 ]
