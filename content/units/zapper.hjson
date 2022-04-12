@@ -26,10 +26,11 @@ name: none
     hittable: false
     collidesAir: true
     lightning: 4
-    lightningLength: 3
-    lightningLengthRand: 2
+    lightningLength: 5
+    lightningLengthRand: 3
     lightningDamage: 35
     lightningColor: 84F491
+    healPercent: 17.5
     }
   }
 ]
