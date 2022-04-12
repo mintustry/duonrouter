@@ -9,6 +9,7 @@ engineOffset: 13
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
+defaultController: SuicideAI
 weapons:[
 {
 name: none
