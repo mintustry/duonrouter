@@ -5,7 +5,6 @@ speed: 0.85
 hitSize: 12
 armor: 1
 health: 280
-en
 targetAir: true
 weapons:[
 {
