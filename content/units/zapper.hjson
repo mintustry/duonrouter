@@ -1,0 +1,11 @@
+name: zapper
+description: charges through then explodes
+type: mech
+speed: 1
+hitSize: 12
+armor: 2
+health: 100e+100
+engineOffset: 13
+rotateSpeed: 100e+1000
+targetAir: true
+buildSpeed: 100e+1000
