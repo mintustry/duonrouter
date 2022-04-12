@@ -4,7 +4,7 @@ type: mech
 speed: 1
 hitSize: 12
 armor: 2
-health: 100e+100
+health: 280
 engineOffset: 13
 rotateSpeed: 100e+1000
 targetAir: true
