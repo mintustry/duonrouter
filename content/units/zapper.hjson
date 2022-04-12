@@ -15,7 +15,7 @@ name: none
   mirror: false
   shootOnDeath: true
   reload: 24
-  bullets: {
+  bullet: {
     type: BombBulletType
     splashDamageRadius: 35
     speed: 1
