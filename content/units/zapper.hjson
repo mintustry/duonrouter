@@ -1,11 +1,37 @@
 name: zapper
-description: charges through then explodes
+description: charges and tanks through then explodes 
 type: mech
-speed: 1
+speed: 0.85
 hitSize: 12
-armor: 2
+armor: 1
 health: 280
 engineOffset: 13
 rotateSpeed: 100e+1000
 targetAir: true
 buildSpeed: 100e+1000
+weapons:[
+{
+name: none
+  mirror: false
+  shootOnDeath: true
+  reload: 24
+  bullets: {
+    type: BombBulletType
+    splashDamageRadius: 35
+    speed: 1
+    lifetime: 10
+    instantDisappear: true
+    splashDamage: 85
+    killShooter: true
+    hittable: false
+    collidesAir: true
+    lightning: 4
+    lightningLength: 3
+    lightningLengthRand: 2
+    lightningDamage: 35
+    lightningColor: 84F491
+    }
+  }
+]
+  
+  
