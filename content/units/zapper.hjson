@@ -5,11 +5,8 @@ speed: 0.85
 hitSize: 12
 armor: 1
 health: 280
-engineOffset: 13
-rotateSpeed: 100e+1000
+en
 targetAir: true
-buildSpeed: 100e+1000
-defaultController: SuicideAI
 weapons:[
 {
 name: none
